@@ -1,0 +1,949 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_nace,clase_empleado,profesion,escolaridad,codigo_dane
+2011-01-01,valle,cali (ct),sabado,05:30:00,san carlos e11,urbana,vias publicas,arma de fuego,a pie,a pie,21,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-01-01,valle,cali (ct),sabado,10:00:00,pizamos i e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,13,masculino,soltero,colombia,estudiante,no reportado,primaria,76001000
+2011-01-01,valle,cali (ct),sabado,12:00:00,brisas de los alamos e2,urbana,vias publicas,no reportado,a pie,a pie,64,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-01-01,valle,cali (ct),sabado,14:00:00,santa fe e8,urbana,vias publicas,arma de fuego,a pie,a pie,45,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-01,valle,cali (ct),sabado,19:00:00,el vergel e13,urbana,vias publicas,contundentes,a pie,a pie,57,femenino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-01-01,valle,cali (ct),sabado,21:00:00,diamante e13,urbana,vias publicas,arma blanca,a pie,a pie,20,masculino,soltero,colombia,empleado policial,policia,secundaria,76001000
+2011-01-01,valle,cali (ct),sabado,21:30:00,inv. cinta sardi e13,urbana,vias publicas,arma de fuego,a pie,a pie,21,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-01-01,valle,cali (ct),sabado,22:00:00,manuela beltran e14,urbana,vias publicas,arma de fuego,a pie,a pie,46,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-01-02,valle,cali (ct),domingo,14:00:00,las orquideas e14,urbana,vias publicas,no reportado,a pie,a pie,51,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-01-02,valle,cali (ct),domingo,17:00:00,via la buitrera e18,rural,vias publicas,contundentes,a pie,a pie,39,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-03,valle,cali (ct),lunes,12:00:00,aguablanca e11,urbana,vias publicas,contundentes,a pie,a pie,45,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-03,valle,cali (ct),lunes,22:00:00,republica israel e16,urbana,vias publicas,no reportado,a pie,a pie,51,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-01-04,valle,cali (ct),martes,00:00:00,atanasio girardot e8,urbana,dentro de la vivienda,no reportado,a pie,a pie,51,femenino,casado,colombia,comerciante,no reportado,tecnico,76001000
+2011-01-04,valle,cali (ct),martes,01:00:00,el limonar e17,urbana,casas de habitacion,no reportado,a pie,a pie,24,femenino,union libre,colombia,estudiante,no reportado,superior,76001000
+2011-01-04,valle,cali (ct),martes,09:00:00,san luis ii e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,39,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-01-05,valle,cali (ct),miercoles,11:00:00,calimio desepaz e21,urbana,local comercial,contundentes,a pie,a pie,45,femenino,soltero,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-05,valle,cali (ct),miercoles,11:09:00,nueva tequendama e19,urbana,centro comercial,no reportado,a pie,a pie,61,femenino,viudo,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-06,valle,cali (ct),jueves,02:30:00,calimio desepaz e21,urbana,vias publicas,contundentes,a pie,a pie,16,masculino,soltero,colombia,estudiante,no reportado,primaria,76001000
+2011-01-06,valle,cali (ct),jueves,13:00:00,manantial e21,urbana,casas de habitacion,no reportado,a pie,a pie,37,femenino,separado,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-06,valle,cali (ct),jueves,20:48:00,los comuneros ii e13,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-01-07,valle,cali (ct),viernes,12:50:00,la nueva base e8,urbana,vias publicas,no reportado,a pie,a pie,30,masculino,soltero,colombia,empleado policial,policia,tecnico,76001000
+2011-01-07,valle,cali (ct),viernes,14:00:00,desepaz invicali e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,39,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-01-07,valle,cali (ct),viernes,22:30:00,manantial e21,urbana,casas de habitacion,no reportado,a pie,a pie,14,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-01-08,valle,cali (ct),sabado,14:00:00,alfonso lopez i e7,urbana,instalaciones de la policia,no reportado,a pie,a pie,23,masculino,union libre,colombia,empleado policial,no reportado,secundaria,76001000
+2011-01-09,valle,cali (ct),domingo,02:00:00,antonio narino e16,urbana,vias publicas,arma de fuego,a pie,a pie,50,femenino,soltero,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-09,valle,cali (ct),domingo,15:00:00,terron colorado e1,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,37,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-01-09,valle,cali (ct),domingo,21:00:00,alfonso lopez iii e7,urbana,casas de habitacion,arma de fuego,a pie,a pie,42,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-10,valle,cali (ct),lunes,15:00:00,caney e17,urbana,casas de habitacion,no reportado,a pie,a pie,25,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-01-10,valle,cali (ct),lunes,20:00:00,republica israel e16,urbana,vias publicas,no reportado,a pie,a pie,27,masculino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-01-12,valle,cali (ct),miercoles,10:00:00,champagnat e19,urbana,casas de habitacion,no reportado,a pie,a pie,24,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-01-12,valle,cali (ct),miercoles,11:48:00,prados del sur e18,urbana,casas de habitacion,no reportado,a pie,a pie,26,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-12,valle,cali (ct),miercoles,16:00:00,el guabal e10,urbana,vias publicas,contundentes,a pie,a pie,28,masculino,soltero,colombia,empleado particular,no reportado,primaria,76001000
+2011-01-14,valle,cali (ct),viernes,22:00:00,los guayacanes e5,urbana,casas de habitacion,arma de fuego,a pie,a pie,54,masculino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-01-14,valle,cali (ct),viernes,22:00:00,los guayacanes e5,urbana,casas de habitacion,arma de fuego,a pie,a pie,62,masculino,union libre,colombia,independiente,no reportado,analfabeta,76001000
+2011-01-15,valle,cali (ct),sabado,21:30:00,jose holguin garces e11,urbana,dentro de la vivienda,contundentes,a pie,a pie,38,masculino,soltero,colombia,empleado particular,abogado,superior,76001000
+2011-01-15,valle,cali (ct),sabado,21:30:00,jose holguin garces e11,urbana,vias publicas,contundentes,a pie,a pie,33,femenino,soltero,colombia,empleado particular,no reportado,tecnologo,76001000
+2011-01-17,valle,cali (ct),lunes,20:30:00,cementerio carabineros e20,urbana,casas de habitacion,no reportado,no reportado,a pie,44,femenino,union libre,colombia,ama de casa,no reportado,tecnico,76001000
+2011-01-18,valle,cali (ct),martes,09:30:00,las orquideas e14,urbana,vias publicas,no reportado,a pie,a pie,42,femenino,soltero,no reportado,empleado particular,no reportado,primaria,76001000
+2011-01-18,valle,cali (ct),martes,11:45:00,canaveralejo e20,urbana,vias publicas,no reportado,a pie,a pie,28,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-19,valle,cali (ct),miercoles,12:00:00,departamental e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,39,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-01-19,valle,cali (ct),miercoles,16:00:00,terron colorado e1,urbana,casas de habitacion,no reportado,a pie,a pie,34,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-01-19,valle,cali (ct),miercoles,17:00:00,los parques e5,urbana,,no reportado,a pie,a pie,52,masculino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-01-19,valle,cali (ct),miercoles,23:00:00,los comuneros ii e13,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,50,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-01-20,valle,cali (ct),jueves,17:15:00,union de vivienda popular e16,urbana,vias publicas,arma de fuego,a pie,a pie,33,masculino,union libre,no reportado,desempleado,no reportado,secundaria,76001000
+2011-01-21,valle,cali (ct),viernes,12:00:00,ulpiano lloreda e13,urbana,casas de habitacion,no reportado,a pie,a pie,45,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-21,valle,cali (ct),viernes,18:30:00,canaveralejo guadalupe e19,urbana,vias publicas,arma de fuego,a pie,a pie,40,masculino,soltero,colombia,empleado particular,no reportado,primaria,76001000
+2011-01-22,valle,cali (ct),sabado,13:30:00,,urbana,bancos,no reportado,a pie,a pie,30,masculino,union libre,colombia,empleado particular,no reportado,tecnico,76001000
+2011-01-23,valle,cali (ct),domingo,04:00:00,,rural,vias publicas,no reportado,a pie,a pie,56,masculino,soltero,colombia,empleado particular,no reportado,primaria,76001000
+2011-01-24,valle,cali (ct),lunes,08:25:00,tequendama e19,urbana,instalaciones judiciales,no reportado,a pie,a pie,46,masculino,union libre,colombia,independiente,abogado,superior,76001000
+2011-01-24,valle,cali (ct),lunes,21:30:00,los guaduales e6,urbana,parques,no reportado,a pie,a pie,22,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-01-25,valle,cali (ct),martes,11:00:00,la fortaleza e11,urbana,casas de habitacion,no reportado,a pie,a pie,32,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-25,valle,cali (ct),martes,13:00:00,la rivera e5,urbana,oficinas,no reportado,a pie,a pie,46,masculino,casado,colombia,empleado policial,policia,secundaria,76001000
+2011-01-25,valle,cali (ct),martes,23:01:00,ricardo balcazar e13,urbana,casas de habitacion,contundentes,a pie,a pie,20,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-01-26,valle,cali (ct),miercoles,10:00:00,manuela beltran e14,urbana,casas de habitacion,no reportado,a pie,a pie,37,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-01-26,valle,cali (ct),miercoles,14:30:00,cristobal colon e10,urbana,,no reportado,a pie,a pie,25,femenino,soltero,colombia,empleado salud,no reportado,tecnico,76001000
+2011-01-26,valle,cali (ct),miercoles,16:30:00,el refugio e19,urbana,vias publicas,no reportado,a pie,a pie,17,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-01-26,valle,cali (ct),miercoles,19:00:00,colseguros andes e10,urbana,bomba de gasolina,contundentes,a pie,a pie,26,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-27,valle,cali (ct),jueves,00:00:00,sucre e9,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-01-27,valle,cali (ct),jueves,00:00:00,juanambu e2,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-01-28,valle,cali (ct),viernes,18:00:00,las ceibas e7,urbana,casas de habitacion,no reportado,a pie,a pie,40,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-01-29,valle,cali (ct),sabado,11:00:00,diamante e13,urbana,vias publicas,no reportado,a pie,a pie,58,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-01-30,valle,cali (ct),domingo,18:50:00,villa del prado e5,urbana,vias publicas,no reportado,a pie,a pie,26,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-01-31,valle,cali (ct),lunes,16:00:00,el penon e3,urbana,casas de habitacion,no reportado,a pie,a pie,43,femenino,soltero,colombia,empleado particular,odontologo,superior,76001000
+2011-02-01,valle,cali (ct),martes,00:00:00,obrero e9,urbana,oficinas,arma de fuego,a pie,a pie,45,masculino,casado,colombia,politico,no reportado,secundaria,76001000
+2011-02-01,valle,cali (ct),martes,00:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,42,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-01,valle,cali (ct),martes,07:00:00,nueva floresta e12,urbana,"colegios, escuelas",no reportado,conductor motocicleta,a pie,48,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-01,valle,cali (ct),martes,10:00:00,versalles e2,urbana,clinicas y similares,arma de fuego,a pie,a pie,24,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-02-01,valle,cali (ct),martes,15:00:00,santa elena e10,urbana,,arma de fuego,a pie,a pie,28,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-02-01,valle,cali (ct),martes,16:50:00,villacolombia e8,urbana,vias publicas,arma de fuego,a pie,a pie,58,masculino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-02-02,valle,cali (ct),miercoles,09:30:00,ciudadela floralia e6,urbana,vias publicas,arma de fuego,a pie,a pie,34,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-03,valle,cali (ct),jueves,10:00:00,villacolombia,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,masculino,union libre,colombia,desempleado,no reportado,superior,76001000
+2011-02-03,valle,cali (ct),jueves,15:00:00,melendez e18,urbana,vias publicas,arma de fuego,a pie,a pie,28,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-02-04,valle,cali (ct),viernes,00:00:00,terron colorado e1,urbana,vias publicas,no reportado,a pie,a pie,47,femenino,union libre,no reportado,desempleado,no reportado,primaria,76001000
+2011-02-05,valle,cali (ct),sabado,08:30:00,salomia e4,urbana,vias publicas,contundentes,a pie,a pie,35,masculino,union libre,colombia,empleado particular,administrador de empresas,superior,76001000
+2011-02-05,valle,cali (ct),sabado,17:30:00,olimpico e10,urbana,vias publicas,arma de fuego,a pie,a pie,25,femenino,soltero,colombia,empleado salud,fisioterapeuta,superior,76001000
+2011-02-06,valle,cali (ct),domingo,09:30:00,el guabal e10,urbana,dentro de la vivienda,contundentes,a pie,a pie,28,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-07,valle,cali (ct),lunes,18:00:00,metropolitano del norte e5,urbana,casas de habitacion,no reportado,a pie,a pie,47,masculino,union libre,colombia,desempleado,no reportado,superior,76001000
+2011-02-09,valle,cali (ct),miercoles,12:40:00,la rivera e5,urbana,casas de habitacion,no reportado,a pie,a pie,26,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-02-09,valle,cali (ct),miercoles,15:00:00,manuela beltran e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,30,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-02-09,valle,cali (ct),miercoles,16:59:00,chiminangos i e5,urbana,casas de habitacion,no reportado,a pie,a pie,26,masculino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-02-11,valle,cali (ct),viernes,08:00:00,ciudad jardin e22,urbana,local comercial,arma de fuego,a pie,a pie,46,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-02-11,valle,cali (ct),viernes,12:00:00,paso del comercio e6,urbana,dentro de la vivienda,no reportado,a pie,a pie,41,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-02-11,valle,cali (ct),viernes,17:00:00,desepaz invicali e21,urbana,vias publicas,arma de fuego,a pie,a pie,61,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-02-12,valle,cali (ct),sabado,14:00:00,el retiro e15,urbana,vias publicas,arma de fuego,a pie,a pie,47,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-02-13,valle,cali (ct),domingo,00:00:00,villa luz e21,urbana,vias publicas,arma de fuego,a pie,a pie,44,femenino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-13,valle,cali (ct),domingo,10:00:00,torres de confandi e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,30,femenino,viudo,colombia,ama de casa,no reportado,secundaria,76001000
+2011-02-13,valle,cali (ct),domingo,14:45:00,alfonso b. aragon e14,urbana,vias publicas,contundentes,a pie,a pie,23,femenino,viudo,colombia,independiente,no reportado,secundaria,76001000
+2011-02-14,valle,cali (ct),lunes,10:00:00,los chorros e18,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-02-14,valle,cali (ct),lunes,10:00:00,pizamos ii e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-02-14,valle,cali (ct),lunes,15:00:00,ciudad capri e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-02-14,valle,cali (ct),lunes,17:00:00,quintas de salomia e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,18,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-02-15,valle,cali (ct),martes,10:00:00,pance e22,urbana,dentro de la vivienda,no reportado,a pie,a pie,46,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-02-15,valle,cali (ct),martes,11:30:00,versalles e2,urbana,vias publicas,no reportado,conductor motocicleta,a pie,50,masculino,casado,colombia,independiente,abogado,superior,76001000
+2011-02-15,valle,cali (ct),martes,15:30:00,tequendama e19,urbana,oficinas,no reportado,a pie,a pie,31,masculino,casado,colombia,empleado publico,administrador de empresas,superior,76001000
+2011-02-15,valle,cali (ct),martes,16:00:00,obrero e9,urbana,vias publicas,no reportado,a pie,a pie,39,masculino,casado,no reportado,empleado particular,no reportado,secundaria,76001000
+2011-02-15,valle,cali (ct),martes,17:00:00,san fernando nuevo e19,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,25,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-02-15,valle,cali (ct),martes,17:30:00,benjamin herrera e8,urbana,casas de habitacion,contundentes,a pie,a pie,23,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-02-15,valle,cali (ct),martes,22:10:00,el cedro e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,63,masculino,soltero,colombia,empleado particular,comunicador socialno reportadoperiodista,superior,76001000
+2011-02-16,valle,cali (ct),miercoles,10:00:00,la hacienda e17,urbana,vias publicas,arma de fuego,a pie,a pie,18,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-02-17,valle,cali (ct),jueves,07:00:00,santa rita e2,urbana,casas de habitacion,arma de fuego,a pie,a pie,26,femenino,casado,colombia,empleado salud,no reportado,secundaria,76001000
+2011-02-17,valle,cali (ct),jueves,12:00:00,san pedro claver e11,urbana,casas de habitacion,no reportado,a pie,a pie,27,femenino,soltero,colombia,independiente,no reportado,tecnologo,76001000
+2011-02-17,valle,cali (ct),jueves,17:00:00,potrero grande e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,44,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-02-18,valle,cali (ct),viernes,10:00:00,alto napoles e18,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,femenino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-02-18,valle,cali (ct),viernes,10:15:00,santo domingo e10,urbana,casas de habitacion,no reportado,a pie,a pie,27,masculino,union libre,colombia,empleado particular,ingeniero de sistemas,superior,76001000
+2011-02-18,valle,cali (ct),viernes,17:30:00,el retiro e15,urbana,vias publicas,no reportado,a pie,a pie,42,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-02-18,valle,cali (ct),viernes,20:00:00,bosques del limonar e17,urbana,,arma de fuego,a pie,a pie,38,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-02-20,valle,cali (ct),domingo,07:00:00,colseguros andes e10,urbana,casas de habitacion,no reportado,a pie,a pie,41,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-02-20,valle,cali (ct),domingo,07:00:00,colseguros andes e10,urbana,casas de habitacion,no reportado,a pie,a pie,44,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-02-20,valle,cali (ct),domingo,20:00:00,diamante e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-02-20,valle,cali (ct),domingo,20:30:00,charco azul e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,42,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-02-20,valle,cali (ct),domingo,22:00:00,santa fe e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-02-20,valle,cali (ct),domingo,22:00:00,alfonso b. aragon e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,77,femenino,viudo,colombia,ama de casa,no reportado,secundaria,76001000
+2011-02-21,valle,cali (ct),lunes,17:30:00,belalcazar e9,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,15,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-02-21,valle,cali (ct),lunes,20:00:00,santa monica popular e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,22,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-02-22,valle,cali (ct),martes,17:30:00,la rivera e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,55,masculino,union libre,colombia,desempleado,no reportado,superior,76001000
+2011-02-22,valle,cali (ct),martes,19:30:00,potrero grande e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,21,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-02-23,valle,cali (ct),miercoles,09:00:00,san pedro e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,femenino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-02-23,valle,cali (ct),miercoles,09:00:00,pampa linda e19,urbana,universidades,arma de fuego,a pie,a pie,44,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-02-23,valle,cali (ct),miercoles,12:45:00,los comuneros i e15,urbana,vias publicas,arma de fuego,a pie,a pie,57,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-02-23,valle,cali (ct),miercoles,20:08:00,la merced e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,52,femenino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-02-24,valle,cali (ct),jueves,16:30:00,san pedro e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,61,femenino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-02-24,valle,cali (ct),jueves,18:00:00,los comuneros i e15,urbana,vias publicas,arma de fuego,a pie,a pie,42,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-02-25,valle,cali (ct),viernes,07:50:00,ciudad cordoba e15,urbana,casas de habitacion,arma de fuego,a pie,a pie,31,masculino,soltero,colombia,comerciante,no reportado,primaria,76001000
+2011-02-25,valle,cali (ct),viernes,11:00:00,ciudadela floralia e6,urbana,dentro de la vivienda,contundentes,a pie,a pie,48,masculino,viudo,colombia,independiente,no reportado,secundaria,76001000
+2011-02-25,valle,cali (ct),viernes,23:10:00,pampa linda e19,urbana,,arma de fuego,a pie,vehiculo,53,femenino,soltero,colombia,empleado particular,abogado,superior,76001000
+2011-02-26,valle,cali (ct),sabado,09:30:00,el guabal e10,urbana,casas de habitacion,no reportado,a pie,a pie,63,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-26,valle,cali (ct),sabado,14:00:00,san judas tadeo i e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,40,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-02-26,valle,cali (ct),sabado,15:00:00,calimio desepaz e21,urbana,vias publicas,arma de fuego,a pie,a pie,44,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-02-26,valle,cali (ct),sabado,18:04:00,los guayacanes e5,urbana,local comercial,no reportado,a pie,a pie,34,masculino,soltero,colombia,independiente,administrador de empresas,superior,76001000
+2011-02-26,valle,cali (ct),sabado,21:00:00,el vergel e13,urbana,vias publicas,arma de fuego,a pie,a pie,32,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-02-27,valle,cali (ct),domingo,02:57:00,brisas de los alamos e2,urbana,vias publicas,no reportado,a pie,a pie,28,masculino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-02-27,valle,cali (ct),domingo,20:10:00,los parques e5,urbana,casas de habitacion,no reportado,a pie,a pie,78,masculino,separado,colombia,independiente,no reportado,primaria,76001000
+2011-02-28,valle,cali (ct),lunes,10:00:00,compartir e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,18,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-02-28,valle,cali (ct),lunes,11:05:00,san pedro e3,urbana,oficinas,no reportado,a pie,a pie,42,masculino,soltero,colombia,empleado particular,administrador de empresas,superior,76001000
+2011-02-28,valle,cali (ct),lunes,17:08:00,quintas de salomia e6,urbana,casas de habitacion,no reportado,a pie,a pie,20,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-02-28,valle,cali (ct),lunes,19:00:00,alameda e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-03-01,valle,cali (ct),martes,08:30:00,los guaduales e6,urbana,"colegios, escuelas",no reportado,a pie,a pie,56,femenino,viudo,colombia,empleado publico,no reportado,superior,76001000
+2011-03-01,valle,cali (ct),martes,10:00:00,lleras restrepo e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,53,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-03-01,valle,cali (ct),martes,10:10:00,antonio narino e16,urbana,,arma de fuego,a pie,a pie,59,femenino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-03-01,valle,cali (ct),martes,10:15:00,manuela beltran e14,urbana,vias publicas,no reportado,a pie,a pie,47,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-03-01,valle,cali (ct),martes,17:00:00,ciudadela confandi e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,29,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-01,valle,cali (ct),martes,17:26:00,lili e17,urbana,casas de habitacion,no reportado,a pie,a pie,39,masculino,casado,colombia,empleado publico,no reportado,secundaria,76001000
+2011-03-01,valle,cali (ct),martes,21:30:00,caney e17,urbana,conjunto residencial,no reportado,a pie,a pie,28,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-02,valle,cali (ct),miercoles,05:10:00,alfonso b. aragon e14,urbana,,arma de fuego,a pie,a pie,38,femenino,soltero,no reportado,ama de casa,no reportado,secundaria,76001000
+2011-03-02,valle,cali (ct),miercoles,15:00:00,porvenir e4,urbana,oficinas,no reportado,a pie,a pie,54,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-03,valle,cali (ct),jueves,06:39:00,primero de mayo e17,urbana,vias publicas,no reportado,a pie,a pie,18,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-03-03,valle,cali (ct),jueves,10:00:00,jose m. marroquin ii e14,urbana,vias publicas,no reportado,a pie,a pie,12,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-03-03,valle,cali (ct),jueves,11:30:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,33,femenino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-03,valle,cali (ct),jueves,23:00:00,el guabal e10,urbana,casas de habitacion,arma de fuego,a pie,a pie,62,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,12:23:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,18,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,14:00:00,atanasio girardot e8,urbana,vias publicas,no reportado,a pie,a pie,23,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,15:30:00,ciudad cordoba e15,urbana,casas de habitacion,arma de fuego,a pie,a pie,33,femenino,separado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,16:00:00,santa elena e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,30,masculino,soltero,no reportado,independiente,no reportado,tecnico,76001000
+2011-03-04,valle,cali (ct),viernes,16:00:00,pance e22,urbana,estadero,no reportado,a pie,a pie,40,masculino,union libre,colombia,empleado particular,no reportado,tecnico,76001000
+2011-03-04,valle,cali (ct),viernes,17:00:00,diamante e13,urbana,vias publicas,no reportado,a pie,a pie,42,masculino,casado,no reportado,comerciante,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,17:30:00,la base,urbana,casas de habitacion,no reportado,a pie,a pie,42,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,18:00:00,paso del comercio e6,urbana,vias publicas,no reportado,a pie,a pie,62,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-04,valle,cali (ct),viernes,18:00:00,paso del comercio e6,urbana,vias publicas,no reportado,a pie,a pie,62,femenino,union libre,colombia,desempleado,no reportado,superior,76001000
+2011-03-04,valle,cali (ct),viernes,18:00:00,paso del comercio e6,urbana,vias publicas,no reportado,a pie,a pie,64,masculino,casado,colombia,desempleado,no reportado,primaria,76001000
+2011-03-04,valle,cali (ct),viernes,19:11:00,el ingenio e17,urbana,dentro de la vivienda,no reportado,a pie,a pie,26,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-03-04,valle,cali (ct),viernes,19:30:00,san luis e6,urbana,casas de habitacion,no reportado,a pie,a pie,35,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-03-04,valle,cali (ct),viernes,20:00:00,cgto montebello e1,rural,vias publicas,arma de fuego,a pie,a pie,18,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-03-05,valle,cali (ct),sabado,00:00:00,,urbana,vias publicas,arma de fuego,a pie,a pie,27,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-05,valle,cali (ct),sabado,03:00:00,cgto montebello e1,urbana,casas de habitacion,arma de fuego,a pie,a pie,56,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-03-05,valle,cali (ct),sabado,10:22:00,alto aguacatal e1,urbana,vias publicas,no reportado,a pie,a pie,52,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-03-05,valle,cali (ct),sabado,11:10:00,ciudad cordoba e15,urbana,casas de habitacion,no reportado,a pie,a pie,22,femenino,casado,no reportado,ama de casa,no reportado,primaria,76001000
+2011-03-05,valle,cali (ct),sabado,14:20:00,ciudad modelo e11,urbana,casas de habitacion,no reportado,vehiculo,a pie,43,femenino,divorciado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-06,valle,cali (ct),domingo,15:00:00,urb. tequendama e19,urbana,casas de habitacion,no reportado,a pie,a pie,29,femenino,soltero,no reportado,comerciante,no reportado,secundaria,76001000
+2011-03-06,valle,cali (ct),domingo,15:00:00,paz e13,urbana,vias publicas,no reportado,a pie,a pie,52,femenino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-03-07,valle,cali (ct),lunes,10:00:00,juanambu e2,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,49,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-03-07,valle,cali (ct),lunes,11:30:00,union de vivienda popular e16,urbana,casas de habitacion,no reportado,a pie,a pie,35,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-07,valle,cali (ct),lunes,12:40:00,los cambulos e19,urbana,vias publicas,no reportado,a pie,a pie,33,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-07,valle,cali (ct),lunes,14:00:00,pance e22,urbana,vias publicas,contundentes,a pie,a pie,43,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-07,valle,cali (ct),lunes,16:00:00,san nicolas e3,urbana,hospitales,no reportado,a pie,a pie,26,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-03-07,valle,cali (ct),lunes,16:11:00,villa del sur e11,urbana,casas de habitacion,no reportado,a pie,a pie,33,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-03-08,valle,cali (ct),martes,11:00:00,palmeras del norte  e5,urbana,oficinas,no reportado,vehiculo,a pie,45,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-08,valle,cali (ct),martes,16:00:00,normandia e2,urbana,vias publicas,no reportado,a pie,a pie,39,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-08,valle,cali (ct),martes,23:30:00,,urbana,casas de habitacion,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-09,valle,cali (ct),miercoles,11:00:00,sector transito mpal e5,urbana,,no reportado,a pie,a pie,51,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-09,valle,cali (ct),miercoles,13:19:00,versalles e2,urbana,local comercial,no reportado,a pie,a pie,55,femenino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-03-09,valle,cali (ct),miercoles,13:45:00,nueva floresta e12,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,55,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-03-09,valle,cali (ct),miercoles,17:30:00,el ingenio e17,urbana,casas de habitacion,no reportado,a pie,a pie,27,femenino,soltero,colombia,empleado particular,publicista,superior,76001000
+2011-03-09,valle,cali (ct),miercoles,20:30:00,jose m. marroquin ii e14,urbana,vias publicas,no reportado,a pie,a pie,37,masculino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-03-10,valle,cali (ct),jueves,10:37:00,vallado e15,urbana,casas de habitacion,no reportado,a pie,a pie,18,femenino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-03-10,valle,cali (ct),jueves,17:30:00,santa clara e10,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-03-10,valle,cali (ct),jueves,19:17:00,desepaz invicali e21,urbana,casas de habitacion,no reportado,a pie,a pie,43,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-03-11,valle,cali (ct),viernes,00:00:00,primavera e11,urbana,dentro de la vivienda,no reportado,a pie,a pie,49,femenino,divorciado,colombia,independiente,no reportado,primaria,76001000
+2011-03-11,valle,cali (ct),viernes,14:00:00,las granjas e10,urbana,vias publicas,arma de fuego,a pie,a pie,28,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-12,valle,cali (ct),sabado,00:00:00,san cayetano e3,urbana,casas de habitacion,no reportado,a pie,a pie,60,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-12,valle,cali (ct),sabado,11:00:00,desepaz invicali e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,46,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-03-12,valle,cali (ct),sabado,12:00:00,los guayacanes e5,urbana,vias publicas,arma de fuego,a pie,a pie,42,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-12,valle,cali (ct),sabado,14:00:00,el lido e19,urbana,vias publicas,no reportado,a pie,a pie,40,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-03-12,valle,cali (ct),sabado,15:45:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,a pie,44,masculino,soltero,colombia,comerciante,no reportado,secundaria,76001000
+2011-03-12,valle,cali (ct),sabado,16:30:00,el rodeo e12,urbana,,arma de fuego,a pie,a pie,37,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-12,valle,cali (ct),sabado,19:00:00,el jardin e11,urbana,vias publicas,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,tecnico,76001000
+2011-03-12,valle,cali (ct),sabado,19:30:00,alfonso b. aragon e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,57,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-13,valle,cali (ct),domingo,08:30:00,marroquin i e14,urbana,,arma de fuego,a pie,a pie,42,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-13,valle,cali (ct),domingo,09:00:00,mojica e15,urbana,,arma de fuego,a pie,a pie,45,masculino,casado,colombia,comerciante,no reportado,primaria,76001000
+2011-03-13,valle,cali (ct),domingo,18:00:00,los lagos e13,urbana,casas de habitacion,no reportado,a pie,a pie,31,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-03-13,valle,cali (ct),domingo,21:30:00,chiminangos i e5,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,union libre,colombia,empleado particular,tecnico en mercadeo,superior,76001000
+2011-03-14,valle,cali (ct),lunes,19:40:00,jose m. marroquin ii e14,urbana,,arma de fuego,a pie,a pie,26,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-03-15,valle,cali (ct),martes,10:30:00,manzanares e4,urbana,almacenes,no reportado,a pie,a pie,25,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-15,valle,cali (ct),martes,13:40:00,sector transito mpal e5,urbana,vias publicas,arma de fuego,a pie,a pie,41,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-03-15,valle,cali (ct),martes,15:00:00,san antonio e3,urbana,vias publicas,arma de fuego,a pie,a pie,33,femenino,soltero,no reportado,independiente,no reportado,tecnico,76001000
+2011-03-15,valle,cali (ct),martes,18:30:00,siete de agosto e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,34,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-16,valle,cali (ct),miercoles,06:30:00,obrero e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,67,masculino,union libre,no reportado,sindicalista,no reportado,tecnico,76001000
+2011-03-16,valle,cali (ct),miercoles,12:00:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,60,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-03-16,valle,cali (ct),miercoles,12:10:00,siloe e20,urbana,vias publicas,arma de fuego,a pie,a pie,40,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-03-17,valle,cali (ct),jueves,09:30:00,ciudad 2000 e16,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-03-17,valle,cali (ct),jueves,12:30:00,jose m. marroquin ii e14,urbana,"colegios, escuelas",no reportado,a pie,a pie,51,femenino,casado,colombia,empleado publico,no reportado,superior,76001000
+2011-03-17,valle,cali (ct),jueves,13:00:00,chiminangos i e5,urbana,,contundentes,a pie,a pie,14,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-03-17,valle,cali (ct),jueves,13:00:00,chiminangos i e5,urbana,,contundentes,a pie,a pie,15,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-03-18,valle,cali (ct),viernes,12:00:00,san judas tadeo i e10,urbana,talleres,arma de fuego,a pie,a pie,36,masculino,union libre,no reportado,independiente,no reportado,tecnico,76001000
+2011-03-18,valle,cali (ct),viernes,19:40:00,napoles e18,urbana,local comercial,no reportado,conductor motocicleta,a pie,28,masculino,casado,colombia,independiente,fisioterapeuta,superior,76001000
+2011-03-19,valle,cali (ct),sabado,12:30:00,brisas de los alamos e2,urbana,vias publicas,no reportado,vehiculo,vehiculo,61,masculino,casado,colombia,pensionado,no reportado,tecnico,76001000
+2011-03-19,valle,cali (ct),sabado,15:30:00,siete de agosto e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,23,masculino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-03-20,valle,cali (ct),domingo,08:00:00,,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,34,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-03-20,valle,cali (ct),domingo,09:40:00,ciudadela floralia e6,urbana,casas de habitacion,no reportado,a pie,a pie,55,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-20,valle,cali (ct),domingo,19:00:00,manuela beltran e14,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,colombia,empleado policial,no reportado,secundaria,76001000
+2011-03-20,valle,cali (ct),domingo,20:30:00,siete de agosto e7,urbana,,arma de fuego,a pie,a pie,30,masculino,divorciado,colombia,independiente,no reportado,superior,76001000
+2011-03-21,valle,cali (ct),lunes,10:45:00,la flora e2,urbana,casas de habitacion,arma de fuego,a pie,a pie,77,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-21,valle,cali (ct),lunes,11:31:00,los andes e5,urbana,casas de habitacion,no reportado,a pie,a pie,48,femenino,separado,colombia,independiente,no reportado,tecnologo,76001000
+2011-03-21,valle,cali (ct),lunes,23:00:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,49,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-22,valle,cali (ct),martes,11:00:00,san pedro e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,51,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-03-22,valle,cali (ct),martes,14:00:00,el rodeo e12,urbana,vias publicas,arma de fuego,a pie,a pie,27,femenino,union libre,colombia,sindicalista,no reportado,secundaria,76001000
+2011-03-22,valle,cali (ct),martes,15:00:00,san pedro e3,urbana,vias publicas,arma de fuego,a pie,a pie,31,masculino,union libre,colombia,comerciante,no reportado,secundaria,76001000
+2011-03-23,valle,cali (ct),miercoles,03:30:00,el lido e19,urbana,restaurantes,no reportado,a pie,a pie,21,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-03-23,valle,cali (ct),miercoles,03:30:00,el lido e19,urbana,restaurantes,no reportado,a pie,a pie,34,masculino,casado,colombia,independiente,ingeniero industrial,superior,76001000
+2011-03-23,valle,cali (ct),miercoles,10:00:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,28,femenino,separado,no reportado,comerciante,no reportado,secundaria,76001000
+2011-03-24,valle,cali (ct),jueves,14:00:00,nueva floresta e12,urbana,vias publicas,arma de fuego,a pie,a pie,21,masculino,no reportado,colombia,empleado policial,no reportado,secundaria,76001000
+2011-03-24,valle,cali (ct),jueves,15:00:00,la gran colombia e11,urbana,vias publicas,no reportado,a pie,a pie,52,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-03-25,valle,cali (ct),viernes,17:00:00,jose m. marroquin ii e14,urbana,"colegios, escuelas",no reportado,a pie,a pie,62,masculino,casado,colombia,empleado publico,no reportado,superior,76001000
+2011-03-25,valle,cali (ct),viernes,18:30:00,primero de mayo e17,urbana,casas de habitacion,no reportado,a pie,a pie,22,masculino,soltero,colombia,empleado policial,policia,superior,76001000
+2011-03-27,valle,cali (ct),domingo,15:30:00,el retiro e15,urbana,vias publicas,arma de fuego,a pie,a pie,35,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-03-28,valle,cali (ct),lunes,13:00:00,el limonar e17,urbana,casas de habitacion,no reportado,a pie,a pie,28,femenino,soltero,colombia,empleado particular,psicologo,superior,76001000
+2011-03-28,valle,cali (ct),lunes,16:00:00,la rivera e5,urbana,casas de habitacion,no reportado,a pie,a pie,32,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-28,valle,cali (ct),lunes,19:15:00,prados del norte e2,urbana,conjunto residencial,no reportado,a pie,a pie,42,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-28,valle,cali (ct),lunes,22:00:00,benjamin herrera e8,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,divorciado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-29,valle,cali (ct),martes,16:15:00,primero de mayo e17,urbana,casas de habitacion,no reportado,a pie,a pie,27,femenino,soltero,colombia,empleado particular,abogado,superior,76001000
+2011-03-29,valle,cali (ct),martes,21:43:00,villa del lago e13,urbana,casas de habitacion,no reportado,a pie,a pie,33,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-03-30,valle,cali (ct),miercoles,10:00:00,san luis e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,22,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-03-30,valle,cali (ct),miercoles,11:30:00,san pedro e3,urbana,oficinas,arma de fuego,a pie,a pie,53,femenino,union libre,no reportado,empleado publico,no reportado,superior,76001000
+2011-03-30,valle,cali (ct),miercoles,18:10:00,ciudad cordoba e15,urbana,vias publicas,arma de fuego,a pie,a pie,36,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-03-31,valle,cali (ct),jueves,13:30:00,los farallones e18,urbana,,arma blanca,a pie,a pie,36,femenino,casado,no reportado,independiente,no reportado,superior,76001000
+2011-03-31,valle,cali (ct),jueves,18:59:00,san pedro e3,urbana,vias publicas,arma de fuego,a pie,a pie,35,masculino,union libre,colombia,sindicalista,no reportado,secundaria,76001000
+2011-03-31,valle,cali (ct),jueves,20:00:00,pampa linda e19,urbana,universidades,no reportado,a pie,a pie,40,masculino,casado,colombia,empleado publico,no reportado,superior,76001000
+2011-04-02,valle,cali (ct),sabado,17:32:00,melendez e18,urbana,universidades,arma de fuego,a pie,a pie,41,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-04-04,valle,cali (ct),lunes,09:00:00,unicentro cali e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,36,femenino,soltero,no reportado,empleado particular,abogado,superior,76001000
+2011-04-04,valle,cali (ct),lunes,11:15:00,santa teresita e2,urbana,oficinas,no reportado,a pie,a pie,39,masculino,casado,colombia,empleado particular,administrador de empresas,superior,76001000
+2011-04-05,valle,cali (ct),martes,09:04:00,primero de mayo e17,urbana,apartamento en conjunto cerrado,no reportado,a pie,a pie,30,masculino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-04-06,valle,cali (ct),miercoles,07:10:00,pampa linda e19,urbana,universidades,no reportado,a pie,a pie,39,masculino,casado,colombia,empleado publico,economista,superior,76001000
+2011-04-06,valle,cali (ct),miercoles,15:00:00,el ingenio e17,urbana,casas de habitacion,no reportado,a pie,a pie,28,masculino,union libre,colombia,empleado salud,no reportado,tecnico,76001000
+2011-04-07,valle,cali (ct),jueves,07:00:00,ciudad modelo e11,urbana,casas de habitacion,no reportado,a pie,a pie,54,femenino,soltero,colombia,pensionado,no reportado,secundaria,76001000
+2011-04-07,valle,cali (ct),jueves,19:00:00,valle del lili e17,urbana,casas de habitacion,no reportado,a pie,a pie,58,femenino,soltero,colombia,educador,licenciado,superior,76001000
+2011-04-08,valle,cali (ct),viernes,08:00:00,marroquin i e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,49,femenino,divorciado,colombia,independiente,no reportado,secundaria,76001000
+2011-04-08,valle,cali (ct),viernes,13:16:00,metropolitano del norte e5,urbana,casas de habitacion,no reportado,a pie,a pie,35,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-04-08,valle,cali (ct),viernes,15:20:00,vipasa e2,urbana,vias publicas,arma de fuego,a pie,a pie,19,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-04-08,valle,cali (ct),viernes,18:30:00,jose m. marroquin ii e14,urbana,vias publicas,no reportado,a pie,a pie,26,masculino,casado,colombia,empleado policial,no reportado,secundaria,76001000
+2011-04-09,valle,cali (ct),sabado,10:30:00,san pedro e3,urbana,oficinas,arma de fuego,a pie,a pie,34,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-04-09,valle,cali (ct),sabado,10:50:00,el jardin,urbana,centro comercial,no reportado,a pie,a pie,46,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-04-09,valle,cali (ct),sabado,17:00:00,ciudadela floralia e6,urbana,casas de habitacion,no reportado,a pie,a pie,51,masculino,casado,colombia,educador,no reportado,secundaria,76001000
+2011-04-09,valle,cali (ct),sabado,18:00:00,puerto mallarino e7,urbana,dentro de la vivienda,no reportado,a pie,a pie,38,femenino,union libre,no reportado,ama de casa,no reportado,secundaria,76001000
+2011-04-10,valle,cali (ct),domingo,04:45:00,menga e2,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,62,masculino,casado,egipto,independiente,no reportado,superior,76001000
+2011-04-11,valle,cali (ct),lunes,08:30:00,san juan bosco e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,55,femenino,soltero,colombia,educador,no reportado,superior,76001000
+2011-04-11,valle,cali (ct),lunes,16:00:00,alirio mora beltran e14,urbana,vias publicas,arma de fuego,a pie,a pie,38,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-04-12,valle,cali (ct),martes,07:00:00,los chorros e18,urbana,dentro de la vivienda,no reportado,a pie,a pie,21,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-04-12,valle,cali (ct),martes,07:56:00,villa san marcos e14,urbana,casas de habitacion,no reportado,a pie,a pie,39,masculino,casado,no reportado,desempleado,no reportado,secundaria,76001000
+2011-04-12,valle,cali (ct),martes,10:24:00,la flora e2,urbana,almacenes,arma de fuego,a pie,a pie,43,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-04-12,valle,cali (ct),martes,15:00:00,municipal e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-04-13,valle,cali (ct),miercoles,10:30:00,los naranjos i e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,26,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-04-13,valle,cali (ct),miercoles,16:00:00,comfenalco e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-04-13,valle,cali (ct),miercoles,17:00:00,granada e2,urbana,oficinas,arma de fuego,a pie,a pie,44,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-04-14,valle,cali (ct),jueves,14:30:00,marroquin iii e13,urbana,talleres latoneria,arma de fuego,a pie,a pie,33,femenino,union libre,no reportado,ama de casa,no reportado,tecnico,76001000
+2011-04-14,valle,cali (ct),jueves,15:00:00,san pedro e3,urbana,oficinas,arma de fuego,a pie,a pie,34,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-04-15,valle,cali (ct),viernes,09:00:00,el poblado ii e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,37,femenino,casado,colombia,ama de casa,no reportado,secundaria,76001000
+2011-04-15,valle,cali (ct),viernes,21:00:00,ciudadela floralia e6,urbana,vias publicas,arma de fuego,vehiculo,a pie,25,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-04-16,valle,cali (ct),sabado,08:00:00,prados de oriente e11,urbana,casas de habitacion,no reportado,no reportado,no reportado,48,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-17,valle,cali (ct),domingo,09:00:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-04-17,valle,cali (ct),domingo,16:40:00,belalcazar e9,urbana,casas de habitacion,no reportado,a pie,a pie,31,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-04-17,valle,cali (ct),domingo,20:30:00,obrero e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,47,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-04-17,valle,cali (ct),domingo,22:30:00,ciudadela confandi e17,urbana,vias publicas,no reportado,conductor motocicleta,a pie,31,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-18,valle,cali (ct),lunes,21:00:00,los comuneros i e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,29,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-04-19,valle,cali (ct),martes,11:51:00,san fernando nuevo e19,urbana,oficinas,no reportado,a pie,a pie,39,masculino,separado,colombia,empleado particular,no reportado,superior,76001000
+2011-04-19,valle,cali (ct),martes,17:30:00,salomia e4,urbana,casas de habitacion,no reportado,a pie,a pie,20,femenino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-20,valle,cali (ct),miercoles,21:40:00,,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,27,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-04-22,valle,cali (ct),viernes,12:00:00,lares de comfenalco e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,37,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-04-22,valle,cali (ct),viernes,12:00:00,cgto navarro e21,urbana,vias publicas,arma de fuego,a pie,a pie,60,masculino,soltero,colombia,empleado particular,no reportado,primaria,76001000
+2011-04-22,valle,cali (ct),viernes,16:00:00,alto napoles e18,urbana,vias publicas,arma de fuego,a pie,a pie,40,femenino,soltero,colombia,independiente,no reportado,analfabeta,76001000
+2011-04-22,valle,cali (ct),viernes,17:30:00,mojica e15,urbana,casas de habitacion,arma de fuego,a pie,a pie,29,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-04-23,valle,cali (ct),sabado,07:00:00,el sena e5,urbana,dentro de la vivienda,no reportado,a pie,a pie,19,masculino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-04-23,valle,cali (ct),sabado,20:00:00,el cortijo e20,urbana,vias publicas,no reportado,a pie,a pie,26,femenino,viudo,colombia,desempleado,no reportado,primaria,76001000
+2011-04-24,valle,cali (ct),domingo,19:00:00,san nicolas e3,urbana,hospitales,no reportado,a pie,a pie,26,femenino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-04-25,valle,cali (ct),lunes,09:00:00,inv. brisas de comuneros  e15,urbana,vias publicas,arma de fuego,a pie,a pie,39,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-25,valle,cali (ct),lunes,10:00:00,tequendama e19,urbana,oficinas,arma de fuego,a pie,a pie,32,masculino,casado,no reportado,independiente,no reportado,superior,76001000
+2011-04-25,valle,cali (ct),lunes,16:20:00,villa del prado e5,urbana,casas de habitacion,contundentes,a pie,a pie,18,masculino,soltero,colombia,etnia indigena,no reportado,superior,76001000
+2011-04-25,valle,cali (ct),lunes,18:00:00,alfonso lopez iii e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-04-25,valle,cali (ct),lunes,19:50:00,puertas del sol e14,urbana,casas de habitacion,no reportado,a pie,a pie,25,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-25,valle,cali (ct),lunes,20:00:00,puertas del sol e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,55,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-04-26,valle,cali (ct),martes,06:20:00,urbanizacion calimio e6,urbana,"colegios, escuelas",contundentes,a pie,a pie,40,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-04-26,valle,cali (ct),martes,06:20:00,urbanizacion calimio e6,urbana,"colegios, escuelas",contundentes,a pie,a pie,44,femenino,casado,colombia,empleado particular,licenciado,superior,76001000
+2011-04-26,valle,cali (ct),martes,16:00:00,alfonso lopez iii e7,urbana,casas de habitacion,arma de fuego,a pie,a pie,25,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-26,valle,cali (ct),martes,19:40:00,el refugio e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-04-27,valle,cali (ct),miercoles,09:00:00,la fortaleza e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,25,masculino,soltero,no reportado,independiente,no reportado,tecnico,76001000
+2011-04-27,valle,cali (ct),miercoles,09:00:00,cgto la buitrera e18,urbana,vias publicas,arma de fuego,a pie,a pie,40,femenino,union libre,no reportado,independiente,no reportado,primaria,76001000
+2011-04-27,valle,cali (ct),miercoles,14:30:00,quintas de salomia e6,urbana,local comercial,arma de fuego,vehiculo,a pie,30,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-04-27,valle,cali (ct),miercoles,18:00:00,villacolombia,urbana,,arma de fuego,a pie,a pie,67,masculino,union libre,no reportado,sindicalista,no reportado,tecnico,76001000
+2011-04-28,valle,cali (ct),jueves,08:15:00,el lido e19,urbana,clinicas y similares,no reportado,a pie,a pie,30,masculino,soltero,colombia,independiente,disenador,superior,76001000
+2011-04-28,valle,cali (ct),jueves,10:40:00,sector industria acopi e25,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,masculino,casado,no reportado,independiente,no reportado,superior,76001000
+2011-04-28,valle,cali (ct),jueves,15:00:00,,urbana,vias publicas,contundentes,a pie,a pie,23,masculino,soltero,colombia,empleado particular,comunicador socialno reportadoperiodista,superior,76001000
+2011-04-28,valle,cali (ct),jueves,15:00:00,,urbana,vias publicas,contundentes,a pie,a pie,48,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-28,valle,cali (ct),jueves,23:30:00,manuela beltran e14,urbana,,arma de fuego,a pie,a pie,57,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-04-29,valle,cali (ct),viernes,09:00:00,melendez e18,urbana,dentro de la vivienda,contundentes,a pie,a pie,36,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-04-29,valle,cali (ct),viernes,09:00:00,melendez e18,urbana,dentro de la vivienda,contundentes,a pie,a pie,56,masculino,union libre,colombia,empleado particular,no reportado,superior,76001000
+2011-04-29,valle,cali (ct),viernes,11:00:00,vipasa e2,urbana,oficinas,no reportado,a pie,a pie,19,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-05-01,valle,cali (ct),domingo,04:00:00,santo domingo e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,24,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-01,valle,cali (ct),domingo,15:15:00,portales de confandi e5,urbana,casas de habitacion,contundentes,a pie,a pie,41,femenino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-05-01,valle,cali (ct),domingo,15:15:00,portales de confandi e5,urbana,casas de habitacion,contundentes,a pie,a pie,50,masculino,casado,colombia,empleado particular,no reportado,tecnologo,76001000
+2011-05-01,valle,cali (ct),domingo,17:00:00,,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,27,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-05-01,valle,cali (ct),domingo,18:00:00,ciudad talanga e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,27,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-01,valle,cali (ct),domingo,22:00:00,pasoancho e10,urbana,casas de habitacion,no reportado,a pie,a pie,29,masculino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-05-01,valle,cali (ct),domingo,22:00:00,,urbana,casas de habitacion,no reportado,a pie,a pie,41,masculino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-05-02,valle,cali (ct),lunes,07:30:00,caney e17,urbana,casas de habitacion,no reportado,a pie,a pie,37,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-05-03,valle,cali (ct),martes,09:00:00,alameda e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,52,femenino,casado,colombia,ama de casa,no reportado,secundaria,76001000
+2011-05-03,valle,cali (ct),martes,15:00:00,el lido e19,urbana,vias publicas,no reportado,a pie,a pie,46,masculino,casado,colombia,independiente,no reportado,tecnologo,76001000
+2011-05-04,valle,cali (ct),miercoles,10:00:00,juanambu e2,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,66,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-05-04,valle,cali (ct),miercoles,10:17:00,los andes e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,24,masculino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-05-05,valle,cali (ct),jueves,09:00:00,obrero e9,urbana,vias publicas,arma de fuego,a pie,a pie,59,masculino,union libre,colombia,sindicalista,no reportado,tecnico,76001000
+2011-05-05,valle,cali (ct),jueves,14:00:00,andres sanin e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,21,masculino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-05-05,valle,cali (ct),jueves,18:30:00,la hacienda e17,urbana,vias publicas,no reportado,conductor motocicleta,a pie,25,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-06,valle,cali (ct),viernes,00:35:00,alfonso b. aragon e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,masculino,union libre,no reportado,ama de casa,no reportado,secundaria,76001000
+2011-05-06,valle,cali (ct),viernes,05:00:00,vallado e15,urbana,dentro de la vivienda,no reportado,a pie,a pie,35,femenino,casado,colombia,empleado policial,policia,secundaria,76001000
+2011-05-06,valle,cali (ct),viernes,09:00:00,chiminangos i e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,71,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-05-07,valle,cali (ct),sabado,11:00:00,mojica e15,urbana,dentro de la vivienda,arma blanca,a pie,a pie,42,femenino,union libre,colombia,educador,no reportado,tecnico,76001000
+2011-05-07,valle,cali (ct),sabado,13:35:00,santa isabel e19,urbana,dentro de la vivienda,arma de fuego,no reportado,a pie,46,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-05-07,valle,cali (ct),sabado,20:30:00,compartir e21,urbana,casas de habitacion,no reportado,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-05-07,valle,cali (ct),sabado,20:30:00,san antonio e3,urbana,vias publicas,arma blanca,a pie,a pie,24,masculino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-05-08,valle,cali (ct),domingo,09:30:00,el cortijo e20,urbana,casas de habitacion,no reportado,a pie,a pie,16,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-05-08,valle,cali (ct),domingo,15:00:00,bretana e9,urbana,vias publicas,no reportado,a pie,a pie,56,masculino,casado,no reportado,independiente,no reportado,primaria,76001000
+2011-05-08,valle,cali (ct),domingo,22:00:00,el retiro e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,45,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-05-09,valle,cali (ct),lunes,09:00:00,la nueva base e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,masculino,casado,colombia,comerciante,no reportado,secundaria,76001000
+2011-05-09,valle,cali (ct),lunes,13:30:00,paz e13,urbana,casas de habitacion,no reportado,a pie,a pie,29,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-05-09,valle,cali (ct),lunes,23:30:00,antonio narino e16,urbana,casas de habitacion,no reportado,a pie,a pie,18,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-05-10,valle,cali (ct),martes,19:30:00,villa del sur e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-05-10,valle,cali (ct),martes,20:30:00,union de vivienda popular e16,urbana,vias publicas,no reportado,a pie,a pie,20,femenino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-05-12,valle,cali (ct),jueves,09:00:00,potrero grande e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,17,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-05-13,valle,cali (ct),viernes,03:00:00,el retiro e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,39,masculino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-05-13,valle,cali (ct),viernes,20:00:00,la independencia e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,femenino,viudo,colombia,independiente,no reportado,secundaria,76001000
+2011-05-14,valle,cali (ct),sabado,10:00:00,santa fe e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,49,masculino,soltero,no reportado,independiente,no reportado,tecnico,76001000
+2011-05-14,valle,cali (ct),sabado,19:00:00,los lagos e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-05-15,valle,cali (ct),domingo,00:29:00,ciudad jardin e22,urbana,casa en conjunto cerrado,no reportado,a pie,a pie,15,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-05-15,valle,cali (ct),domingo,08:55:00,el lido e19,urbana,casas de habitacion,no reportado,a pie,a pie,49,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-18,valle,cali (ct),miercoles,18:10:00,nueva floresta e12,urbana,casas de habitacion,contundentes,a pie,a pie,40,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-05-18,valle,cali (ct),miercoles,22:00:00,villanueva e12,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,37,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-19,valle,cali (ct),jueves,16:00:00,ciudad cordoba e15,urbana,vias publicas,arma de fuego,a pie,a pie,53,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-05-20,valle,cali (ct),viernes,00:00:00,granada e2,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-05-20,valle,cali (ct),viernes,11:45:00,san nicolas e3,urbana,oficinas,arma de fuego,a pie,a pie,26,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-05-20,valle,cali (ct),viernes,18:00:00,el poblado ii e13,urbana,vias publicas,no reportado,a pie,a pie,21,femenino,casado,colombia,estudiante,no reportado,secundaria,76001000
+2011-05-20,valle,cali (ct),viernes,20:00:00,el ingenio e17,urbana,dentro de la vivienda,no reportado,a pie,a pie,53,masculino,casado,colombia,empleado salud,medico,superior,76001000
+2011-05-21,valle,cali (ct),sabado,10:00:00,la nueva base e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,masculino,divorciado,colombia,comerciante,no reportado,secundaria,76001000
+2011-05-21,valle,cali (ct),sabado,22:00:00,alfonso lopez i e7,urbana,,contundentes,a pie,a pie,43,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-05-21,valle,cali (ct),sabado,22:00:00,alfonso lopez i e7,urbana,,contundentes,a pie,a pie,47,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-05-22,valle,cali (ct),domingo,17:00:00,las granjas e10,urbana,casas de habitacion,arma de fuego,a pie,a pie,29,masculino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-05-23,valle,cali (ct),lunes,09:00:00,el refugio e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-05-23,valle,cali (ct),lunes,17:59:00,valle grande e21,urbana,local comercial,arma de fuego,a pie,a pie,24,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-24,valle,cali (ct),martes,08:00:00,villanueva (carcel) e11,urbana,carceles,arma blanca,a pie,a pie,69,masculino,union libre,no reportado,desempleado,no reportado,primaria,76001000
+2011-05-24,valle,cali (ct),martes,09:00:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,a pie,61,masculino,divorciado,colombia,comerciante,no reportado,secundaria,76001000
+2011-05-24,valle,cali (ct),martes,16:07:00,ciudad jardin e22,urbana,parqueadero,no reportado,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-05-24,valle,cali (ct),martes,19:50:00,calima e4,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,46,femenino,casado,colombia,comerciante,no reportado,tecnico,76001000
+2011-05-25,valle,cali (ct),miercoles,08:30:00,santa monica popular e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-05-25,valle,cali (ct),miercoles,10:00:00,terron colorado e1,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,femenino,divorciado,colombia,independiente,no reportado,secundaria,76001000
+2011-05-25,valle,cali (ct),miercoles,11:00:00,saavedra galindo e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-05-25,valle,cali (ct),miercoles,11:30:00,el rodeo e12,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,43,masculino,union libre,colombia,educador,no reportado,superior,76001000
+2011-05-25,valle,cali (ct),miercoles,15:40:00,siloe e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,23,femenino,soltero,colombia,no reporta,no reportado,secundaria,76001000
+2011-05-25,valle,cali (ct),miercoles,20:00:00,villa del lago e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,56,femenino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-05-25,valle,cali (ct),miercoles,20:30:00,manuela beltran e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-26,valle,cali (ct),jueves,10:00:00,caldas e18,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,34,femenino,casado,colombia,educador,no reportado,superior,76001000
+2011-05-27,valle,cali (ct),viernes,09:00:00,manuela beltran e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,51,femenino,viudo,colombia,independiente,no reportado,primaria,76001000
+2011-05-27,valle,cali (ct),viernes,14:30:00,leon xiii e11,urbana,vias publicas,arma de fuego,a pie,a pie,23,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-05-27,valle,cali (ct),viernes,14:50:00,el limonar e17,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-05-29,valle,cali (ct),domingo,03:30:00,leon xiii e11,urbana,vias publicas,arma de fuego,a pie,a pie,35,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-05-29,valle,cali (ct),domingo,15:30:00,benjamin herrera e8,urbana,casas de habitacion,contundentes,a pie,a pie,27,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-05-31,valle,cali (ct),martes,01:00:00,no reporta,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,42,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-05-31,valle,cali (ct),martes,11:30:00,san luis e6,urbana,casas de habitacion,no reportado,a pie,a pie,28,femenino,union libre,colombia,empleado publico,no reportado,superior,76001000
+2011-05-31,valle,cali (ct),martes,12:55:00,jose m. marroquin ii e14,urbana,,arma de fuego,a pie,a pie,17,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-06-01,valle,cali (ct),miercoles,05:30:00,mojica ii e15,urbana,construccion,no reportado,a pie,a pie,43,masculino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-06-01,valle,cali (ct),miercoles,07:00:00,porvenir e4,urbana,empresa,contundentes,a pie,a pie,41,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-01,valle,cali (ct),miercoles,21:00:00,el troncal e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,34,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-06-02,valle,cali (ct),jueves,19:30:00,panamericano e10,urbana,vias publicas,no reportado,a pie,a pie,28,masculino,soltero,colombia,empleado particular,no reportado,tecnologo,76001000
+2011-06-04,valle,cali (ct),sabado,11:15:00,portales de confandi e5,urbana,casas de habitacion,arma de fuego,a pie,a pie,28,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-06-04,valle,cali (ct),sabado,15:00:00,santa rosa e3,urbana,vias publicas,arma de fuego,a pie,a pie,33,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-05,valle,cali (ct),domingo,10:30:00,leon xiii e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-05,valle,cali (ct),domingo,15:00:00,bellavista e19,urbana,frente a zoologico,arma de fuego,a pie,a pie,50,masculino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-06-05,valle,cali (ct),domingo,20:30:00,puertas del sol e14,urbana,vias publicas,arma de fuego,a pie,a pie,27,masculino,separado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-06,valle,cali (ct),lunes,14:00:00,villanueva (carcel) e11,urbana,vias publicas,arma de fuego,a pie,a pie,25,femenino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-06-06,valle,cali (ct),lunes,18:28:00,petecuy ii e6,urbana,casas de habitacion,no reportado,a pie,a pie,47,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-06,valle,cali (ct),lunes,20:00:00,terron colorado e1,urbana,casas de habitacion,no reportado,a pie,a pie,40,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-06-07,valle,cali (ct),martes,10:30:00,los guayacanes e5,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,37,masculino,soltero,no reportado,educador,no reportado,superior,76001000
+2011-06-07,valle,cali (ct),martes,16:00:00,san juan bosco e3,urbana,vias publicas,no reportado,a pie,a pie,30,femenino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-06-09,valle,cali (ct),jueves,07:30:00,los parques e5,urbana,casas de habitacion,contundentes,a pie,a pie,37,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-09,valle,cali (ct),jueves,17:30:00,san pedro claver e11,urbana,casas de habitacion,no reportado,a pie,a pie,31,masculino,soltero,colombia,independiente,no reportado,no reportado,76001000
+2011-06-09,valle,cali (ct),jueves,19:30:00,el jordan e18,urbana,vias publicas,arma de fuego,a pie,a pie,21,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-06-09,valle,cali (ct),jueves,20:30:00,ciudadela floralia e6,urbana,vias publicas,contundentes,a pie,a pie,24,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-09,valle,cali (ct),jueves,21:00:00,ciudad cordoba e15,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-06-10,valle,cali (ct),viernes,05:00:00,asturias e12,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,48,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-06-11,valle,cali (ct),sabado,16:30:00,popular e4,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,femenino,union libre,colombia,empleado particular,no reportado,tecnologo,76001000
+2011-06-12,valle,cali (ct),domingo,18:20:00,el ingenio e17,urbana,apartamento en conjunto cerrado,no reportado,a pie,a pie,66,femenino,separado,colombia,pensionado,no reportado,superior,76001000
+2011-06-14,valle,cali (ct),martes,11:00:00,antonio narino e16,urbana,vias publicas,no reportado,conductor motocicleta,a pie,21,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-15,valle,cali (ct),miercoles,10:00:00,san luis e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,27,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-06-15,valle,cali (ct),miercoles,10:00:00,lourdes e18,urbana,dentro de la vivienda,no reportado,a pie,a pie,30,masculino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-06-15,valle,cali (ct),miercoles,13:15:00,alfonso lopez i e7,urbana,casas de habitacion,contundentes,a pie,a pie,77,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-06-16,valle,cali (ct),jueves,11:00:00,antonio narino e16,urbana,vias publicas,arma de fuego,a pie,vehiculo,29,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-16,valle,cali (ct),jueves,18:30:00,industrial e8,urbana,casas de habitacion,arma de fuego,a pie,a pie,67,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-06-18,valle,cali (ct),sabado,00:00:00,centenario e2,urbana,dentro de la vivienda,no reportado,a pie,a pie,21,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-06-18,valle,cali (ct),sabado,00:00:00,santander e4,urbana,vias publicas,no reportado,a pie,a pie,65,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-06-18,valle,cali (ct),sabado,16:00:00,el recuerdo e11,urbana,casas de habitacion,no reportado,a pie,a pie,14,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-06-19,valle,cali (ct),domingo,11:30:00,alfonso lopez i e7,urbana,casas de habitacion,contundentes,a pie,a pie,51,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-19,valle,cali (ct),domingo,20:05:00,petecuy ii e6,urbana,vias publicas,arma de fuego,a pie,a pie,33,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-06-20,valle,cali (ct),lunes,11:00:00,,urbana,dentro de la vivienda,contundentes,a pie,a pie,39,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-06-20,valle,cali (ct),lunes,15:00:00,alto napoles e18,urbana,hospitales,no reportado,a pie,a pie,39,masculino,union libre,colombia,empleado particular,fisioterapeuta,superior,76001000
+2011-06-24,valle,cali (ct),viernes,14:30:00,chiminangos i e5,urbana,casas de habitacion,arma de fuego,a pie,a pie,15,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-06-24,valle,cali (ct),viernes,16:00:00,chiminangos i e5,urbana,casas de habitacion,arma de fuego,vehiculo,a pie,37,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-25,valle,cali (ct),sabado,09:00:00,porvenir e4,urbana,empresa,no reportado,a pie,a pie,57,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-06-25,valle,cali (ct),sabado,10:46:00,versalles e2,urbana,oficinas,no reportado,a pie,a pie,48,femenino,union libre,colombia,empleado particular,no reportado,superior,76001000
+2011-06-25,valle,cali (ct),sabado,13:13:00,las granjas e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,58,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-06-25,valle,cali (ct),sabado,16:00:00,siloe e20,urbana,vias publicas,no reportado,a pie,a pie,42,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-26,valle,cali (ct),domingo,18:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,49,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-06-27,valle,cali (ct),lunes,07:00:00,la rivera e5,urbana,instalaciones de la policia,no reportado,a pie,a pie,23,masculino,soltero,colombia,empleado policial,no reportado,secundaria,76001000
+2011-06-28,valle,cali (ct),martes,17:45:00,prados del norte e2,urbana,oficinas,no reportado,a pie,a pie,40,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-06-28,valle,cali (ct),martes,21:00:00,desepaz invicali e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,35,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-28,valle,cali (ct),martes,22:20:00,siete de agosto e7,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-06-29,valle,cali (ct),miercoles,09:00:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,a pie,22,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-06-30,valle,cali (ct),jueves,15:00:00,el paraiso e12,urbana,vias publicas,no reportado,a pie,a pie,25,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-01,valle,cali (ct),viernes,08:00:00,quintas del palmar e5,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,casado,colombia,empleado particular,no reportado,primaria,76001000
+2011-07-01,valle,cali (ct),viernes,09:00:00,ciudad de los alamos e2,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,64,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-01,valle,cali (ct),viernes,19:00:00,pampa linda e19,urbana,casas de habitacion,no reportado,a pie,a pie,46,femenino,casado,colombia,empleado publico,trabajador social,superior,76001000
+2011-07-03,valle,cali (ct),domingo,12:00:00,puertas del sol e14,urbana,vias publicas,arma de fuego,a pie,a pie,49,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-07-04,valle,cali (ct),lunes,00:00:00,alfonso barberena e12,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-07-04,valle,cali (ct),lunes,09:00:00,alfonso lopez i e7,urbana,vias publicas,arma blanca,a pie,a pie,38,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-05,valle,cali (ct),martes,11:30:00,pampa linda e19,urbana,apartamento en conjunto cerrado,no reportado,a pie,a pie,43,femenino,casado,colombia,independiente,abogado,superior,76001000
+2011-07-05,valle,cali (ct),martes,14:00:00,compartir e21,urbana,vias publicas,no reportado,a pie,a pie,42,femenino,soltero,colombia,ama de casa,no reportado,secundaria,76001000
+2011-07-05,valle,cali (ct),martes,17:00:00,chiminangos ii e5,urbana,casas de habitacion,arma de fuego,a pie,a pie,39,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-06,valle,cali (ct),miercoles,09:00:00,villa del sur e11,urbana,vias publicas,no reportado,a pie,a pie,53,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-06,valle,cali (ct),miercoles,13:00:00,,rural,clinicas y similares,no reportado,a pie,a pie,53,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-08,valle,cali (ct),viernes,09:00:00,saavedra galindo e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-08,valle,cali (ct),viernes,15:00:00,belisario caicedo e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,55,masculino,casado,colombia,comerciante,no reportado,secundaria,76001000
+2011-07-08,valle,cali (ct),viernes,20:30:00,petecuy i e6,urbana,vias publicas,arma de fuego,a pie,a pie,42,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-09,valle,cali (ct),sabado,19:30:00,republica israel e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,masculino,union libre,colombia,independiente,no reportado,tecnico,76001000
+2011-07-10,valle,cali (ct),domingo,08:09:00,los libertadores e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,48,masculino,casado,colombia,comerciante,no reportado,secundaria,76001000
+2011-07-10,valle,cali (ct),domingo,10:15:00,obrero e9,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor motocicleta,26,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-10,valle,cali (ct),domingo,16:00:00,suerte noventa e21,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-07-10,valle,cali (ct),domingo,21:00:00,bellavista e19,urbana,casas de habitacion,arma de fuego,a pie,a pie,45,femenino,casado,colombia,empleado salud,enfermera jefe,superior,76001000
+2011-07-11,valle,cali (ct),lunes,07:00:00,los guayacanes e5,urbana,,arma blanca,a pie,a pie,15,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-07-11,valle,cali (ct),lunes,08:00:00,villanueva (carcel) e11,urbana,carceles,arma de fuego,a pie,a pie,28,masculino,soltero,colombia,comerciante,no reportado,secundaria,76001000
+2011-07-11,valle,cali (ct),lunes,10:30:00,vallado e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,25,masculino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-07-11,valle,cali (ct),lunes,14:05:00,panamericano e10,urbana,apartamento,no reportado,a pie,a pie,36,femenino,soltero,colombia,empleado particular,licenciado,superior,76001000
+2011-07-12,valle,cali (ct),martes,08:00:00,alto aguacatal e1,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,soltero,no reportado,empleado particular,no reportado,secundaria,76001000
+2011-07-12,valle,cali (ct),martes,12:30:00,manuela beltran e14,urbana,dentro de la vivienda,arma blanca,a pie,a pie,57,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-07-12,valle,cali (ct),martes,13:20:00,jose m. marroquin ii e14,urbana,vias publicas,arma de fuego,a pie,a pie,26,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-12,valle,cali (ct),martes,21:00:00,santa anita e17,urbana,templos,no reportado,a pie,a pie,34,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-13,valle,cali (ct),miercoles,08:00:00,el limonar e17,urbana,no definido,arma de fuego,a pie,a pie,39,masculino,union libre,colombia,comerciante,no reportado,secundaria,76001000
+2011-07-13,valle,cali (ct),miercoles,10:00:00,san judas tadeo i e10,urbana,vias publicas,no reportado,a pie,a pie,55,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-13,valle,cali (ct),miercoles,15:47:00,san pedro e3,urbana,oficinas,arma de fuego,a pie,a pie,56,femenino,viudo,colombia,independiente,no reportado,superior,76001000
+2011-07-14,valle,cali (ct),jueves,09:00:00,alfonso lopez i e7,urbana,hogar de paso,contundentes,a pie,a pie,49,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-14,valle,cali (ct),jueves,15:00:00,belalcazar e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,28,masculino,union libre,no reportado,comerciante,no reportado,secundaria,76001000
+2011-07-14,valle,cali (ct),jueves,15:00:00,ciudad 2000 e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,60,masculino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-07-14,valle,cali (ct),jueves,20:30:00,guayaquil e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-15,valle,cali (ct),viernes,07:00:00,potrero grande e21,urbana,vias publicas,arma de fuego,a pie,a pie,27,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-15,valle,cali (ct),viernes,07:30:00,versalles e2,urbana,parqueadero,no reportado,a pie,a pie,40,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-15,valle,cali (ct),viernes,10:15:00,el limonar e17,urbana,vias publicas,arma de fuego,a pie,a pie,47,masculino,union libre,no reportado,estudiante,no reportado,superior,76001000
+2011-07-15,valle,cali (ct),viernes,15:00:00,siloe e20,urbana,casas de habitacion,no reportado,a pie,a pie,45,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-15,valle,cali (ct),viernes,16:00:00,el piloto e3,urbana,almacenes,no reportado,a pie,a pie,38,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-07-15,valle,cali (ct),viernes,20:00:00,ciudad modelo e11,urbana,vias publicas,no reportado,a pie,a pie,21,masculino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-07-15,valle,cali (ct),viernes,20:00:00,alfonso lopez iii e7,urbana,vias publicas,no reportado,a pie,a pie,75,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-16,valle,cali (ct),sabado,13:00:00,mariano ramos e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,40,femenino,soltero,no reportado,independiente,no reportado,primaria,76001000
+2011-07-16,valle,cali (ct),sabado,20:00:00,manuela beltran e14,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-17,valle,cali (ct),domingo,21:00:00,el vergel e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,32,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-07-17,valle,cali (ct),domingo,21:30:00,san vicente e2,urbana,clinicas y similares,arma de fuego,a pie,a pie,26,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-07-18,valle,cali (ct),lunes,01:00:00,los libertadores e3,urbana,oficinas,contundentes,a pie,no reportado,48,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-18,valle,cali (ct),lunes,08:00:00,el limonar e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,25,masculino,union libre,colombia,comerciante,no reportado,secundaria,76001000
+2011-07-18,valle,cali (ct),lunes,15:30:00,chiminangos i e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,masculino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-07-18,valle,cali (ct),lunes,19:00:00,melendez e18,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,30,masculino,union libre,colombia,comerciante,no reportado,secundaria,76001000
+2011-07-18,valle,cali (ct),lunes,19:45:00,saavedra galindo e8,urbana,vias publicas,arma de fuego,a pie,a pie,29,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-19,valle,cali (ct),martes,07:53:00,ciudad capri e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,25,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-19,valle,cali (ct),martes,12:00:00,,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,21,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-07-19,valle,cali (ct),martes,13:30:00,la alianza e4,urbana,vias publicas,arma blanca,a pie,a pie,47,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-19,valle,cali (ct),martes,18:00:00,ciudad jardin e22,urbana,casas de habitacion,no reportado,a pie,a pie,42,masculino,soltero,colombia,educador,no reportado,superior,76001000
+2011-07-19,valle,cali (ct),martes,19:00:00,alfonso lopez i e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,29,masculino,casado,colombia,ama de casa,no reportado,secundaria,76001000
+2011-07-20,valle,cali (ct),miercoles,07:05:00,pizamos i e21,urbana,empresa,no reportado,a pie,a pie,31,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-20,valle,cali (ct),miercoles,07:30:00,santa elena e10,urbana,plazas de mercado,no reportado,a pie,a pie,49,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-20,valle,cali (ct),miercoles,15:00:00,atanasio girardot e8,urbana,casas de habitacion,no reportado,a pie,a pie,35,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-20,valle,cali (ct),miercoles,16:00:00,no reporta,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,masculino,union libre,colombia,estudiante,no reportado,superior,76001000
+2011-07-21,valle,cali (ct),jueves,09:00:00,alfonso barberena e12,urbana,vias publicas,no reportado,a pie,a pie,49,masculino,union libre,colombia,educador,no reportado,superior,76001000
+2011-07-21,valle,cali (ct),jueves,12:30:00,las orquideas e14,urbana,vias publicas,arma blanca,a pie,a pie,19,masculino,soltero,colombia,empleado policial,no reportado,secundaria,76001000
+2011-07-21,valle,cali (ct),jueves,13:10:00,quintas de salomia e6,urbana,peluqueria y similares,no reportado,a pie,a pie,43,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-21,valle,cali (ct),jueves,14:00:00,siete de agosto e7,urbana,casas de habitacion,arma de fuego,a pie,a pie,20,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-22,valle,cali (ct),viernes,08:00:00,diamante e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,48,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-22,valle,cali (ct),viernes,10:15:00,el trebol e8,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,58,femenino,soltero,colombia,educador,no reportado,superior,76001000
+2011-07-22,valle,cali (ct),viernes,11:00:00,la flora e2,urbana,vias publicas,arma de fuego,a pie,a pie,31,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-07-22,valle,cali (ct),viernes,15:00:00,pacara e2,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,soltero,colombia,desempleado,no reportado,tecnico,76001000
+2011-07-23,valle,cali (ct),sabado,09:30:00,obrero e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,35,masculino,soltero,colombia,sindicalista,no reportado,superior,76001000
+2011-07-23,valle,cali (ct),sabado,09:30:00,obrero e9,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-23,valle,cali (ct),sabado,10:00:00,siloe e20,urbana,vias publicas,no reportado,a pie,a pie,20,femenino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-07-23,valle,cali (ct),sabado,14:00:00,ciudadela floralia e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,61,masculino,union libre,no reportado,comerciante,no reportado,secundaria,76001000
+2011-07-23,valle,cali (ct),sabado,17:00:00,desepaz invicali e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,19,masculino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-07-23,valle,cali (ct),sabado,21:00:00,san cayetano e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,52,masculino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-07-24,valle,cali (ct),domingo,15:30:00,el rodeo e12,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,colombia,empleado policial,no reportado,secundaria,76001000
+2011-07-24,valle,cali (ct),domingo,16:00:00,las orquideas e14,urbana,casas de habitacion,no reportado,a pie,a pie,35,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-07-24,valle,cali (ct),domingo,21:36:00,granada e2,urbana,casas de habitacion,no reportado,a pie,a pie,61,masculino,casado,colombia,desempleado,no reportado,superior,76001000
+2011-07-25,valle,cali (ct),lunes,09:00:00,morichal de comfandi e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,25,masculino,casado,colombia,estudiante,no reportado,superior,76001000
+2011-07-25,valle,cali (ct),lunes,11:00:00,ciudad capri e17,urbana,casas de habitacion,no reportado,a pie,a pie,30,femenino,casado,colombia,empleado particular,abogado,superior,76001000
+2011-07-25,valle,cali (ct),lunes,13:00:00,los robles e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,32,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-26,valle,cali (ct),martes,08:00:00,la alianza e4,urbana,vias publicas,arma de fuego,a pie,a pie,42,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-07-26,valle,cali (ct),martes,14:40:00,la independencia e11,urbana,dentro de la vivienda,no reportado,a pie,a pie,25,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-07-26,valle,cali (ct),martes,22:30:00,alirio mora beltran e14,urbana,casas de habitacion,no reportado,a pie,a pie,47,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-07-27,valle,cali (ct),miercoles,09:30:00,calimio desepaz e21,urbana,vias publicas,no reportado,a pie,a pie,18,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-27,valle,cali (ct),miercoles,14:30:00,charco azul e13,urbana,vias publicas,no reportado,a pie,a pie,17,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-07-27,valle,cali (ct),miercoles,15:00:00,san antonio e3,urbana,vias publicas,no reportado,a pie,a pie,35,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-27,valle,cali (ct),miercoles,16:00:00,,rural,vias publicas,no reportado,a pie,a pie,45,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-27,valle,cali (ct),miercoles,21:00:00,ulpiano lloreda e13,urbana,vias publicas,arma de fuego,a pie,a pie,35,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-28,valle,cali (ct),jueves,00:00:00,el limonar e17,urbana,vias publicas,no reportado,a pie,a pie,35,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-29,valle,cali (ct),viernes,14:00:00,urbanizacion calimio e6,urbana,casas de habitacion,no reportado,a pie,a pie,40,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-29,valle,cali (ct),viernes,15:00:00,siete de agosto e7,urbana,casas de habitacion,no reportado,a pie,a pie,29,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-07-30,valle,cali (ct),sabado,00:00:00,el poblado ii e13,urbana,vias publicas,arma de fuego,a pie,a pie,26,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-30,valle,cali (ct),sabado,09:00:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-30,valle,cali (ct),sabado,12:00:00,,urbana,vias publicas,no reportado,a pie,a pie,22,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-07-30,valle,cali (ct),sabado,13:00:00,siloe e20,urbana,vias publicas,no reportado,a pie,a pie,31,masculino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-07-30,valle,cali (ct),sabado,14:00:00,ciudadela floralia e6,urbana,dentro de la vivienda,no reportado,a pie,a pie,28,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-30,valle,cali (ct),sabado,15:00:00,los comuneros i e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,42,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-07-30,valle,cali (ct),sabado,15:30:00,el limonar e17,urbana,casas de habitacion,no reportado,vehiculo,a pie,36,masculino,union libre,colombia,empleado publico,economista,superior,76001000
+2011-07-30,valle,cali (ct),sabado,19:00:00,ciudadela del rio e21,urbana,casas de habitacion,no reportado,a pie,a pie,26,masculino,casado,colombia,empleado policial,no reportado,secundaria,76001000
+2011-07-31,valle,cali (ct),domingo,06:00:00,marroquin i e14,urbana,casas de habitacion,no reportado,a pie,a pie,41,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-31,valle,cali (ct),domingo,09:00:00,melendez e18,urbana,vias publicas,arma blanca,a pie,a pie,47,femenino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-07-31,valle,cali (ct),domingo,14:00:00,san luis e6,urbana,vias publicas,no reportado,a pie,a pie,47,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-07-31,valle,cali (ct),domingo,18:30:00,san luis e6,urbana,vias publicas,no reportado,a pie,a pie,30,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-07-31,valle,cali (ct),domingo,19:00:00,los chorros e18,rural,vias publicas,arma de fuego,a pie,a pie,38,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-07-31,valle,cali (ct),domingo,20:00:00,el troncal e8,urbana,,contundentes,a pie,a pie,25,femenino,soltero,colombia,empleado particular,bacteriologo,superior,76001000
+2011-07-31,valle,cali (ct),domingo,20:00:00,vallado e15,urbana,vias publicas,arma de fuego,a pie,a pie,17,femenino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-08-01,valle,cali (ct),lunes,10:50:00,versalles e2,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,soltero,no reportado,independiente,no reportado,superior,76001000
+2011-08-01,valle,cali (ct),lunes,15:00:00,metropolitano del norte e5,urbana,vias publicas,no reportado,a pie,a pie,45,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-08-01,valle,cali (ct),lunes,18:00:00,brisas de mayo e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,39,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-08-01,valle,cali (ct),lunes,18:00:00,melendez e18,urbana,vias publicas,arma blanca,a pie,a pie,29,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-02,valle,cali (ct),martes,08:20:00,el rodeo e12,urbana,vias publicas,no reportado,a pie,a pie,44,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-02,valle,cali (ct),martes,09:00:00,cgto la buitrera e18,rural,vias publicas,no reportado,a pie,a pie,47,femenino,viudo,no reportado,independiente,no reportado,superior,76001000
+2011-08-02,valle,cali (ct),martes,09:00:00,union de vivienda popular e16,urbana,casas de habitacion,no reportado,a pie,a pie,25,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-02,valle,cali (ct),martes,11:30:00,nueva floresta e12,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-08-02,valle,cali (ct),martes,15:00:00,san pedro e3,urbana,local comercial,no reportado,a pie,a pie,42,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-02,valle,cali (ct),martes,19:31:00,santa barbara e5,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,viudo,colombia,independiente,no reportado,secundaria,76001000
+2011-08-03,valle,cali (ct),miercoles,08:00:00,san antonio e3,urbana,vias publicas,no reportado,a pie,a pie,43,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-03,valle,cali (ct),miercoles,09:00:00,lleras camargo e20,urbana,casas de habitacion,no reportado,a pie,a pie,29,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-08-03,valle,cali (ct),miercoles,09:40:00,el poblado ii e13,urbana,vias publicas,no reportado,a pie,a pie,50,femenino,divorciado,colombia,independiente,no reportado,superior,76001000
+2011-08-03,valle,cali (ct),miercoles,18:55:00,caney e17,urbana,vias publicas,no reportado,a pie,a pie,52,femenino,casado,no reportado,comerciante,no reportado,secundaria,76001000
+2011-08-04,valle,cali (ct),jueves,04:45:00,las orquideas e14,urbana,vias publicas,no reportado,a pie,a pie,45,femenino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2011-08-04,valle,cali (ct),jueves,10:30:00,comfenalco e6,urbana,casas de habitacion,arma de fuego,conductor motocicleta,a pie,37,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-08-04,valle,cali (ct),jueves,14:00:00,el retiro e15,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-08-04,valle,cali (ct),jueves,18:30:00,popular e4,urbana,dentro de la vivienda,contundentes,a pie,a pie,36,masculino,soltero,colombia,artista,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,08:00:00,laureano gomez e15,urbana,vias publicas,no reportado,a pie,a pie,42,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,10:00:00,ciudad cordoba e15,urbana,casas de habitacion,arma de fuego,a pie,a pie,38,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,10:00:00,jose m. marroquin ii e14,urbana,vias publicas,no reportado,a pie,a pie,17,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,12:00:00,nueva tequendama e19,urbana,vias publicas,no reportado,a pie,a pie,55,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,12:30:00,urbanizacion calimio e6,urbana,vias publicas,no reportado,a pie,a pie,46,femenino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,14:20:00,industrial e8,urbana,vias publicas,arma de fuego,a pie,a pie,45,masculino,casado,colombia,empleado particular,tecnico,superior,76001000
+2011-08-05,valle,cali (ct),viernes,15:00:00,vipasa e2,urbana,vias publicas,no reportado,a pie,a pie,47,masculino,casado,no reportado,comerciante,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,16:30:00,potrero grande e21,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-05,valle,cali (ct),viernes,23:00:00,el vergel e13,urbana,vias publicas,no reportado,a pie,a pie,38,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-08-06,valle,cali (ct),sabado,00:00:00,mojica e15,urbana,casas de habitacion,no reportado,a pie,a pie,33,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-06,valle,cali (ct),sabado,03:00:00,manuela beltran e14,urbana,casas de habitacion,no reportado,a pie,a pie,29,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-06,valle,cali (ct),sabado,09:30:00,el paraiso e12,urbana,vias publicas,no reportado,a pie,a pie,37,masculino,soltero,colombia,desempleado,no reportado,tecnico,76001000
+2011-08-06,valle,cali (ct),sabado,19:00:00,camilo torres e4,urbana,dentro de la vivienda,no reportado,a pie,a pie,56,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-08-07,valle,cali (ct),domingo,00:00:00,el poblado ii e13,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-07,valle,cali (ct),domingo,10:00:00,brisas de los alamos e2,urbana,casas de habitacion,no reportado,a pie,a pie,33,masculino,soltero,colombia,empleado publico,no reportado,superior,76001000
+2011-08-07,valle,cali (ct),domingo,21:30:00,el poblado i e13,urbana,vias publicas,arma de fuego,a pie,a pie,45,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-08,valle,cali (ct),lunes,07:00:00,san nicolas e3,urbana,vias publicas,no reportado,a pie,a pie,45,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-08,valle,cali (ct),lunes,12:00:00,san luis e6,urbana,casas de habitacion,no reportado,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-08-08,valle,cali (ct),lunes,20:51:00,urbanizacion calimio e6,urbana,vias publicas,no reportado,a pie,a pie,32,femenino,union libre,colombia,empleado particular,no reportado,superior,76001000
+2011-08-08,valle,cali (ct),lunes,21:20:00,san luis e6,urbana,vias publicas,contundentes,a pie,a pie,19,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-08-09,valle,cali (ct),martes,07:00:00,,urbana,vias publicas,no reportado,a pie,a pie,49,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-09,valle,cali (ct),martes,16:30:00,eduardo santos e12,urbana,casas de habitacion,no reportado,a pie,a pie,40,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-09,valle,cali (ct),martes,17:05:00,quintas de salomia e6,urbana,casas de habitacion,contundentes,a pie,a pie,41,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-09,valle,cali (ct),martes,19:30:00,potrero grande e21,urbana,vias publicas,arma de fuego,a pie,a pie,38,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-10,valle,cali (ct),miercoles,08:00:00,los libertadores e3,urbana,"colegios, escuelas",no reportado,a pie,a pie,42,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-10,valle,cali (ct),miercoles,09:30:00,belen e20,urbana,"colegios, escuelas",no reportado,a pie,a pie,25,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-08-10,valle,cali (ct),miercoles,14:00:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,21,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-10,valle,cali (ct),miercoles,14:00:00,los guaduales e6,urbana,vias publicas,no reportado,a pie,a pie,53,masculino,divorciado,colombia,empleado particular,no reportado,superior,76001000
+2011-08-10,valle,cali (ct),miercoles,18:00:00,canaveralejo guadalupe e19,urbana,vias publicas,no reportado,a pie,a pie,53,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-08-11,valle,cali (ct),jueves,10:00:00,san fernando nuevo e19,urbana,vias publicas,no reportado,a pie,a pie,23,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-11,valle,cali (ct),jueves,16:30:00,versalles e2,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,no reportado,independiente,no reportado,superior,76001000
+2011-08-11,valle,cali (ct),jueves,19:00:00,andres sanin e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,27,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-11,valle,cali (ct),jueves,19:00:00,alfonso lopez i e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,35,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-11,valle,cali (ct),jueves,19:00:00,alfonso lopez i e7,urbana,no definido,no reportado,a pie,a pie,14,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-08-11,valle,cali (ct),jueves,19:00:00,andres sanin e7,urbana,no definido,no reportado,no reportado,no reportado,14,femenino,soltero,colombia,no reporta,no reportado,secundaria,76001000
+2011-08-11,valle,cali (ct),jueves,19:30:00,puertas del sol e14,urbana,casas de habitacion,no reportado,a pie,a pie,32,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-12,valle,cali (ct),viernes,07:00:00,andres sanin e7,urbana,vias publicas,no reportado,a pie,a pie,41,masculino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-08-12,valle,cali (ct),viernes,08:30:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,union libre,colombia,politico,no reportado,secundaria,76001000
+2011-08-12,valle,cali (ct),viernes,09:00:00,belen e20,urbana,casas de habitacion,no reportado,a pie,a pie,46,femenino,casado,no reportado,independiente,no reportado,tecnico,76001000
+2011-08-12,valle,cali (ct),viernes,13:30:00,bello horizonte e12,urbana,vias publicas,no reportado,a pie,a pie,23,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-08-12,valle,cali (ct),viernes,23:59:00,las orquideas e14,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,46,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-08-13,valle,cali (ct),sabado,09:00:00,inv. brisas de comuneros  e15,urbana,vias publicas,no reportado,a pie,a pie,49,masculino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-08-13,valle,cali (ct),sabado,15:00:00,ciudad jardin e22,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,68,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-08-13,valle,cali (ct),sabado,22:00:00,las veraneras e7,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-08-14,valle,cali (ct),domingo,17:00:00,siloe e20,urbana,vias publicas,arma de fuego,a pie,a pie,47,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-08-15,valle,cali (ct),lunes,11:00:00,los conquistadores e11,urbana,casas de habitacion,no reportado,a pie,a pie,36,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-15,valle,cali (ct),lunes,12:00:00,villa san marcos e14,urbana,vias publicas,contundentes,a pie,a pie,31,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-08-15,valle,cali (ct),lunes,16:00:00,caney e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,34,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-08-15,valle,cali (ct),lunes,17:50:00,villa del lago e13,urbana,vias publicas,no reportado,a pie,a pie,37,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-08-16,valle,cali (ct),martes,19:00:00,las granjas e10,urbana,casas de habitacion,no reportado,a pie,a pie,51,femenino,separado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-08-16,valle,cali (ct),martes,21:20:00,las ceibas e7,urbana,,arma blanca,a pie,a pie,23,femenino,soltero,colombia,empleado particular,psicologo,superior,76001000
+2011-08-17,valle,cali (ct),miercoles,05:00:00,villacolombia e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,67,masculino,union libre,no reportado,sindicalista,no reportado,tecnico,76001000
+2011-08-17,valle,cali (ct),miercoles,12:00:00,chiminangos i e5,urbana,casas de habitacion,contundentes,a pie,a pie,24,femenino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-08-18,valle,cali (ct),jueves,08:00:00,santa monica residencial e2,urbana,vias publicas,no reportado,a pie,a pie,38,femenino,divorciado,no reportado,independiente,no reportado,tecnico,76001000
+2011-08-18,valle,cali (ct),jueves,10:00:00,el lido e19,urbana,parqueadero,arma de fuego,a pie,a pie,58,masculino,soltero,no reportado,independiente,no reportado,primaria,76001000
+2011-08-18,valle,cali (ct),jueves,18:00:00,ciudad cordoba e15,urbana,vias publicas,no reportado,a pie,a pie,57,femenino,viudo,colombia,independiente,no reportado,secundaria,76001000
+2011-08-18,valle,cali (ct),jueves,18:30:00,prados de oriente e11,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-18,valle,cali (ct),jueves,20:30:00,ciudad jardin e22,urbana,vias publicas,no reportado,a pie,a pie,28,masculino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-08-19,valle,cali (ct),viernes,10:00:00,la flora e2,urbana,vias publicas,no reportado,a pie,a pie,no reportado,no reportado,no reportado,no reportado,no reportado,no reportado,no reportado,76001000
+2011-08-19,valle,cali (ct),viernes,13:00:00,santa monica popular e8,urbana,casas de habitacion,arma de fuego,a pie,a pie,49,masculino,soltero,no reportado,independiente,no reportado,tecnico,76001000
+2011-08-19,valle,cali (ct),viernes,20:30:00,ciudadela del rio e21,urbana,vias publicas,contundentes,a pie,vehiculo,17,femenino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-08-20,valle,cali (ct),sabado,09:00:00,mariano ramos e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,21,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-20,valle,cali (ct),sabado,10:00:00,manuela beltran e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,26,femenino,soltero,colombia,ama de casa,no reportado,secundaria,76001000
+2011-08-20,valle,cali (ct),sabado,12:08:00,villas de veracruz e5,urbana,casas de habitacion,contundentes,a pie,a pie,37,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-21,valle,cali (ct),domingo,03:00:00,asturias e12,urbana,casas de habitacion,contundentes,a pie,a pie,21,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-21,valle,cali (ct),domingo,06:47:00,caney e17,urbana,dentro de la vivienda,no reportado,a pie,a pie,33,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-08-21,valle,cali (ct),domingo,10:00:00,seminario e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,31,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-08-21,valle,cali (ct),domingo,14:30:00,alto aguacatal e1,urbana,vias publicas,arma de fuego,a pie,a pie,26,masculino,union libre,colombia,empleado policial,no reportado,secundaria,76001000
+2011-08-21,valle,cali (ct),domingo,15:30:00,siloe e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,37,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-21,valle,cali (ct),domingo,16:30:00,san vicente e2,urbana,vias publicas,arma de fuego,a pie,a pie,40,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-21,valle,cali (ct),domingo,16:30:00,prados del norte e2,urbana,vias publicas,contundentes,a pie,a pie,40,masculino,union libre,colombia,empleado particular,tecnico,tecnico,76001000
+2011-08-21,valle,cali (ct),domingo,22:00:00,el sena e5,urbana,casas de habitacion,contundentes,a pie,a pie,25,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-08-22,valle,cali (ct),lunes,19:00:00,villa san marcos e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-08-22,valle,cali (ct),lunes,21:00:00,vallado e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-23,valle,cali (ct),martes,00:00:00,san vicente e2,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-23,valle,cali (ct),martes,14:31:00,,urbana,clinicas y similares,arma de fuego,a pie,a pie,36,femenino,union libre,no reportado,independiente,no reportado,superior,76001000
+2011-08-23,valle,cali (ct),martes,18:00:00,omar torrijos e13,urbana,casas de habitacion,no reportado,a pie,a pie,32,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-08-23,valle,cali (ct),martes,18:00:00,puerto mallarino e7,urbana,vias publicas,no reportado,a pie,a pie,55,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-08-24,valle,cali (ct),miercoles,18:00:00,alfonso b. aragon e14,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-25,valle,cali (ct),jueves,10:38:00,el ingenio e17,urbana,casas de habitacion,no reportado,no reportado,a pie,45,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-25,valle,cali (ct),jueves,13:00:00,tequendama e19,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,casado,colombia,empleado salud,no reportado,superior,76001000
+2011-08-25,valle,cali (ct),jueves,14:30:00,laureano gomez e15,urbana,vias publicas,no reportado,a pie,a pie,32,femenino,casado,colombia,comerciante,no reportado,secundaria,76001000
+2011-08-25,valle,cali (ct),jueves,16:30:00,san nicolas e3,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-08-27,valle,cali (ct),sabado,07:00:00,alameda e9,urbana,vias publicas,no reportado,a pie,a pie,51,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-08-27,valle,cali (ct),sabado,08:30:00,calima e4,urbana,,no reportado,no reportado,no reportado,68,femenino,viudo,colombia,empleado particular,no reportado,superior,76001000
+2011-08-27,valle,cali (ct),sabado,17:30:00,ciudad cordoba e15,urbana,casas de habitacion,no reportado,a pie,a pie,43,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-27,valle,cali (ct),sabado,18:00:00,vallado e15,urbana,vias publicas,no reportado,a pie,a pie,26,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-27,valle,cali (ct),sabado,19:30:00,compartir e21,urbana,vias publicas,no reportado,a pie,a pie,59,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-28,valle,cali (ct),domingo,11:00:00,villa luz e21,urbana,vias publicas,no reportado,a pie,a pie,56,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-08-28,valle,cali (ct),domingo,16:30:00,belalcazar e9,urbana,vias publicas,no reportado,a pie,a pie,32,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-28,valle,cali (ct),domingo,21:30:00,porvenir e4,urbana,vias publicas,no reportado,a pie,a pie,28,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-28,valle,cali (ct),domingo,21:30:00,antonio narino e16,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-28,valle,cali (ct),domingo,23:00:00,el lido e19,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-08-29,valle,cali (ct),lunes,09:00:00,inv. brisas del cauca e21,urbana,casas de habitacion,contundentes,a pie,a pie,37,femenino,soltero,colombia,empleado particular,no reportado,primaria,76001000
+2011-08-29,valle,cali (ct),lunes,14:00:00,los andes e5,urbana,casas de habitacion,contundentes,a pie,a pie,40,masculino,casado,colombia,empleado particular,ingeniero,superior,76001000
+2011-08-29,valle,cali (ct),lunes,14:00:00,el cedro e19,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-29,valle,cali (ct),lunes,18:20:00,el troncal e8,urbana,vias publicas,no reportado,a pie,a pie,51,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-29,valle,cali (ct),lunes,22:05:00,santa monica popular e8,urbana,casas de habitacion,no reportado,a pie,a pie,51,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-08-30,valle,cali (ct),martes,10:00:00,mariano ramos e16,urbana,casas de habitacion,no reportado,a pie,a pie,33,femenino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-08-30,valle,cali (ct),martes,13:00:00,terron colorado e1,urbana,vias publicas,no reportado,a pie,a pie,47,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-08-30,valle,cali (ct),martes,14:00:00,antonio narino e16,urbana,vias publicas,no reportado,a pie,a pie,52,masculino,union libre,no reportado,independiente,no reportado,superior,76001000
+2011-08-30,valle,cali (ct),martes,14:40:00,el pondaje e13,urbana,vias publicas,no reportado,a pie,a pie,33,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-08-30,valle,cali (ct),martes,15:40:00,los alcazares e6,urbana,dentro de la vivienda,no reportado,a pie,a pie,20,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-08-30,valle,cali (ct),martes,18:00:00,inv. la florida e13,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-08-30,valle,cali (ct),martes,23:00:00,los guaduales e6,urbana,casas de habitacion,no reportado,a pie,a pie,45,femenino,divorciado,colombia,independiente,no reportado,tecnico,76001000
+2011-08-31,valle,cali (ct),miercoles,12:30:00,san judas tadeo i e10,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-02,valle,cali (ct),viernes,11:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,26,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-02,valle,cali (ct),viernes,15:00:00,santa rosa e3,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-02,valle,cali (ct),viernes,16:00:00,viila del parque e5,urbana,vias publicas,no reportado,a pie,a pie,18,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-02,valle,cali (ct),viernes,17:00:00,primitivo crespo e8,urbana,vias publicas,no reportado,a pie,a pie,38,masculino,union libre,colombia,desempleado,no reportado,tecnico,76001000
+2011-09-03,valle,cali (ct),sabado,03:00:00,torres de confandi e5,urbana,casas de habitacion,contundentes,a pie,a pie,43,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-09-04,valle,cali (ct),domingo,03:00:00,petecuy i e6,urbana,vias publicas,arma de fuego,a pie,a pie,33,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-09-04,valle,cali (ct),domingo,09:00:00,el troncal e8,urbana,casas de habitacion,no reportado,a pie,a pie,37,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-09-04,valle,cali (ct),domingo,15:00:00,torres de confandi e5,urbana,casas de habitacion,arma de fuego,a pie,a pie,24,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-04,valle,cali (ct),domingo,15:00:00,batallon pichinchae18,urbana,vias publicas,no reportado,a pie,a pie,39,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-04,valle,cali (ct),domingo,15:00:00,pizamos i e21,urbana,vias publicas,no reportado,a pie,a pie,42,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-09-04,valle,cali (ct),domingo,19:00:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,50,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-05,valle,cali (ct),lunes,04:00:00,el pondaje e13,urbana,vias publicas,no reportado,a pie,a pie,37,femenino,viudo,colombia,no reporta,no reportado,primaria,76001000
+2011-09-05,valle,cali (ct),lunes,10:00:00,ciudad cordoba e15,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,casado,colombia,desempleado,no reportado,superior,76001000
+2011-09-06,valle,cali (ct),martes,14:30:00,paz e13,urbana,casas de habitacion,no reportado,a pie,a pie,30,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-07,valle,cali (ct),miercoles,13:25:00,el poblado i e13,urbana,vias publicas,contundentes,a pie,a pie,40,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-08,valle,cali (ct),jueves,01:00:00,ciudad cordoba e15,urbana,vias publicas,arma de fuego,a pie,a pie,28,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-08,valle,cali (ct),jueves,13:30:00,cristobal colon e10,urbana,casas de habitacion,arma blanca,a pie,a pie,75,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-08,valle,cali (ct),jueves,17:00:00,potrero grande e21,urbana,vias publicas,no reportado,a pie,a pie,22,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-09-09,valle,cali (ct),viernes,12:00:00,jose m. marroquin ii e14,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,no reportado,desempleado,no reportado,primaria,76001000
+2011-09-11,valle,cali (ct),domingo,23:59:00,villa del prado e5,urbana,casas de habitacion,contundentes,a pie,a pie,43,masculino,casado,colombia,empleado particular,no reportado,secundaria,76001000
+2011-09-12,valle,cali (ct),lunes,08:00:00,alfonso lopez i e7,urbana,casas de habitacion,contundentes,a pie,a pie,54,masculino,casado,colombia,independiente,no reportado,primaria,76001000
+2011-09-12,valle,cali (ct),lunes,16:52:00,prados del sur e18,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,no reportado,desempleado,no reportado,superior,76001000
+2011-09-13,valle,cali (ct),martes,15:00:00,siete de agosto e7,urbana,vias publicas,no reportado,a pie,a pie,28,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-13,valle,cali (ct),martes,22:00:00,puerto mallarino e7,urbana,casas de habitacion,arma de fuego,a pie,a pie,20,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-14,valle,cali (ct),miercoles,09:30:00,los cambulos e19,urbana,vias publicas,no reportado,conductor motocicleta,vehiculo,34,masculino,union libre,colombia,empleado publico,no reportado,tecnico,76001000
+2011-09-15,valle,cali (ct),jueves,12:00:00,jose m. marroquin ii e14,urbana,vias publicas,no reportado,a pie,a pie,39,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-09-16,valle,cali (ct),viernes,15:00:00,la rivera e5,urbana,vias publicas,no reportado,a pie,a pie,17,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-17,valle,cali (ct),sabado,14:00:00,seminario e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,36,masculino,casado,colombia,comerciante,no reportado,secundaria,76001000
+2011-09-19,valle,cali (ct),lunes,08:30:00,paso del comercio e6,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-19,valle,cali (ct),lunes,13:00:00,ciudadela floralia e6,urbana,casas de habitacion,contundentes,a pie,a pie,31,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-19,valle,cali (ct),lunes,22:10:00,20 de julio e11,urbana,casas de habitacion,no reportado,a pie,a pie,19,masculino,soltero,colombia,empleado salud,no reportado,tecnologo,76001000
+2011-09-20,valle,cali (ct),martes,08:00:00,polvorines e18,urbana,vias publicas,no reportado,a pie,a pie,33,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-20,valle,cali (ct),martes,11:00:00,alfonso lopez i e7,urbana,,contundentes,a pie,a pie,51,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-09-20,valle,cali (ct),martes,12:00:00,alto aguacatal e1,urbana,vias publicas,no reportado,a pie,a pie,22,femenino,soltero,colombia,empleado policial,policia,tecnico,76001000
+2011-09-21,valle,cali (ct),miercoles,10:00:00,cgto montebello e1,rural,vias publicas,no reportado,a pie,a pie,30,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-09-21,valle,cali (ct),miercoles,13:30:00,canaveralejo guadalupe e19,urbana,vias publicas,no reportado,a pie,a pie,25,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-22,valle,cali (ct),jueves,05:00:00,santa elena e10,urbana,vias publicas,no reportado,a pie,a pie,47,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-22,valle,cali (ct),jueves,13:10:00,12 de octubre e12,urbana,vias publicas,no reportado,a pie,a pie,48,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-09-22,valle,cali (ct),jueves,18:00:00,departamental e10,urbana,vias publicas,arma de fuego,a pie,a pie,51,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-09-22,valle,cali (ct),jueves,19:15:00,el jardin e11,urbana,vias publicas,no reportado,a pie,a pie,41,femenino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-22,valle,cali (ct),jueves,21:30:00,el refugio e19,urbana,vias publicas,no reportado,a pie,a pie,42,masculino,soltero,colombia,desempleado,no reportado,superior,76001000
+2011-09-23,valle,cali (ct),viernes,10:30:00,san pedro e3,urbana,oficinas,arma de fuego,a pie,a pie,41,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-09-23,valle,cali (ct),viernes,10:30:00,calima e4,urbana,oficinas,no reportado,a pie,a pie,27,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-09-23,valle,cali (ct),viernes,10:45:00,villa del sur e11,urbana,casas de habitacion,no reportado,a pie,a pie,34,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-23,valle,cali (ct),viernes,18:30:00,lourdes e18,urbana,vias publicas,no reportado,a pie,a pie,54,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-09-23,valle,cali (ct),viernes,21:30:00,el troncal e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-23,valle,cali (ct),viernes,21:30:00,brisas de mayo e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,59,masculino,casado,colombia,no reporta,no reportado,secundaria,76001000
+2011-09-25,valle,cali (ct),domingo,10:00:00,santa elena e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,55,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-09-27,valle,cali (ct),martes,08:00:00,siete de agosto e7,urbana,vias publicas,contundentes,a pie,a pie,37,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-28,valle,cali (ct),miercoles,18:00:00,cristobal colon e10,urbana,casas de habitacion,no reportado,a pie,a pie,54,femenino,soltero,colombia,ama de casa,no reportado,secundaria,76001000
+2011-09-28,valle,cali (ct),miercoles,20:00:00,el poblado i e13,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-09-29,valle,cali (ct),jueves,07:02:00,el retiro e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,34,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-09-29,valle,cali (ct),jueves,14:00:00,mariano ramos e16,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-09-29,valle,cali (ct),jueves,15:00:00,terron colorado e1,urbana,vias publicas,no reportado,a pie,a pie,52,masculino,casado,colombia,desempleado,no reportado,tecnico,76001000
+2011-09-29,valle,cali (ct),jueves,16:30:00,vipasa e2,urbana,oficinas,no reportado,a pie,a pie,43,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-09-30,valle,cali (ct),viernes,09:00:00,inv. la florida e13,urbana,casas de habitacion,no reportado,a pie,a pie,58,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-09-30,valle,cali (ct),viernes,12:30:00,santa elena e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-09-30,valle,cali (ct),viernes,20:20:00,andres sanin e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,41,femenino,divorciado,no reportado,independiente,no reportado,tecnico,76001000
+2011-09-30,valle,cali (ct),viernes,23:00:00,petecuy i e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,26,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-01,valle,cali (ct),sabado,23:30:00,alfonso b. aragon e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-02,valle,cali (ct),domingo,14:55:00,el limonar e17,urbana,vias publicas,arma de fuego,a pie,a pie,35,masculino,soltero,colombia,candidatos,no reportado,tecnico,76001000
+2011-10-03,valle,cali (ct),lunes,08:00:00,cgto la buitrera e18,rural,casas de habitacion,no reportado,a pie,a pie,no reportado,no reportado,no reportado,no reportado,no reportado,no reportado,no reportado,76001000
+2011-10-03,valle,cali (ct),lunes,18:00:00,ciudadela confandi e17,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-03,valle,cali (ct),lunes,18:30:00,,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,45,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-10-04,valle,cali (ct),martes,08:25:00,el refugio e19,urbana,"colegios, escuelas",no reportado,no reportado,a pie,23,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-10-04,valle,cali (ct),martes,08:30:00,ciudad talanga e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,50,masculino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-10-04,valle,cali (ct),martes,14:50:00,villanueva (carcel) e11,urbana,vias publicas,contundentes,a pie,a pie,30,masculino,casado,colombia,empleado policial,policia,tecnico,76001000
+2011-10-05,valle,cali (ct),miercoles,10:30:00,puertas del sol e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,33,masculino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-10-05,valle,cali (ct),miercoles,15:00:00,mojica e15,urbana,vias publicas,no reportado,a pie,a pie,50,femenino,casado,colombia,desempleado,no reportado,tecnico,76001000
+2011-10-05,valle,cali (ct),miercoles,19:00:00,popular e4,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,59,femenino,casado,colombia,ama de casa,no reportado,primaria,76001000
+2011-10-06,valle,cali (ct),jueves,09:00:00,,urbana,vias publicas,no reportado,conductor motocicleta,vehiculo,27,femenino,soltero,colombia,empleado particular,no reportado,superior,76001000
+2011-10-06,valle,cali (ct),jueves,10:00:00,ciudad 2000 e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,casado,colombia,ama de casa,no reportado,secundaria,76001000
+2011-10-06,valle,cali (ct),jueves,15:00:00,jose m. marroquin ii e14,urbana,vias publicas,no reportado,a pie,a pie,27,femenino,soltero,no reportado,independiente,no reportado,superior,76001000
+2011-10-06,valle,cali (ct),jueves,15:30:00,san antonio e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,42,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-10-06,valle,cali (ct),jueves,18:18:00,ciudad modelo e11,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,13,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-10-07,valle,cali (ct),viernes,06:32:00,el ingenio e17,urbana,dentro de la vivienda,contundentes,a pie,a pie,33,femenino,casado,colombia,comerciante,no reportado,superior,76001000
+2011-10-07,valle,cali (ct),viernes,12:00:00,pasoancho e10,urbana,vias publicas,arma de fuego,a pie,a pie,38,masculino,casado,no reportado,independiente,no reportado,superior,76001000
+2011-10-07,valle,cali (ct),viernes,14:00:00,las orquideas e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,50,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-07,valle,cali (ct),viernes,16:30:00,comfenalco e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,femenino,union libre,colombia,independiente,no reportado,tecnico,76001000
+2011-10-07,valle,cali (ct),viernes,18:57:00,el troncal e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,52,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-07,valle,cali (ct),viernes,20:30:00,mojica e15,urbana,casas de habitacion,no reportado,a pie,a pie,43,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-10-08,valle,cali (ct),sabado,03:11:00,las delicias,urbana,vias publicas,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-08,valle,cali (ct),sabado,11:13:00,villacatalina e20,urbana,billares,no reportado,a pie,a pie,53,masculino,soltero,colombia,independiente,no reportado,analfabeta,76001000
+2011-10-08,valle,cali (ct),sabado,15:00:00,diamante e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,29,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-10-08,valle,cali (ct),sabado,16:00:00,villa del lago e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,30,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-08,valle,cali (ct),sabado,21:00:00,terron colorado e1,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,19,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-08,valle,cali (ct),sabado,22:00:00,junin e9,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-10-09,valle,cali (ct),domingo,10:00:00,mojica e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,37,femenino,viudo,no reportado,ama de casa,no reportado,primaria,76001000
+2011-10-09,valle,cali (ct),domingo,12:00:00,ciudadela confandi e17,urbana,casas de habitacion,no reportado,no reportado,a pie,47,femenino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-10-09,valle,cali (ct),domingo,12:00:00,san pedro e3,urbana,vias publicas,arma de fuego,a pie,a pie,39,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-10-09,valle,cali (ct),domingo,13:00:00,san fernando nuevo e19,urbana,vias publicas,arma de fuego,a pie,a pie,43,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-10-09,valle,cali (ct),domingo,19:00:00,salomia e4,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,48,femenino,viudo,colombia,independiente,no reportado,secundaria,76001000
+2011-10-09,valle,cali (ct),domingo,21:30:00,santa monica residencial e2,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,34,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-10-10,valle,cali (ct),lunes,12:58:00,republica israel e16,urbana,,arma de fuego,a pie,a pie,31,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-10-10,valle,cali (ct),lunes,13:00:00,versalles e2,urbana,dentro de la vivienda,no reportado,a pie,a pie,47,femenino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-10-11,valle,cali (ct),martes,08:28:00,valle grande e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,38,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-11,valle,cali (ct),martes,09:00:00,alameda e9,urbana,dentro de la vivienda,arma de fuego,a pie,no reportado,48,femenino,no reportado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-11,valle,cali (ct),martes,11:00:00,alfonso lopez iii e7,urbana,vias publicas,contundentes,conductor motocicleta,a pie,46,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-11,valle,cali (ct),martes,12:30:00,villacolombia e8,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,67,masculino,no reportado,no reportado,independiente,no reportado,primaria,76001000
+2011-10-11,valle,cali (ct),martes,17:00:00,los lagos e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-10-12,valle,cali (ct),miercoles,14:41:00,viila del parque e5,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,casado,colombia,desempleado,no reportado,superior,76001000
+2011-10-12,valle,cali (ct),miercoles,15:00:00,siete de agosto e7,urbana,vias publicas,no reportado,a pie,a pie,52,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-12,valle,cali (ct),miercoles,18:47:00,urbanizacion la merced e2,urbana,casas de habitacion,no reportado,a pie,a pie,25,femenino,soltero,colombia,empleado particular,no reportado,tecnico,76001000
+2011-10-12,valle,cali (ct),miercoles,20:00:00,antonio narino e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,28,masculino,union libre,no reportado,ama de casa,no reportado,primaria,76001000
+2011-10-13,valle,cali (ct),jueves,00:00:00,flora industrial e4,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-10-13,valle,cali (ct),jueves,11:00:00,san vicente e2,urbana,vias publicas,arma de fuego,a pie,a pie,17,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-10-13,valle,cali (ct),jueves,19:30:00,prados del norte e2,urbana,dentro de la vivienda,no reportado,a pie,a pie,41,masculino,casado,colombia,empleado particular,no reportado,superior,76001000
+2011-10-15,valle,cali (ct),sabado,08:00:00,cgto la voragine,rural,vias publicas,no reportado,a pie,a pie,37,femenino,soltero,no reportado,ama de casa,no reportado,secundaria,76001000
+2011-10-15,valle,cali (ct),sabado,13:00:00,cgto la voragine e22,rural,vias publicas,no reportado,a pie,a pie,43,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-15,valle,cali (ct),sabado,17:00:00,cgto la voragine e22,rural,vias publicas,no reportado,a pie,a pie,41,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-16,valle,cali (ct),domingo,09:00:00,desepaz invicali e21,urbana,vias publicas,no reportado,a pie,a pie,63,masculino,divorciado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-16,valle,cali (ct),domingo,19:30:00,chiminangos i e5,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,union libre,colombia,desempleado,no reportado,superior,76001000
+2011-10-18,valle,cali (ct),martes,07:30:00,las orquideas e14,urbana,casas de habitacion,no reportado,a pie,a pie,17,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-10-19,valle,cali (ct),miercoles,07:30:00,el sena e5,urbana,vias publicas,no reportado,a pie,a pie,43,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-19,valle,cali (ct),miercoles,10:00:00,antonio narino e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,20,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-19,valle,cali (ct),miercoles,10:15:00,el poblado i e13,urbana,vias publicas,no reportado,a pie,a pie,43,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-19,valle,cali (ct),miercoles,12:30:00,alirio mora beltran e14,urbana,vias publicas,no reportado,a pie,a pie,59,masculino,union libre,colombia,empleado particular,no reportado,primaria,76001000
+2011-10-20,valle,cali (ct),jueves,00:00:00,primavera e11,urbana,vias publicas,no reportado,a pie,a pie,26,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-20,valle,cali (ct),jueves,11:00:00,calimio desepaz e21,urbana,casas de habitacion,no reportado,a pie,a pie,38,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-20,valle,cali (ct),jueves,15:30:00,centenario e2,urbana,oficinas,no reportado,a pie,a pie,28,femenino,casado,colombia,empleado particular,no reportado,tecnico,76001000
+2011-10-20,valle,cali (ct),jueves,16:30:00,brisas de mayo e20,urbana,vias publicas,no reportado,a pie,a pie,21,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-21,valle,cali (ct),viernes,08:00:00,la merced e3,urbana,casas de habitacion,no reportado,a pie,a pie,60,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-21,valle,cali (ct),viernes,10:00:00,tequendama e19,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-21,valle,cali (ct),viernes,15:00:00,alfonso lopez i e7,urbana,vias publicas,no reportado,a pie,a pie,39,masculino,casado,colombia,desempleado,no reportado,tecnico,76001000
+2011-10-21,valle,cali (ct),viernes,19:00:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,48,masculino,divorciado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-21,valle,cali (ct),viernes,20:00:00,el limonar e17,urbana,casas de habitacion,no reportado,a pie,a pie,47,femenino,separado,colombia,empleado particular,no reportado,superior,76001000
+2011-10-22,valle,cali (ct),sabado,00:00:00,pance e22,urbana,vias publicas,no reportado,a pie,a pie,32,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-10-22,valle,cali (ct),sabado,13:15:00,el guabal e10,urbana,local comercial,no reportado,a pie,a pie,19,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-10-24,valle,cali (ct),lunes,07:30:00,ciudad cordoba e15,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-24,valle,cali (ct),lunes,14:00:00,los andes e5,urbana,vias publicas,no reportado,a pie,a pie,33,masculino,union libre,no reportado,independiente,no reportado,superior,76001000
+2011-10-24,valle,cali (ct),lunes,17:00:00,ciudadela floralia e6,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,union libre,colombia,empleado policial,policia,secundaria,76001000
+2011-10-24,valle,cali (ct),lunes,19:10:00,lleras camargo e20,urbana,casas de habitacion,no reportado,a pie,a pie,54,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-24,valle,cali (ct),lunes,20:00:00,alfonso b. aragon e14,urbana,vias publicas,no reportado,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-24,valle,cali (ct),lunes,23:00:00,eduardo santos e12,urbana,vias publicas,no reportado,a pie,a pie,47,femenino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-10-25,valle,cali (ct),martes,07:30:00,alto aguacatal e1,urbana,vias publicas,no reportado,a pie,a pie,54,masculino,divorciado,no reportado,desempleado,no reportado,primaria,76001000
+2011-10-25,valle,cali (ct),martes,11:00:00,los comuneros i e15,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-25,valle,cali (ct),martes,13:00:00,el jardin e11,urbana,vias publicas,no reportado,a pie,a pie,28,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-25,valle,cali (ct),martes,13:00:00,san cayetano e3,urbana,vias publicas,no reportado,a pie,a pie,57,femenino,soltero,no reportado,independiente,no reportado,superior,76001000
+2011-10-26,valle,cali (ct),miercoles,08:00:00,omar torrijos e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,62,masculino,casado,no reportado,independiente,no reportado,primaria,76001000
+2011-10-26,valle,cali (ct),miercoles,10:00:00,el penon e3,urbana,vias publicas,no reportado,a pie,a pie,25,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-10-26,valle,cali (ct),miercoles,15:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-26,valle,cali (ct),miercoles,19:00:00,antonio narino e16,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-27,valle,cali (ct),jueves,12:50:00,prados de oriente e11,urbana,vias publicas,no reportado,a pie,a pie,22,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-27,valle,cali (ct),jueves,14:00:00,compartir e21,urbana,vias publicas,no reportado,a pie,a pie,56,femenino,soltero,colombia,ama de casa,no reportado,primaria,76001000
+2011-10-27,valle,cali (ct),jueves,16:00:00,el guabal e10,urbana,vias publicas,contundentes,a pie,a pie,20,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-10-27,valle,cali (ct),jueves,16:00:00,brisas de los alamos e2,urbana,vias publicas,no reportado,a pie,a pie,37,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-10-28,valle,cali (ct),viernes,09:30:00,marroquin i e14,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-28,valle,cali (ct),viernes,15:00:00,pizamos i e21,urbana,vias publicas,no reportado,a pie,a pie,22,femenino,casado,colombia,estudiante,no reportado,superior,76001000
+2011-10-28,valle,cali (ct),viernes,17:30:00,siloe e20,urbana,vias publicas,no reportado,a pie,a pie,47,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-28,valle,cali (ct),viernes,21:00:00,alfonso lopez i e7,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-10-29,valle,cali (ct),sabado,13:30:00,chapinero e8,urbana,casas de habitacion,no reportado,a pie,a pie,48,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-29,valle,cali (ct),sabado,18:30:00,vallado e15,urbana,vias publicas,no reportado,a pie,a pie,25,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-10-29,valle,cali (ct),sabado,19:30:00,el jardin e11,urbana,casas de habitacion,no reportado,a pie,a pie,44,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-30,valle,cali (ct),domingo,10:00:00,metropolitano del norte e5,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-10-30,valle,cali (ct),domingo,20:00:00,potrero grande e21,urbana,casas de habitacion,no reportado,a pie,a pie,20,masculino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-10-30,valle,cali (ct),domingo,21:00:00,los lideres e21,urbana,vias publicas,no reportado,a pie,a pie,51,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-10-31,valle,cali (ct),lunes,14:00:00,marroquin i e14,urbana,casas de habitacion,no reportado,a pie,a pie,13,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-10-31,valle,cali (ct),lunes,15:45:00,las granjas e10,urbana,casas de habitacion,no reportado,vehiculo,a pie,33,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-10-31,valle,cali (ct),lunes,16:00:00,nueva floresta e12,urbana,vias publicas,no reportado,a pie,a pie,49,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-10-31,valle,cali (ct),lunes,16:30:00,alfonso b. aragon e14,urbana,vias publicas,no reportado,a pie,a pie,67,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-11-01,valle,cali (ct),martes,15:00:00,,urbana,vias publicas,no reportado,a pie,a pie,25,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-01,valle,cali (ct),martes,15:00:00,canaveralejo guadalupe e19,urbana,vias publicas,no reportado,a pie,a pie,48,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-01,valle,cali (ct),martes,19:30:00,los comuneros ii e13,urbana,vias publicas,no reportado,a pie,a pie,40,femenino,soltero,colombia,desempleado,no reportado,primaria,76001000
+2011-11-01,valle,cali (ct),martes,20:40:00,aguablanca e11,urbana,vias publicas,arma blanca,a pie,a pie,41,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-01,valle,cali (ct),martes,21:30:00,los comuneros ii e13,urbana,casas de habitacion,no reportado,a pie,a pie,28,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-02,valle,cali (ct),miercoles,11:20:00,primero de mayo e17,urbana,interior vehiculo servicio publico,arma de fuego,pasajero bus,pasajero bus,19,masculino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-11-02,valle,cali (ct),miercoles,13:30:00,las americas e8,urbana,casas de habitacion,no reportado,a pie,a pie,45,femenino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-11-02,valle,cali (ct),miercoles,13:30:00,vallado e15,urbana,vias publicas,no reportado,a pie,a pie,30,femenino,soltero,colombia,desempleado,no reportado,superior,76001000
+2011-11-03,valle,cali (ct),jueves,09:00:00,san fernando nuevo e19,urbana,vias publicas,no reportado,a pie,a pie,45,masculino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-11-03,valle,cali (ct),jueves,11:11:00,san pascual e3,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,union libre,colombia,desempleado,no reportado,tecnico,76001000
+2011-11-03,valle,cali (ct),jueves,11:30:00,los comuneros i e15,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,union libre,colombia,independiente,no reportado,superior,76001000
+2011-11-03,valle,cali (ct),jueves,13:31:00,aguablanca e11,urbana,vias publicas,no reportado,a pie,a pie,69,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-03,valle,cali (ct),jueves,16:00:00,manuela beltran e14,urbana,casas de habitacion,no reportado,a pie,a pie,31,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-03,valle,cali (ct),jueves,16:47:00,ciudadela del rio e21,urbana,vias publicas,no reportado,a pie,a pie,14,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-03,valle,cali (ct),jueves,20:00:00,santo domingo e10,urbana,vias publicas,no reportado,a pie,a pie,45,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-04,valle,cali (ct),viernes,05:30:00,alferez real e18,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,32,femenino,union libre,colombia,independiente,no reportado,tecnico,76001000
+2011-11-04,valle,cali (ct),viernes,11:00:00,metropolitano del norte e5,urbana,vias publicas,no reportado,a pie,a pie,35,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-04,valle,cali (ct),viernes,15:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,31,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-05,valle,cali (ct),sabado,13:50:00,cristobal colon e10,urbana,vias publicas,no reportado,a pie,a pie,41,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-06,valle,cali (ct),domingo,11:30:00,la rivera e5,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-07,valle,cali (ct),lunes,01:00:00,prados de oriente e11,urbana,casas de habitacion,arma de fuego,a pie,a pie,38,femenino,union libre,colombia,desempleado,no reportado,tecnico,76001000
+2011-11-07,valle,cali (ct),lunes,13:00:00,villa del sol e5,urbana,vias publicas,no reportado,a pie,a pie,41,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-07,valle,cali (ct),lunes,14:00:00,compartir e21,urbana,casas de habitacion,no reportado,a pie,a pie,26,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-07,valle,cali (ct),lunes,20:00:00,siloe e20,urbana,vias publicas,arma de fuego,a pie,a pie,61,masculino,casado,no reportado,desempleado,no reportado,primaria,76001000
+2011-11-08,valle,cali (ct),martes,17:49:00,san nicolas e3,urbana,vias publicas,no reportado,a pie,a pie,47,masculino,casado,colombia,empleado publico,no reportado,superior,76001000
+2011-11-08,valle,cali (ct),martes,18:30:00,calimio desepaz e21,urbana,vias publicas,no reportado,a pie,a pie,22,femenino,soltero,colombia,ama de casa,no reportado,secundaria,76001000
+2011-11-08,valle,cali (ct),martes,18:30:00,,urbana,vias publicas,no reportado,a pie,a pie,35,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-11-09,valle,cali (ct),miercoles,09:00:00,valle grande e21,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-09,valle,cali (ct),miercoles,11:00:00,el guabal e10,urbana,vias publicas,no reportado,a pie,a pie,47,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-11-09,valle,cali (ct),miercoles,17:00:00,santo domingo e10,urbana,establecimientos revisados,no reportado,a pie,a pie,56,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-11-10,valle,cali (ct),jueves,07:00:00,terron colorado e1,urbana,casas de habitacion,no reportado,no reportado,a pie,28,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-10,valle,cali (ct),jueves,11:00:00,brisas del guavito e5,urbana,vias publicas,no reportado,a pie,a pie,46,masculino,union libre,no reportado,independiente,no reportado,superior,76001000
+2011-11-10,valle,cali (ct),jueves,12:00:00,alfonso lopez i e7,urbana,vias publicas,no reportado,a pie,a pie,37,femenino,casado,colombia,desempleado,no reportado,tecnico,76001000
+2011-11-10,valle,cali (ct),jueves,12:00:00,melendez e18,urbana,vias publicas,no reportado,a pie,a pie,46,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-10,valle,cali (ct),jueves,18:00:00,santo domingo e10,urbana,casas de habitacion,no reportado,a pie,a pie,11,masculino,soltero,colombia,estudiante,no reportado,primaria,76001000
+2011-11-11,valle,cali (ct),viernes,11:00:00,mariano ramos e16,urbana,vias publicas,arma de fuego,a pie,a pie,33,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-11-11,valle,cali (ct),viernes,11:00:00,mariano ramos e16,urbana,vias publicas,no reportado,a pie,a pie,23,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-11,valle,cali (ct),viernes,14:30:00,aguablanca e11,urbana,vias publicas,no reportado,a pie,a pie,46,femenino,casado,colombia,comerciante,no reportado,tecnico,76001000
+2011-11-11,valle,cali (ct),viernes,15:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,56,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-11-11,valle,cali (ct),viernes,16:30:00,santo domingo e10,urbana,vias publicas,arma de fuego,a pie,a pie,52,masculino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-11-12,valle,cali (ct),sabado,10:20:00,caney e17,urbana,vias publicas,no reportado,a pie,a pie,49,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-11-12,valle,cali (ct),sabado,12:00:00,charco azul e13,urbana,vias publicas,no reportado,a pie,a pie,31,masculino,union libre,colombia,desempleado,no reportado,primaria,76001000
+2011-11-12,valle,cali (ct),sabado,19:00:00,alfonso lopez iii e7,urbana,vias publicas,no reportado,a pie,a pie,37,femenino,soltero,no reportado,desempleado,no reportado,primaria,76001000
+2011-11-13,valle,cali (ct),domingo,11:00:00,siloe e20,urbana,vias publicas,no reportado,a pie,a pie,38,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-13,valle,cali (ct),domingo,19:30:00,san luis e6,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-13,valle,cali (ct),domingo,20:00:00,las orquideas e14,urbana,vias publicas,no reportado,a pie,a pie,28,femenino,soltero,colombia,desempleado,no reportado,tecnico,76001000
+2011-11-13,valle,cali (ct),domingo,21:48:00,los guaduales e6,urbana,casas de habitacion,no reportado,a pie,a pie,48,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-14,valle,cali (ct),lunes,12:00:00,la hacienda e17,urbana,vias publicas,no reportado,a pie,a pie,45,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-11-14,valle,cali (ct),lunes,15:00:00,el troncal e8,urbana,vias publicas,no reportado,a pie,a pie,19,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-15,valle,cali (ct),martes,10:00:00,mojica e15,urbana,vias publicas,no reportado,a pie,a pie,21,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-15,valle,cali (ct),martes,17:00:00,san fernando nuevo e19,urbana,vias publicas,no reportado,a pie,a pie,41,masculino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-11-16,valle,cali (ct),miercoles,15:00:00,san pedro e3,urbana,vias publicas,no reportado,a pie,a pie,38,femenino,casado,colombia,comerciante,no reportado,secundaria,76001000
+2011-11-16,valle,cali (ct),miercoles,15:30:00,la selva e10,urbana,"colegios, escuelas",arma de fuego,a pie,a pie,61,femenino,soltero,colombia,independiente,no reportado,superior,76001000
+2011-11-16,valle,cali (ct),miercoles,19:30:00,la esperanza e11,urbana,vias publicas,arma de fuego,a pie,a pie,41,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-17,valle,cali (ct),jueves,19:30:00,el poblado i e13,urbana,vias publicas,no reportado,a pie,a pie,55,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-11-19,valle,cali (ct),sabado,10:50:00,popular e4,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,30,femenino,casado,colombia,independiente,no reportado,tecnico,76001000
+2011-11-20,valle,cali (ct),domingo,09:00:00,santa anita e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,68,masculino,divorciado,colombia,independiente,no reportado,tecnico,76001000
+2011-11-20,valle,cali (ct),domingo,10:00:00,uribe uribe e8,urbana,vias publicas,no reportado,a pie,a pie,37,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-11-20,valle,cali (ct),domingo,12:25:00,colseguros andes e10,urbana,casas de habitacion,no reportado,a pie,a pie,36,masculino,separado,colombia,independiente,administrador de empresas,superior,76001000
+2011-11-20,valle,cali (ct),domingo,18:00:00,el retiro e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,63,femenino,soltero,no reportado,ama de casa,no reportado,secundaria,76001000
+2011-11-20,valle,cali (ct),domingo,21:00:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-11-21,valle,cali (ct),lunes,10:40:00,caney e17,urbana,casas de habitacion,no reportado,vehiculo,a pie,39,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-21,valle,cali (ct),lunes,22:30:00,pance e22,urbana,casas de habitacion,no reportado,no reportado,a pie,43,femenino,soltero,colombia,independiente,bacteriologo,superior,76001000
+2011-11-22,valle,cali (ct),martes,10:00:00,san nicolas e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,48,masculino,casado,no reportado,independiente,no reportado,secundaria,76001000
+2011-11-22,valle,cali (ct),martes,12:40:00,centenario e2,urbana,oficinas,no reportado,a pie,a pie,43,masculino,casado,colombia,empleado publico,abogado,superior,76001000
+2011-11-23,valle,cali (ct),miercoles,00:20:00,altos normandia e2,urbana,apartamento en conjunto cerrado,no reportado,a pie,a pie,38,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-11-24,valle,cali (ct),jueves,23:00:00,ciudad modelo e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,46,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-11-25,valle,cali (ct),viernes,16:15:00,tequendama e19,urbana,oficinas,no reportado,a pie,a pie,24,femenino,soltero,colombia,empleado particular,no reportado,tecnologo,76001000
+2011-11-25,valle,cali (ct),viernes,21:19:00,ciudad jardin e22,urbana,casas de habitacion,no reportado,a pie,a pie,40,femenino,separado,colombia,empleado salud,no reportado,superior,76001000
+2011-11-26,valle,cali (ct),sabado,11:45:00,fatima e4,urbana,dentro de la vivienda,no reportado,a pie,a pie,45,femenino,separado,colombia,independiente,no reportado,primaria,76001000
+2011-11-26,valle,cali (ct),sabado,15:59:00,chipichape e2,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,divorciado,colombia,independiente,no reportado,superior,76001000
+2011-11-27,valle,cali (ct),domingo,09:00:00,puerto mallarino e7,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-27,valle,cali (ct),domingo,13:20:00,alfonso b. aragon e14,urbana,vias publicas,arma de fuego,a pie,a pie,29,masculino,separado,colombia,independiente,no reportado,secundaria,76001000
+2011-11-28,valle,cali (ct),lunes,19:54:00,lleras restrepo e13,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,25,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-11-29,valle,cali (ct),martes,02:00:00,ciudadela floralia e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,18,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-11-30,valle,cali (ct),miercoles,04:00:00,siloe e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-01,valle,cali (ct),jueves,19:30:00,la rivera e5,urbana,vias publicas,no reportado,a pie,a pie,33,masculino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-12-02,valle,cali (ct),viernes,11:00:00,villa del sol e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,28,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-02,valle,cali (ct),viernes,18:50:00,san joaquin e17,urbana,casas de habitacion,no reportado,a pie,a pie,50,masculino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-12-02,valle,cali (ct),viernes,18:50:00,valle del lili e17,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,50,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-02,valle,cali (ct),viernes,19:00:00,el jordan e18,urbana,casas de habitacion,arma de fuego,a pie,a pie,29,masculino,union libre,colombia,desempleado,no reportado,secundaria,76001000
+2011-12-03,valle,cali (ct),sabado,06:00:00,marroquin i e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-12-03,valle,cali (ct),sabado,14:00:00,los robles e13,urbana,vias publicas,no reportado,a pie,a pie,27,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-12-03,valle,cali (ct),sabado,21:00:00,bellavista e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,54,femenino,casado,colombia,ama de casa,no reportado,primaria,76001000
+2011-12-03,valle,cali (ct),sabado,22:00:00,camilo torres e4,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-12-04,valle,cali (ct),domingo,19:00:00,puertas del sol e14,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,36,masculino,union libre,colombia,independiente,no reportado,primaria,76001000
+2011-12-04,valle,cali (ct),domingo,22:15:00,villa del prado e5,urbana,vias publicas,arma de fuego,a pie,a pie,24,masculino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-12-05,valle,cali (ct),lunes,11:30:00,las acacias e10,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,52,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-12-05,valle,cali (ct),lunes,11:30:00,las acacias e10,urbana,vias publicas,no reportado,a pie,a pie,52,masculino,casado,colombia,independiente,no reportado,superior,76001000
+2011-12-05,valle,cali (ct),lunes,17:30:00,la esmeralda e4,urbana,casas de habitacion,no reportado,a pie,a pie,45,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-05,valle,cali (ct),lunes,19:00:00,santa isabel e19,urbana,casas de habitacion,no reportado,no reportado,a pie,22,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-12-05,valle,cali (ct),lunes,19:19:00,el sena e5,urbana,dentro de la vivienda,no reportado,a pie,a pie,21,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-12-05,valle,cali (ct),lunes,20:35:00,los alcazares e6,urbana,vias publicas,arma de fuego,a pie,a pie,32,femenino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-12-06,valle,cali (ct),martes,10:00:00,san luis e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,24,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-06,valle,cali (ct),martes,10:00:00,san luis e6,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,soltero,colombia,desempleado,no reportado,secundaria,76001000
+2011-12-06,valle,cali (ct),martes,11:30:00,desepaz invicali e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,45,femenino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-12-06,valle,cali (ct),martes,23:00:00,alfonso lopez iii e7,urbana,vias publicas,no reportado,a pie,a pie,33,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-07,valle,cali (ct),miercoles,17:00:00,jose holguin garces e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,40,femenino,casado,colombia,ama de casa,no reportado,tecnico,76001000
+2011-12-07,valle,cali (ct),miercoles,17:00:00,jose holguin garces e11,urbana,vias publicas,no reportado,a pie,a pie,41,femenino,soltero,no reportado,independiente,no reportado,secundaria,76001000
+2011-12-07,valle,cali (ct),miercoles,18:30:00,aranjuez e9,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-08,valle,cali (ct),jueves,12:15:00,via la buitrera e18,rural,carretera,arma de fuego,a pie,a pie,22,femenino,soltero,colombia,estudiante,no reportado,superior,76001000
+2011-12-08,valle,cali (ct),jueves,12:15:00,cgto la buitrera e18,rural,vias publicas,no reportado,a pie,a pie,22,femenino,soltero,colombia,desempleado,no reportado,superior,76001000
+2011-12-09,valle,cali (ct),viernes,15:00:00,ciudad cordoba e15,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-12-09,valle,cali (ct),viernes,21:30:00,ciudad modelo e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,23,masculino,soltero,colombia,independiente,no reportado,primaria,76001000
+2011-12-10,valle,cali (ct),sabado,10:00:00,siloe e20,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,43,femenino,union libre,no reportado,independiente,no reportado,secundaria,76001000
+2011-12-11,valle,cali (ct),domingo,21:30:00,sol de oriente e21,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,47,femenino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-12-12,valle,cali (ct),lunes,07:00:00,el recuerdo e11,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,45,femenino,casado,colombia,independiente,no reportado,superior,76001000
+2011-12-12,valle,cali (ct),lunes,09:00:00,cgto hormiguero e22,rural,carretera,arma de fuego,a pie,a pie,34,femenino,union libre,colombia,ama de casa,no reportado,primaria,76001000
+2011-12-12,valle,cali (ct),lunes,14:00:00,la rivera e5,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,26,femenino,soltero,colombia,independiente,no reportado,tecnico,76001000
+2011-12-12,valle,cali (ct),lunes,15:30:00,colseguros andes e10,urbana,casas de habitacion,no reportado,a pie,a pie,60,femenino,viudo,colombia,ama de casa,no reportado,secundaria,76001000
+2011-12-13,valle,cali (ct),martes,16:30:00,pampa linda e19,urbana,apartamento en conjunto cerrado,no reportado,a pie,a pie,37,masculino,casado,colombia,empleado particular,ingeniero electricista,superior,76001000
+2011-12-13,valle,cali (ct),martes,16:30:00,ciudad de los alamos e2,urbana,casas de habitacion,arma blanca,a pie,a pie,17,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-12-13,valle,cali (ct),martes,17:00:00,vallado e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,22,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-12-13,valle,cali (ct),martes,19:30:00,los guaduales e6,urbana,vias publicas,arma de fuego,a pie,a pie,42,femenino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-12-13,valle,cali (ct),martes,20:40:00,jorge eliecer gaitan e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,27,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-14,valle,cali (ct),miercoles,18:00:00,san luis ii e6,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,48,femenino,union libre,colombia,ama de casa,no reportado,secundaria,76001000
+2011-12-14,valle,cali (ct),miercoles,20:00:00,potrero grande e21,urbana,vias publicas,arma de fuego,a pie,a pie,15,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-12-15,valle,cali (ct),jueves,10:00:00,el refugio e19,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,44,femenino,soltero,colombia,independiente,no reportado,secundaria,76001000
+2011-12-16,valle,cali (ct),viernes,09:23:00,la flora e2,urbana,oficinas,no reportado,a pie,a pie,40,masculino,casado,colombia,empleado particular,contador publico,superior,76001000
+2011-12-16,valle,cali (ct),viernes,16:00:00,san pedro e3,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,40,femenino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-19,valle,cali (ct),lunes,10:00:00,puerto mallarino e7,urbana,,arma blanca,a pie,a pie,47,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-19,valle,cali (ct),lunes,14:00:00,ciudad 2000 e16,urbana,casas de habitacion,no reportado,a pie,a pie,40,masculino,casado,colombia,independiente,no reportado,secundaria,76001000
+2011-12-24,valle,cali (ct),sabado,20:00:00,siete de agosto e7,urbana,casas de habitacion,no reportado,a pie,a pie,38,femenino,union libre,colombia,empleado particular,no reportado,secundaria,76001000
+2011-12-26,valle,cali (ct),lunes,08:00:00,,rural,casas de habitacion,no reportado,no reportado,a pie,27,masculino,soltero,colombia,estudiante,no reportado,secundaria,76001000
+2011-12-26,valle,cali (ct),lunes,21:30:00,primero de mayo e17,urbana,apartamento en conjunto cerrado,no reportado,no reportado,a pie,34,masculino,union libre,colombia,independiente,no reportado,secundaria,76001000
+2011-12-30,valle,cali (ct),viernes,06:16:00,jose m. marroquin ii e14,urbana,casas de habitacion,no reportado,a pie,a pie,34,masculino,soltero,colombia,empleado particular,no reportado,secundaria,76001000
+2011-12-31,valle,cali (ct),sabado,11:30:00,ciudad capri e17,urbana,casas de habitacion,no reportado,no reportado,a pie,48,femenino,viudo,colombia,empleado publico,licenciado,superior,76001000

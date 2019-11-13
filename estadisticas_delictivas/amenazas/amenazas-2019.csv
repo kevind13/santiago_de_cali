@@ -1,0 +1,516 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2019-01-01,valle,cali (ct),martes,08:00:00,prados de oriente e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,29,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-01,valle,cali (ct),martes,14:00:00,sector alto los chorros e18,urbana,vias publicas,contundentes,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-01,valle,cali (ct),martes,17:00:00,mariano ramos e16,urbana,vias publicas,contundentes,a pie,a pie,39,femenino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-01,valle,cali (ct),martes,17:00:00,mariano ramos e16,urbana,vias publicas,contundentes,a pie,a pie,40,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-01,valle,cali (ct),martes,17:00:00,promociones populares e14,urbana,vias publicas,arma de fuego,a pie,a pie,59,femenino,soltero,colombia,ama de casa,no reportada,primaria,76001000
+2019-01-01,valle,cali (ct),martes,17:45:00,los lagos e13,urbana,vias publicas,sin empleo de armas,pasajero motocicleta,a pie,22,masculino,soltero,colombia,desempleado,,secundaria,76001000
+2019-01-01,valle,cali (ct),martes,09:19:00,u.r. el coliseo e19,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,45,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-01,valle,cali (ct),martes,09:19:00,u.r. el coliseo e19,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,48,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-02,valle,cali (ct),miercoles,17:00:00,jose m. marroquin ii e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,56,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-02,valle,cali (ct),miercoles,00:40:00,promociones populares e14,urbana,casas de habitacion,arma de fuego,a pie,a pie,30,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-02,valle,cali (ct),miercoles,07:21:00,metropolitano del norte e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,22,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-03,valle,cali (ct),jueves,18:00:00,cgto hormiguero e22,rural,lugar de trabajo,sin empleo de armas,a pie,a pie,26,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-03,valle,cali (ct),jueves,21:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,36,masculino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-03,valle,cali (ct),jueves,07:00:00,valle grande e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-03,valle,cali (ct),jueves,22:30:00,obrero e9,urbana,vias publicas,sin empleo de armas,a pie,a pie,23,masculino,soltero,colombia,desempleado,no reportada,secundaria,76001000
+2019-01-04,valle,cali (ct),viernes,10:00:00,el vergel e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,34,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-04,valle,cali (ct),viernes,10:00:00,el vergel e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,57,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-04,valle,cali (ct),viernes,11:00:00,la base e8,urbana,vias publicas,arma de fuego,a pie,a pie,64,femenino,viudo,colombia,empleado particular,no reportada,superior,76001000
+2019-01-05,valle,cali (ct),sabado,10:00:00,san vicente e2,urbana,vias publicas,contundentes,a pie,a pie,35,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-05,valle,cali (ct),sabado,10:00:00,u.r. santiago de cali e19,urbana,local comercial,sin empleo de armas,a pie,a pie,41,femenino,soltero,colombia,independiente,,secundaria,76001000
+2019-01-05,valle,cali (ct),sabado,08:00:00,la fortaleza e11,urbana,vias publicas,contundentes,a pie,a pie,45,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-05,valle,cali (ct),sabado,09:00:00,republica israel e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,42,masculino,soltero,colombia,independiente,,secundaria,76001000
+2019-01-05,valle,cali (ct),sabado,11:00:00,alfonso b. aragon e14,urbana,vias publicas,contundentes,a pie,a pie,34,masculino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-06,valle,cali (ct),domingo,10:00:00,versalles e2,urbana,vias publicas,contundentes,a pie,a pie,22,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-06,valle,cali (ct),domingo,16:00:00,manuela beltran e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,46,femenino,soltero,colombia,ama de casa,no reportada,secundaria,76001000
+2019-01-06,valle,cali (ct),domingo,16:00:00,manuela beltran e14,urbana,,contundentes,a pie,a pie,47,femenino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-06,valle,cali (ct),domingo,11:30:00,mojica e15,urbana,vias publicas,contundentes,a pie,a pie,30,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-06,valle,cali (ct),domingo,02:00:00,alfonso b. aragon e14,urbana,vias publicas,arma de fuego,a pie,a pie,18,femenino,union libre,colombia,desempleado,no reportada,secundaria,76001000
+2019-01-06,valle,cali (ct),domingo,17:10:00,los guaduales e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-06,valle,cali (ct),domingo,12:02:00,ciudad cordoba e15,urbana,casas de habitacion,contundentes,a pie,a pie,9,masculino,soltero,colombia,estudiante,no reportada,primaria,76001000
+2019-01-07,valle,cali (ct),lunes,10:00:00,alto napoles e18,urbana,vias publicas,contundentes,a pie,a pie,30,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-07,valle,cali (ct),lunes,15:00:00,antonio narino e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,20,femenino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-07,valle,cali (ct),lunes,20:00:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,34,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-07,valle,cali (ct),lunes,20:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,24,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-07,valle,cali (ct),lunes,20:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,57,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-07,valle,cali (ct),lunes,19:30:00,el poblado i e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,37,masculino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-07,valle,cali (ct),lunes,03:00:00,desepaz invicali e21,urbana,vias publicas,arma de fuego,a pie,a pie,33,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-08,valle,cali (ct),martes,15:00:00,union de vivienda popular e16,urbana,vias publicas,arma de fuego,a pie,a pie,19,masculino,union libre,colombia,empleado particular,,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,09:30:00,desepaz invicali e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,56,masculino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-08,valle,cali (ct),martes,09:40:00,champagnat e19,urbana,edificio,sin empleo de armas,a pie,a pie,42,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,09:40:00,champagnat e19,urbana,edificio,sin empleo de armas,a pie,a pie,48,masculino,divorciado,colombia,empleado particular,no reportada,superior,76001000
+2019-01-08,valle,cali (ct),martes,09:40:00,champagnat e19,urbana,edificio,sin empleo de armas,a pie,a pie,50,masculino,casado,colombia,empleado particular,no reportada,superior,76001000
+2019-01-08,valle,cali (ct),martes,09:40:00,champagnat e19,urbana,edificio,sin empleo de armas,a pie,a pie,51,masculino,casado,colombia,empleado particular,no reportada,superior,76001000
+2019-01-08,valle,cali (ct),martes,09:40:00,champagnat e19,urbana,edificio,sin empleo de armas,a pie,a pie,54,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,10:45:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,53,masculino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-08,valle,cali (ct),martes,09:29:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,20,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,09:29:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,25,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,09:29:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,38,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-08,valle,cali (ct),martes,09:29:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-09,valle,cali (ct),miercoles,19:30:00,la alborada e16,urbana,vias publicas,arma de fuego,a pie,a pie,38,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-09,valle,cali (ct),miercoles,20:30:00,mariano ramos e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,18,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-09,valle,cali (ct),miercoles,00:30:00,terron colorado e1,urbana,vias publicas,contundentes,a pie,a pie,28,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-09,valle,cali (ct),miercoles,22:30:00,el poblado i e13,urbana,vias publicas,contundentes,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-10,valle,cali (ct),jueves,19:00:00,las orquideas e14,urbana,vias publicas,contundentes,a pie,a pie,62,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-10,valle,cali (ct),jueves,20:00:00,jose m. marroquin ii e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,18,masculino,soltero,colombia,desempleado,,secundaria,76001000
+2019-01-10,valle,cali (ct),jueves,20:00:00,junin e9,urbana,vias publicas,sin empleo de armas,a pie,a pie,26,masculino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-10,valle,cali (ct),jueves,12:45:00,san luis ii e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-11,valle,cali (ct),viernes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-11,valle,cali (ct),viernes,16:00:00,republica israel e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,77,masculino,casado,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-11,valle,cali (ct),viernes,11:00:00,vipasa e2,urbana,hogares / geriatrico,arma blanca / cortopunzante,a pie,a pie,32,femenino,union libre,colombia,empleado particular,no reportada,superior,76001000
+2019-01-11,valle,cali (ct),viernes,14:40:00,el poblado i e13,urbana,vias publicas,contundentes,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-12,valle,cali (ct),sabado,10:00:00,urb. tequendama e19,urbana,oficinas,sin empleo de armas,a pie,a pie,39,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-12,valle,cali (ct),sabado,10:00:00,urb. tequendama e19,urbana,oficinas,sin empleo de armas,a pie,a pie,45,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-12,valle,cali (ct),sabado,08:00:00,eucaristico e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-12,valle,cali (ct),sabado,08:00:00,eucaristico e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,53,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-12,valle,cali (ct),sabado,20:00:00,desepaz invicali e21,urbana,vias publicas,contundentes,a pie,a pie,27,femenino,casado,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-12,valle,cali (ct),sabado,20:30:00,desepaz invicali e21,urbana,vias publicas,contundentes,a pie,a pie,17,masculino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-13,valle,cali (ct),domingo,19:00:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,31,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-13,valle,cali (ct),domingo,14:00:00,junin e9,urbana,vias publicas,contundentes,a pie,a pie,25,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-13,valle,cali (ct),domingo,09:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-13,valle,cali (ct),domingo,00:30:00,los chorros e18,urbana,vias publicas,sin empleo de armas,a pie,a pie,42,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-13,valle,cali (ct),domingo,18:20:00,urb. ciudad jardin e22,urbana,vias publicas,sin empleo de armas,a pie,a pie,18,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-13,valle,cali (ct),domingo,18:20:00,urb. ciudad jardin e22,urbana,vias publicas,sin empleo de armas,a pie,a pie,23,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-13,valle,cali (ct),domingo,18:20:00,urb. ciudad jardin e22,urbana,vias publicas,sin empleo de armas,a pie,a pie,45,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-13,valle,cali (ct),domingo,18:20:00,urb. ciudad jardin e22,urbana,vias publicas,sin empleo de armas,a pie,a pie,46,femenino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-13,valle,cali (ct),domingo,00:05:00,nueva floresta e12,urbana,lugar de trabajo,sin empleo de armas,a pie,a pie,42,masculino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,10:00:00,ciudadela confandi e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,48,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,14:00:00,el poblado ii e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,52,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,16:00:00,el rodeo e12,urbana,vias publicas,contundentes,a pie,a pie,49,femenino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-14,valle,cali (ct),lunes,21:00:00,los guayacanes e5,urbana,vias publicas,sin empleo de armas,pasajero motocicleta,a pie,40,masculino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,17:30:00,belen e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,10,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,17:30:00,belen e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,16,femenino,soltero,colombia,estudiante,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,17:30:00,belen e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,37,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,13:30:00,la nueva base e8,urbana,vias publicas,arma de fuego,a pie,a pie,41,femenino,union libre,colombia,empleado particular,,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,00:10:00,san fernando viejo e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,29,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-14,valle,cali (ct),lunes,00:20:00,san pedro e3,urbana,vias publicas,contundentes,a pie,a pie,30,femenino,union libre,colombia,empleado particular,no reportada,superior,76001000
+2019-01-15,valle,cali (ct),martes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,union libre,,empleado particular,no reportada,tecnico,76001000
+2019-01-15,valle,cali (ct),martes,10:00:00,juanambu e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,45,masculino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-15,valle,cali (ct),martes,19:00:00,terron colorado e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,20,masculino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-15,valle,cali (ct),martes,14:00:00,caney e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,19,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-15,valle,cali (ct),martes,16:30:00,cristobal colon e10,urbana,lugar de trabajo,arma de fuego,a pie,a pie,55,masculino,casado,colombia,empleado particular,no reportada,superior,76001000
+2019-01-15,valle,cali (ct),martes,13:00:00,alfonso lopez i e7,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,40,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-15,valle,cali (ct),martes,23:00:00,llano verde e15,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,47,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-15,valle,cali (ct),martes,00:10:00,alfonso lopez i e7,urbana,vias publicas,contundentes,a pie,a pie,58,masculino,union libre,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-16,valle,cali (ct),miercoles,20:00:00,el penon e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,29,femenino,soltero,colombia,independiente,,secundaria,76001000
+2019-01-16,valle,cali (ct),miercoles,13:58:00,buenos aires e18,urbana,establecimiento educativo,sin empleo de armas,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-16,valle,cali (ct),miercoles,09:10:00,granada e2,urbana,interior vehiculo ponal,sin empleo de armas,pasajero vehiculo,a pie,35,masculino,soltero,colombia,miembro ong,administracion  comercial,superior,76001000
+2019-01-16,valle,cali (ct),miercoles,09:37:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,36,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-16,valle,cali (ct),miercoles,23:21:00,san nicolas e3,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,54,femenino,divorciado,,empleado particular,no reportada,tecnico,76001000
+2019-01-17,valle,cali (ct),jueves,10:00:00,union de vivienda popular e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,41,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-17,valle,cali (ct),jueves,15:00:00,los robles e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,22,femenino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-17,valle,cali (ct),jueves,09:30:00,el jardin e11,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-17,valle,cali (ct),jueves,08:30:00,la cascada e19,urbana,vias publicas,contundentes,a pie,a pie,25,masculino,soltero,colombia,empleado particular,tecnico auxiliar de sistemas,tecnico,76001000
+2019-01-17,valle,cali (ct),jueves,00:30:00,santa rosa e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,20,masculino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-17,valle,cali (ct),jueves,00:30:00,santa rosa e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,23,femenino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-17,valle,cali (ct),jueves,15:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,18,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-17,valle,cali (ct),jueves,15:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,48,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-17,valle,cali (ct),jueves,09:50:00,promociones populares e14,urbana,vias publicas,contundentes,a pie,a pie,28,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,15:00:00,ciudad universitaria e17,urbana,universidades,sin empleo de armas,a pie,a pie,24,femenino,soltero,colombia,empleado particular,psicologia,superior,76001000
+2019-01-18,valle,cali (ct),viernes,20:00:00,pueblo joven e20,urbana,vias publicas,arma de fuego,a pie,conductor motocicleta,21,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,4,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,20,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,35,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,43,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,48,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,55,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,18:00:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-18,valle,cali (ct),viernes,20:30:00,metropolitano del norte e5,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,47,masculino,soltero,colombia,empleado particular,no reportada,no reportado,76001000
+2019-01-18,valle,cali (ct),viernes,00:10:00,20 de julio e11,urbana,vias publicas,arma de fuego,a pie,a pie,26,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,10:00:00,el vergel e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,40,femenino,union libre,colombia,empleado particular,,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,20:00:00,la fortaleza e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,16,femenino,soltero,colombia,estudiante,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,20:00:00,la fortaleza e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,34,femenino,soltero,colombia,ama de casa,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,41,masculino,casado,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,42,masculino,casado,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,42,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,43,masculino,casado,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,43,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,43,femenino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,45,masculino,casado,,empleado particular,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,47,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,la alianza e4,urbana,frente oficina,sin empleo de armas,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-19,valle,cali (ct),sabado,12:00:00,ciudad talanga e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,39,masculino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,04:00:00,alto napoles e18,urbana,vias publicas,sin empleo de armas,a pie,a pie,36,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,11:40:00,petecuy i e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,33,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,09:20:00,san nicolas e3,urbana,vias publicas,contundentes,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-19,valle,cali (ct),sabado,19:01:00,jorge isaacs e4,urbana,vias publicas,contundentes,a pie,a pie,38,masculino,soltero,colombia,empleado particular,derecho y ciencias economica,superior,76001000
+2019-01-20,valle,cali (ct),domingo,18:00:00,el sena e5,urbana,vias publicas,contundentes,a pie,a pie,34,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-20,valle,cali (ct),domingo,18:00:00,pizamos i e21,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,25,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-20,valle,cali (ct),domingo,18:00:00,pizamos i e21,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,36,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-20,valle,cali (ct),domingo,23:00:00,calimio desepaz e21,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-20,valle,cali (ct),domingo,19:45:00,san luis ii e6,urbana,vias publicas,arma de fuego,a pie,a pie,28,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-21,valle,cali (ct),lunes,10:00:00,vallado e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,48,masculino,casado,colombia,empleado particular,no reportada,superior,76001000
+2019-01-21,valle,cali (ct),lunes,15:00:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,47,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,15:00:00,marroquin i e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,44,femenino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,20:00:00,lili e17,urbana,vias publicas,contundentes,a pie,a pie,24,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,21:00:00,los cambulos e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,30,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,19:30:00,mojica e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,20,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,20:30:00,las quintas de don simon e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-21,valle,cali (ct),lunes,01:00:00,12 de octubre e12,urbana,vias publicas,contundentes,a pie,a pie,31,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,01:00:00,12 de octubre e12,urbana,vias publicas,contundentes,a pie,a pie,59,femenino,casado,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,17:45:00,20 de julio e11,urbana,vias publicas,arma de fuego,a pie,a pie,50,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,15:47:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,8,masculino,soltero,colombia,estudiante,no reportada,primaria,76001000
+2019-01-21,valle,cali (ct),lunes,15:47:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,15,femenino,soltero,colombia,estudiante,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,15:47:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,19,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-21,valle,cali (ct),lunes,15:47:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,44,femenino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-21,valle,cali (ct),lunes,00:42:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,casado,,empleado particular,no reportada,superior,76001000
+2019-01-21,valle,cali (ct),lunes,08:27:00,siloe e20,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-22,valle,cali (ct),martes,10:00:00,santa anita e17,urbana,vias publicas,arma de fuego,a pie,pasajero vehiculo,29,masculino,soltero,colombia,independiente,,primaria,76001000
+2019-01-22,valle,cali (ct),martes,09:00:00,vista hermosa e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,35,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,20:00:00,villacolombia e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,union libre,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-22,valle,cali (ct),martes,09:30:00,alfonso lopez iii e7,urbana,vias publicas,contundentes,a pie,a pie,39,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,09:30:00,alfonso lopez iii e7,urbana,vias publicas,contundentes,a pie,a pie,39,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,09:30:00,alfonso lopez iii e7,urbana,vias publicas,contundentes,a pie,a pie,44,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,11:30:00,terron colorado e1,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,42,femenino,union libre,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-22,valle,cali (ct),martes,23:30:00,petecuy i e6,urbana,casas de habitacion,contundentes,a pie,a pie,37,femenino,separado,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,06:00:00,benjamin herrera e8,urbana,"hoteles, residencias, y similares.",sin empleo de armas,a pie,a pie,21,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,06:00:00,potrero grande e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,41,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,00:06:00,cgto montebello e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,38,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,00:06:00,cgto montebello e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,72,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,13:58:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,46,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-22,valle,cali (ct),martes,15:44:00,la fortaleza e11,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,36,femenino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-22,valle,cali (ct),martes,15:44:00,la fortaleza e11,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,39,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,10:00:00,caney e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,38,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,09:00:00,antonio narino e16,urbana,vias publicas,arma de fuego,a pie,a pie,47,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,20:00:00,sector alto los chorros e18,urbana,vias publicas,arma de fuego,a pie,a pie,26,femenino,union libre,colombia,ama de casa,,primaria,76001000
+2019-01-23,valle,cali (ct),miercoles,07:00:00,aguacatal e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,33,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,19:30:00,sector alto los chorros e18,urbana,casas de habitacion,sin empleo de armas,a pie,a pie,18,femenino,soltero,colombia,estudiante,,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,08:48:00,ciudad cordoba e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,21,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,08:48:00,ciudad cordoba e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,26,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-23,valle,cali (ct),miercoles,08:48:00,ciudad cordoba e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-23,valle,cali (ct),miercoles,08:48:00,ciudad cordoba e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-24,valle,cali (ct),jueves,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,23,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-01-24,valle,cali (ct),jueves,09:00:00,jose m. marroquin ii e14,urbana,vias publicas,contundentes,a pie,a pie,35,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,18:00:00,bretana e9,urbana,vias publicas,sin empleo de armas,a pie,a pie,58,masculino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,17:00:00,san pedro e3,urbana,vehiculo,sin empleo de armas,pasajero vehiculo,pasajero vehiculo,34,femenino,casado,colombia,empleado publico,administracion  de empresas,superior,76001000
+2019-01-24,valle,cali (ct),jueves,10:30:00,el calvario e3,urbana,vias publicas,contundentes,a pie,a pie,33,femenino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,21:00:00,metropolitano del norte e5,urbana,vias publicas,contundentes,a pie,a pie,42,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,07:00:00,lleras restrepo e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,union libre,colombia,empleado publico,,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,11:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,27,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,11:47:00,ciudadela floralia e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,22,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,11:47:00,ciudadela floralia e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,11:47:00,ciudadela floralia e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,43,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,11:47:00,ciudadela floralia e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,54,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-24,valle,cali (ct),jueves,08:53:00,pueblo joven e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,41,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,15:00:00,la flora e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,52,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,45,masculino,divorciado,,empleado particular,no reportada,superior,76001000
+2019-01-25,valle,cali (ct),viernes,16:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-25,valle,cali (ct),viernes,16:00:00,nueva tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,46,femenino,casado,colombia,comerciante,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,11:00:00,los alcazares e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,43,masculino,casado,colombia,empleado particular,,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,13:30:00,prados de oriente e11,urbana,carceles,contundentes,a pie,a pie,28,masculino,union libre,colombia,desempleado,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,13:30:00,primero de mayo e17,urbana,vias publicas,arma de fuego,a pie,a pie,68,femenino,soltero,colombia,independiente,tecnico auxiliar de sistemas,tecnico,76001000
+2019-01-25,valle,cali (ct),viernes,23:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-01-25,valle,cali (ct),viernes,00:10:00,ciudad cordoba e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,30,masculino,union libre,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,18:29:00,vipasa e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,33,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,18:29:00,vipasa e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,63,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-25,valle,cali (ct),viernes,19:27:00,ciudadela confandi e17,urbana,conjunto residencial,sin empleo de armas,a pie,a pie,,masculino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-26,valle,cali (ct),sabado,08:00:00,cgto pichinde e19,rural,vias publicas,sin empleo de armas,a pie,a pie,46,femenino,union libre,colombia,independiente,,secundaria,76001000
+2019-01-26,valle,cali (ct),sabado,21:00:00,mojica e15,urbana,vias publicas,contundentes,a pie,a pie,48,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-26,valle,cali (ct),sabado,15:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,masculino,casado,,empleado particular,no reportada,secundaria,76001000
+2019-01-26,valle,cali (ct),sabado,18:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,22,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-01-26,valle,cali (ct),sabado,18:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,26,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-01-27,valle,cali (ct),domingo,10:00:00,lleras camargo e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,10:00:00,lleras camargo e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,33,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,15:00:00,alferez real e18,urbana,vias publicas,contundentes,a pie,a pie,16,femenino,soltero,colombia,estudiante,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,15:00:00,alferez real e18,urbana,vias publicas,contundentes,a pie,a pie,45,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,19:00:00,el poblado ii e13,urbana,vias publicas,contundentes,a pie,a pie,31,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,19:00:00,el poblado ii e13,urbana,vias publicas,contundentes,a pie,a pie,38,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,19:00:00,san nicolas e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,43,masculino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-27,valle,cali (ct),domingo,16:00:00,pasoancho e10,urbana,vias publicas,contundentes,a pie,a pie,38,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,18:00:00,antonio narino e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,30,masculino,union libre,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-27,valle,cali (ct),domingo,07:00:00,lili e17,urbana,vias publicas,contundentes,a pie,a pie,43,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,07:00:00,lili e17,urbana,vias publicas,contundentes,a pie,a pie,,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,20:30:00,20 de julio e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,14,femenino,soltero,colombia,estudiante,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,21:30:00,potrero grande e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,23,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-27,valle,cali (ct),domingo,21:30:00,potrero grande e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,45,femenino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-27,valle,cali (ct),domingo,05:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,37,masculino,union libre,,empleado particular,no reportada,primaria,76001000
+2019-01-27,valle,cali (ct),domingo,09:15:00,el guabal e10,urbana,almacenes,contundentes,a pie,a pie,38,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-28,valle,cali (ct),lunes,15:00:00,el retiro e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-28,valle,cali (ct),lunes,15:00:00,el retiro e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,40,femenino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-01-28,valle,cali (ct),lunes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-01-28,valle,cali (ct),lunes,21:30:00,cgto la buitrera e18,rural,vias publicas,sin empleo de armas,a pie,a pie,31,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,21:30:00,villa blanca e13,urbana,vias publicas,contundentes,a pie,a pie,20,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,07:30:00,saavedra galindo e8,urbana,vias publicas,arma de fuego,a pie,a pie,42,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-01-28,valle,cali (ct),lunes,05:00:00,bolivariano e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,42,femenino,casado,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,16:50:00,potrero grande e21,urbana,vias publicas,contundentes,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,16:50:00,potrero grande e21,urbana,vias publicas,contundentes,a pie,a pie,34,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,14:21:00,los lagos e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,44,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-28,valle,cali (ct),lunes,16:54:00,la alianza e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,39,masculino,soltero,colombia,empleado particular,no reportada,superior,76001000
+2019-01-29,valle,cali (ct),martes,08:00:00,aguacatal e1,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,24,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-29,valle,cali (ct),martes,08:00:00,aguacatal e1,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-29,valle,cali (ct),martes,08:00:00,aguacatal e1,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,49,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-29,valle,cali (ct),martes,08:00:00,aguacatal e1,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,57,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-01-29,valle,cali (ct),martes,21:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,54,masculino,union libre,,empleado particular,no reportada,primaria,76001000
+2019-01-29,valle,cali (ct),martes,18:30:00,cgto la leonera e1,urbana,local comercial,no reportado,a pie,a pie,63,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-29,valle,cali (ct),martes,18:30:00,cgto la leonera e1,urbana,local comercial,no reportado,a pie,a pie,,,,,,,,76001000
+2019-01-29,valle,cali (ct),martes,23:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,17,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-29,valle,cali (ct),martes,22:30:00,ciudadela del rio e21,urbana,vias publicas,contundentes,a pie,a pie,56,masculino,union libre,colombia,independiente,,secundaria,76001000
+2019-01-29,valle,cali (ct),martes,10:06:00,calypso e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,29,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-30,valle,cali (ct),miercoles,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,24,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-30,valle,cali (ct),miercoles,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,43,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-30,valle,cali (ct),miercoles,09:30:00,el penon e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,49,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-30,valle,cali (ct),miercoles,15:10:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,59,femenino,viudo,,empleado particular,no reportada,primaria,76001000
+2019-01-30,valle,cali (ct),miercoles,13:41:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,16,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-31,valle,cali (ct),jueves,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,10:00:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,23,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,08:00:00,petecuy ii e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,15,femenino,soltero,colombia,estudiante,,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,48,femenino,casado,,empleado particular,no reportada,tecnico,76001000
+2019-01-31,valle,cali (ct),jueves,18:00:00,prados del limonar e17,urbana,vias publicas,contundentes,a pie,a pie,38,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,22:00:00,los comuneros i e15,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,20,femenino,soltero,colombia,desempleado,,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,22:00:00,los comuneros i e15,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,22,masculino,soltero,colombia,desempleado,,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,18:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,33,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,04:30:00,san pascual e3,urbana,,sin empleo de armas,a pie,a pie,61,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-01-31,valle,cali (ct),jueves,18:32:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-01-31,valle,cali (ct),jueves,01:17:00,llano verde e15,urbana,,contundentes,a pie,a pie,23,femenino,soltero,colombia,independiente,,secundaria,76001000
+2019-02-01,valle,cali (ct),viernes,10:00:00,manuela beltran e14,urbana,vias publicas,contundentes,a pie,a pie,38,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-01,valle,cali (ct),viernes,10:00:00,siete de agosto e7,urbana,vias publicas,sin empleo de armas,a pie,a pie,22,masculino,soltero,colombia,comerciante,,secundaria,76001000
+2019-02-01,valle,cali (ct),viernes,18:00:00,san nicolas e3,urbana,empresa,sin empleo de armas,a pie,a pie,51,femenino,divorciado,,empleado particular,no reportada,tecnico,76001000
+2019-02-01,valle,cali (ct),viernes,12:30:00,metropolitano del norte e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,25,masculino,soltero,colombia,empleado particular,,superior,76001000
+2019-02-01,valle,cali (ct),viernes,00:10:00,el refugio e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,38,masculino,union libre,colombia,empleado particular,,secundaria,76001000
+2019-02-01,valle,cali (ct),viernes,00:10:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,48,masculino,union libre,colombia,empleado particular,,secundaria,76001000
+2019-02-01,valle,cali (ct),viernes,06:45:00,alameda e9,urbana,vias publicas,contundentes,a pie,a pie,28,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-02,valle,cali (ct),sabado,20:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-02,valle,cali (ct),sabado,20:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,56,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-02,valle,cali (ct),sabado,20:00:00,ciudad talanga e21,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,27,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-02,valle,cali (ct),sabado,17:00:00,cgto la leonera e1,urbana,parques,no reportado,a pie,a pie,37,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-02,valle,cali (ct),sabado,19:30:00,laureano gomez e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,28,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-02,valle,cali (ct),sabado,15:19:00,juanambu e2,urbana,vias publicas,contundentes,a pie,a pie,48,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-02,valle,cali (ct),sabado,09:32:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,41,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-03,valle,cali (ct),domingo,08:00:00,cgto la leonera e1,urbana,carceles,no reportado,a pie,a pie,31,masculino,union libre,,empleado particular,no reportada,tecnico,76001000
+2019-02-03,valle,cali (ct),domingo,08:00:00,cgto la leonera e1,urbana,carceles,no reportado,a pie,a pie,39,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-03,valle,cali (ct),domingo,20:00:00,marroquin i e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,12,masculino,soltero,colombia,estudiante,no reportada,primaria,76001000
+2019-02-03,valle,cali (ct),domingo,20:00:00,marroquin i e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,36,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-03,valle,cali (ct),domingo,18:00:00,santa rita e2,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-03,valle,cali (ct),domingo,18:00:00,santa rita e2,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,21,masculino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-02-03,valle,cali (ct),domingo,18:00:00,santa rita e2,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,45,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-03,valle,cali (ct),domingo,21:00:00,san fernando viejo e19,urbana,vias publicas,contundentes,a pie,a pie,29,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-03,valle,cali (ct),domingo,23:00:00,santa teresita e2,urbana,vias publicas,arma de fuego,a pie,a pie,59,masculino,casado,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-03,valle,cali (ct),domingo,09:26:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-03,valle,cali (ct),domingo,09:42:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,48,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-04,valle,cali (ct),lunes,19:00:00,chiminangos ii e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,42,masculino,casado,colombia,empleado particular,tecnico auxiliar de sistemas,tecnico,76001000
+2019-02-04,valle,cali (ct),lunes,20:00:00,cgto la leonera e1,urbana,establecimiento educativo,no reportado,a pie,a pie,16,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-04,valle,cali (ct),lunes,20:00:00,cgto la leonera e1,urbana,establecimiento educativo,no reportado,a pie,a pie,38,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-04,valle,cali (ct),lunes,09:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,75,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-04,valle,cali (ct),lunes,07:00:00,12 de octubre e12,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,57,masculino,union libre,colombia,empleado particular,no reportada,primaria,76001000
+2019-02-04,valle,cali (ct),lunes,17:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-04,valle,cali (ct),lunes,09:50:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,22,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-04,valle,cali (ct),lunes,07:20:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,54,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-04,valle,cali (ct),lunes,10:14:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,57,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-05,valle,cali (ct),martes,08:00:00,caney e17,urbana,vias publicas,contundentes,a pie,a pie,29,femenino,soltero,colombia,independiente,,secundaria,76001000
+2019-02-05,valle,cali (ct),martes,08:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,38,masculino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-05,valle,cali (ct),martes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-05,valle,cali (ct),martes,16:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,25,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-05,valle,cali (ct),martes,16:00:00,san carlos e11,urbana,vias publicas,contundentes,a pie,a pie,38,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-05,valle,cali (ct),martes,10:30:00,cgto la leonera e1,urbana,red virtual o internet,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-05,valle,cali (ct),martes,13:49:00,siloe e20,urbana,vias publicas,contundentes,a pie,a pie,50,masculino,separado,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-05,valle,cali (ct),martes,14:44:00,aguacatal e1,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,43,masculino,casado,colombia,empleado particular,,secundaria,76001000
+2019-02-06,valle,cali (ct),miercoles,00:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-06,valle,cali (ct),miercoles,07:00:00,cgto la leonera e1,urbana,edificio,no reportado,a pie,a pie,75,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-06,valle,cali (ct),miercoles,07:00:00,cgto la leonera e1,urbana,edificio,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-06,valle,cali (ct),miercoles,07:00:00,cgto la leonera e1,urbana,edificio,no reportado,a pie,a pie,,,,,,,,76001000
+2019-02-06,valle,cali (ct),miercoles,20:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,65,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-06,valle,cali (ct),miercoles,15:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,47,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-06,valle,cali (ct),miercoles,22:48:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,30,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-07,valle,cali (ct),jueves,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,70,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-07,valle,cali (ct),jueves,19:00:00,mariano ramos e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,35,masculino,soltero,colombia,empleado particular,no reportada,primaria,76001000
+2019-02-07,valle,cali (ct),jueves,19:00:00,mariano ramos e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,37,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-07,valle,cali (ct),jueves,19:00:00,mariano ramos e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,45,femenino,union libre,colombia,empleado particular,no reportada,primaria,76001000
+2019-02-07,valle,cali (ct),jueves,19:00:00,mariano ramos e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,55,femenino,union libre,colombia,ama de casa,no reportada,primaria,76001000
+2019-02-07,valle,cali (ct),jueves,06:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,30,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-07,valle,cali (ct),jueves,18:20:00,san benito e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-07,valle,cali (ct),jueves,10:32:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-08,valle,cali (ct),viernes,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,49,femenino,union libre,,empleado particular,no reportada,no reportado,76001000
+2019-02-08,valle,cali (ct),viernes,00:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,48,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-08,valle,cali (ct),viernes,00:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-08,valle,cali (ct),viernes,08:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,union libre,,empleado particular,no reportada,tecnico,76001000
+2019-02-08,valle,cali (ct),viernes,14:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,26,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-08,valle,cali (ct),viernes,18:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-08,valle,cali (ct),viernes,07:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-08,valle,cali (ct),viernes,20:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,20,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-08,valle,cali (ct),viernes,08:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,60,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-08,valle,cali (ct),viernes,05:23:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,60,masculino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-09,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-09,valle,cali (ct),sabado,17:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,43,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-09,valle,cali (ct),sabado,13:00:00,cgto la leonera e1,urbana,iglesia,no reportado,a pie,a pie,36,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-09,valle,cali (ct),sabado,17:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-09,valle,cali (ct),sabado,19:46:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,50,masculino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-10,valle,cali (ct),domingo,08:00:00,ciudadela floralia e6,urbana,vias publicas,contundentes,a pie,a pie,20,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-10,valle,cali (ct),domingo,08:00:00,ciudadela floralia e6,urbana,vias publicas,contundentes,a pie,a pie,57,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-10,valle,cali (ct),domingo,20:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-10,valle,cali (ct),domingo,21:00:00,lili e17,urbana,red virtual o internet,contundentes,a pie,a pie,29,masculino,soltero,colombia,empleado particular,terapia ocupacional,superior,76001000
+2019-02-10,valle,cali (ct),domingo,06:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-10,valle,cali (ct),domingo,21:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,38,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-10,valle,cali (ct),domingo,13:25:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-11,valle,cali (ct),lunes,00:00:00,cgto la leonera e1,urbana,entidad publica / estatal,no reportado,a pie,a pie,16,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-11,valle,cali (ct),lunes,10:00:00,el troncal e8,urbana,casas de habitacion,contundentes,a pie,a pie,24,femenino,union libre,colombia,independiente,no reportada,secundaria,76001000
+2019-02-11,valle,cali (ct),lunes,08:00:00,el lido e19,urbana,vias publicas,arma de fuego,a pie,a pie,21,femenino,soltero,colombia,desempleado,,secundaria,76001000
+2019-02-11,valle,cali (ct),lunes,09:00:00,cgto saladito e1,rural,establecimiento educativo,contundentes,a pie,a pie,39,masculino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-02-11,valle,cali (ct),lunes,19:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,48,masculino,casado,,empleado particular,no reportada,tecnico,76001000
+2019-02-11,valle,cali (ct),lunes,10:30:00,los comuneros ii e13,urbana,vias publicas,contundentes,a pie,a pie,2,masculino,soltero,colombia,desempleado,no reportada,analfabeta,76001000
+2019-02-11,valle,cali (ct),lunes,10:30:00,los comuneros ii e13,urbana,vias publicas,contundentes,a pie,a pie,6,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-11,valle,cali (ct),lunes,10:30:00,los comuneros ii e13,urbana,vias publicas,contundentes,a pie,a pie,20,femenino,soltero,colombia,desempleado,no reportada,primaria,76001000
+2019-02-11,valle,cali (ct),lunes,09:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,33,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-11,valle,cali (ct),lunes,18:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,55,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-11,valle,cali (ct),lunes,10:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,62,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-11,valle,cali (ct),lunes,10:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-11,valle,cali (ct),lunes,18:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,33,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-12,valle,cali (ct),martes,10:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,58,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-12,valle,cali (ct),martes,20:00:00,alfonso b. aragon e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,19,femenino,soltero,colombia,empleado particular,no reportada,tecnico,76001000
+2019-02-12,valle,cali (ct),martes,16:00:00,valle grande e21,urbana,vias publicas,sin empleo de armas,a pie,a pie,53,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-12,valle,cali (ct),martes,10:30:00,mojica e15,urbana,dentro de la vivienda,arma de fuego,a pie,a pie,22,femenino,soltero,colombia,ama de casa,no reportada,tecnico,76001000
+2019-02-12,valle,cali (ct),martes,14:30:00,metropolitano del norte e5,urbana,dentro de la vivienda,sin empleo de armas,a pie,a pie,30,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-12,valle,cali (ct),martes,18:30:00,jose m. marroquin ii e14,urbana,vias publicas,contundentes,a pie,a pie,28,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-12,valle,cali (ct),martes,08:31:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,25,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-12,valle,cali (ct),martes,08:31:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-12,valle,cali (ct),martes,08:31:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-13,valle,cali (ct),miercoles,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-13,valle,cali (ct),miercoles,00:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,64,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,07:30:00,laguna el pondaje e13,urbana,vias publicas,arma de fuego,a pie,a pie,25,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,07:30:00,laguna el pondaje e13,urbana,vias publicas,arma de fuego,a pie,a pie,51,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,00:40:00,los naranjos ii e14,urbana,vias publicas,contundentes,a pie,a pie,48,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,00:19:00,las acacias e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,17,masculino,soltero,colombia,estudiante,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,00:19:00,las acacias e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,18,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,00:19:00,las acacias e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,18,femenino,soltero,colombia,empleado ejercito,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,00:19:00,las acacias e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,18,femenino,soltero,colombia,estudiante,no reportada,tecnico,76001000
+2019-02-13,valle,cali (ct),miercoles,00:19:00,las acacias e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,19,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,01:06:00,ciudad cordoba e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,34,masculino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-13,valle,cali (ct),miercoles,01:06:00,ciudad cordoba e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,45,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-14,valle,cali (ct),jueves,20:10:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,42,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-14,valle,cali (ct),jueves,20:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,36,masculino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-14,valle,cali (ct),jueves,09:09:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,23,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-14,valle,cali (ct),jueves,08:38:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-14,valle,cali (ct),jueves,16:32:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,femenino,viudo,,empleado particular,no reportada,superior,76001000
+2019-02-15,valle,cali (ct),viernes,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-15,valle,cali (ct),viernes,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-15,valle,cali (ct),viernes,16:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-15,valle,cali (ct),viernes,08:45:00,cgto la leonera e1,urbana,establecimiento educativo,no reportado,a pie,a pie,16,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-16,valle,cali (ct),sabado,00:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,45,masculino,casado,,empleado particular,no reportada,superior,76001000
+2019-02-16,valle,cali (ct),sabado,00:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,10,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,15,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,20,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,22,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,25,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-16,valle,cali (ct),sabado,23:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,15,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-16,valle,cali (ct),sabado,19:45:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-16,valle,cali (ct),sabado,22:05:00,cgto la buitrera e18,rural,casas de habitacion,arma de fuego,a pie,a pie,,masculino,,,no reporta,,,76001000
+2019-02-17,valle,cali (ct),domingo,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-17,valle,cali (ct),domingo,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-17,valle,cali (ct),domingo,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,46,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-17,valle,cali (ct),domingo,15:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,39,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-17,valle,cali (ct),domingo,16:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,62,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-17,valle,cali (ct),domingo,18:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-17,valle,cali (ct),domingo,22:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-17,valle,cali (ct),domingo,05:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,30,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-17,valle,cali (ct),domingo,05:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-17,valle,cali (ct),domingo,05:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-18,valle,cali (ct),lunes,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-18,valle,cali (ct),lunes,00:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-18,valle,cali (ct),lunes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-18,valle,cali (ct),lunes,10:00:00,lleras restrepo e13,urbana,vias publicas,contundentes,a pie,a pie,58,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-18,valle,cali (ct),lunes,08:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,60,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-18,valle,cali (ct),lunes,20:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,33,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-18,valle,cali (ct),lunes,16:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,61,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-18,valle,cali (ct),lunes,06:20:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,25,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-18,valle,cali (ct),lunes,10:20:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,81,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-18,valle,cali (ct),lunes,21:58:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-19,valle,cali (ct),martes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-19,valle,cali (ct),martes,14:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,25,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-19,valle,cali (ct),martes,14:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,30,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-19,valle,cali (ct),martes,14:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-19,valle,cali (ct),martes,11:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,49,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-19,valle,cali (ct),martes,11:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-19,valle,cali (ct),martes,16:30:00,lili e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,32,femenino,separado,colombia,empleado particular,,secundaria,76001000
+2019-02-19,valle,cali (ct),martes,20:17:00,cgto la leonera e1,urbana,red virtual o internet,no reportado,a pie,a pie,40,masculino,union libre,,empleado particular,no reportada,superior,76001000
+2019-02-20,valle,cali (ct),miercoles,09:00:00,compartir e21,urbana,vias publicas,contundentes,a pie,a pie,29,femenino,soltero,colombia,independiente,no reportada,secundaria,76001000
+2019-02-20,valle,cali (ct),miercoles,18:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,12,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-20,valle,cali (ct),miercoles,18:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,32,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-20,valle,cali (ct),miercoles,14:30:00,calimio desepaz e21,urbana,casas de habitacion,sin empleo de armas,pasajero motocicleta,a pie,53,masculino,soltero,colombia,independiente,,secundaria,76001000
+2019-02-20,valle,cali (ct),miercoles,13:28:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,29,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-20,valle,cali (ct),miercoles,13:28:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-20,valle,cali (ct),miercoles,11:12:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,23,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-20,valle,cali (ct),miercoles,13:04:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,33,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-21,valle,cali (ct),jueves,19:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,32,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-21,valle,cali (ct),jueves,19:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-21,valle,cali (ct),jueves,14:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,masculino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-21,valle,cali (ct),jueves,14:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,39,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-21,valle,cali (ct),jueves,09:30:00,cgto la leonera e1,urbana,establecimiento de comercio,no reportado,a pie,a pie,42,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-21,valle,cali (ct),jueves,22:15:00,cgto la leonera e1,urbana,entidad publica / estatal,no reportado,a pie,a pie,17,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-21,valle,cali (ct),jueves,10:10:00,nueva tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,24,masculino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-21,valle,cali (ct),jueves,22:23:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,22,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-21,valle,cali (ct),jueves,22:23:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,24,masculino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-21,valle,cali (ct),jueves,22:23:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,30,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-21,valle,cali (ct),jueves,13:17:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,43,masculino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-21,valle,cali (ct),jueves,10:39:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,53,masculino,casado,,empleado particular,no reportada,superior,76001000
+2019-02-21,valle,cali (ct),jueves,20:22:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,31,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-22,valle,cali (ct),viernes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,16,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-22,valle,cali (ct),viernes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,35,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-22,valle,cali (ct),viernes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,42,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-22,valle,cali (ct),viernes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,casado,,empleado particular,no reportada,secundaria,76001000
+2019-02-22,valle,cali (ct),viernes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-22,valle,cali (ct),viernes,15:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,16,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-22,valle,cali (ct),viernes,15:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,18,masculino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-22,valle,cali (ct),viernes,15:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,49,femenino,casado,,empleado particular,no reportada,superior,76001000
+2019-02-22,valle,cali (ct),viernes,15:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,76,femenino,divorciado,,empleado particular,no reportada,tecnico,76001000
+2019-02-22,valle,cali (ct),viernes,11:00:00,cgto la leonera e1,urbana,centro comercial,no reportado,a pie,a pie,48,masculino,casado,,empleado particular,no reportada,no reportado,76001000
+2019-02-22,valle,cali (ct),viernes,10:30:00,cgto la leonera e1,urbana,edificio,no reportado,a pie,a pie,34,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-22,valle,cali (ct),viernes,21:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,39,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-22,valle,cali (ct),viernes,21:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,87,masculino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-22,valle,cali (ct),viernes,09:02:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,41,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-22,valle,cali (ct),viernes,00:44:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,23,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-23,valle,cali (ct),sabado,00:00:00,cgto la leonera e1,urbana,otro,no reportado,a pie,a pie,23,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-23,valle,cali (ct),sabado,01:00:00,cgto la leonera e1,urbana,vehiculo de uber,no reportado,a pie,a pie,51,masculino,casado,,empleado particular,no reportada,secundaria,76001000
+2019-02-23,valle,cali (ct),sabado,07:40:00,paseo de los almendros e5,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,27,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-24,valle,cali (ct),domingo,19:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,17,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-24,valle,cali (ct),domingo,17:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,21,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-24,valle,cali (ct),domingo,14:30:00,villa del sur e11,urbana,vias publicas,contundentes,a pie,a pie,62,femenino,soltero,colombia,empleado particular,no reportada,secundaria,76001000
+2019-02-24,valle,cali (ct),domingo,13:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,43,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-24,valle,cali (ct),domingo,23:30:00,siloe e20,urbana,casas de habitacion,sin empleo de armas,a pie,a pie,27,femenino,soltero,colombia,empleado particular,,secundaria,76001000
+2019-02-24,valle,cali (ct),domingo,15:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,38,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-25,valle,cali (ct),lunes,11:30:00,cgto. la sirena e19,urbana,vias publicas,arma blanca / cortopunzante,a pie,pasajero motocicleta,30,femenino,union libre,colombia,independiente,,secundaria,76001000
+2019-02-25,valle,cali (ct),lunes,09:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,23,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-25,valle,cali (ct),lunes,11:10:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,35,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-25,valle,cali (ct),lunes,09:52:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,28,masculino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-25,valle,cali (ct),lunes,09:52:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-25,valle,cali (ct),lunes,09:52:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-26,valle,cali (ct),martes,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,31,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-26,valle,cali (ct),martes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,26,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-26,valle,cali (ct),martes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,34,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-26,valle,cali (ct),martes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,40,femenino,soltero,,empleado particular,no reportada,superior,76001000
+2019-02-26,valle,cali (ct),martes,09:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,45,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-26,valle,cali (ct),martes,11:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,20,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-26,valle,cali (ct),martes,13:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,19,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-26,valle,cali (ct),martes,08:40:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,34,femenino,union libre,,empleado particular,no reportada,tecnico,76001000
+2019-02-26,valle,cali (ct),martes,13:46:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,53,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-26,valle,cali (ct),martes,14:46:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,46,masculino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-26,valle,cali (ct),martes,20:40:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,44,femenino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-26,valle,cali (ct),martes,11:03:00,cgto la leonera e1,urbana,terminal de transportes,no reportado,a pie,a pie,35,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-26,valle,cali (ct),martes,18:18:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,54,femenino,viudo,,empleado particular,no reportada,superior,76001000
+2019-02-26,valle,cali (ct),martes,13:13:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,26,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-27,valle,cali (ct),miercoles,00:00:00,cgto la leonera e1,urbana,lugar de trabajo,no reportado,a pie,a pie,29,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-27,valle,cali (ct),miercoles,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,36,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-27,valle,cali (ct),miercoles,10:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,57,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-27,valle,cali (ct),miercoles,16:00:00,cgto la leonera e1,urbana,edificio,no reportado,a pie,a pie,55,masculino,union libre,,empleado particular,no reportada,no reportado,76001000
+2019-02-27,valle,cali (ct),miercoles,21:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,17,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-27,valle,cali (ct),miercoles,21:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,36,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-27,valle,cali (ct),miercoles,21:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,39,femenino,soltero,,empleado particular,no reportada,tecnico,76001000
+2019-02-27,valle,cali (ct),miercoles,22:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,29,masculino,union libre,,empleado particular,no reportada,tecnico,76001000
+2019-02-27,valle,cali (ct),miercoles,08:37:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,36,femenino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-27,valle,cali (ct),miercoles,14:21:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,22,masculino,soltero,,empleado particular,no reportada,secundaria,76001000
+2019-02-27,valle,cali (ct),miercoles,06:59:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,41,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-28,valle,cali (ct),jueves,20:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,43,femenino,soltero,,empleado particular,no reportada,primaria,76001000
+2019-02-28,valle,cali (ct),jueves,20:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,48,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-28,valle,cali (ct),jueves,16:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,13,femenino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-28,valle,cali (ct),jueves,16:00:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,73,femenino,viudo,,empleado particular,no reportada,no reportado,76001000
+2019-02-28,valle,cali (ct),jueves,16:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,27,masculino,union libre,,empleado particular,no reportada,secundaria,76001000
+2019-02-28,valle,cali (ct),jueves,15:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,22,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-28,valle,cali (ct),jueves,15:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,25,masculino,soltero,,empleado particular,no reportada,no reportado,76001000
+2019-02-28,valle,cali (ct),jueves,15:30:00,cgto la leonera e1,urbana,vias publicas,no reportado,a pie,a pie,45,femenino,soltero,,empleado particular,no reportada,secundaria,76001000

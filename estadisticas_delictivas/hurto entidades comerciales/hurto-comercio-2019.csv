@@ -1,0 +1,432 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2019-01-01,valle,cali (ct),martes,15:00:00,alfonso lopez i e7,urbana,local comercial,palancas,a pie,a pie,76001000
+2019-01-02,valle,cali (ct),miercoles,14:00:00,calima e4,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-02,valle,cali (ct),miercoles,01:00:00,centenario e2,urbana,edificio,llave maestra,a pie,a pie,76001000
+2019-01-02,valle,cali (ct),miercoles,23:30:00,la merced e3,urbana,alcaldia,sin empleo de armas,a pie,a pie,76001000
+2019-01-02,valle,cali (ct),miercoles,22:50:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-02,valle,cali (ct),miercoles,19:16:00,el cedro e19,urbana,hogares / geriatrico,sin empleo de armas,a pie,a pie,76001000
+2019-01-03,valle,cali (ct),jueves,11:00:00,juanambu e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-03,valle,cali (ct),jueves,15:00:00,petecuy i e6,urbana,salon comunal,sin empleo de armas,a pie,a pie,76001000
+2019-01-03,valle,cali (ct),jueves,13:00:00,san benito e11,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-03,valle,cali (ct),jueves,19:00:00,urb. ciudad jardin e22,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2019-01-03,valle,cali (ct),jueves,17:25:00,santa isabel e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-03,valle,cali (ct),jueves,12:50:00,calima e4,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-01-04,valle,cali (ct),viernes,00:00:00,lili e17,urbana,almacenes,no reportado,,,76001000
+2019-01-04,valle,cali (ct),viernes,12:30:00,puerto mallarino e7,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-01-04,valle,cali (ct),viernes,11:47:00,lili e17,urbana,vehiculo,palancas,a pie,a pie,76001000
+2019-01-05,valle,cali (ct),sabado,10:30:00,alirio mora beltran e14,urbana,vias publicas,arma blanca / cortopunzante,bicicleta,conductor motocicleta,76001000
+2019-01-05,valle,cali (ct),sabado,10:20:00,,urbana,vehiculo,palancas,a pie,a pie,76001000
+2019-01-05,valle,cali (ct),sabado,00:01:00,terron colorado e1,urbana,"colegios, escuelas",palancas,a pie,a pie,76001000
+2019-01-06,valle,cali (ct),domingo,18:30:00,el retiro e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-06,valle,cali (ct),domingo,12:15:00,la campina e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-06,valle,cali (ct),domingo,06:34:00,chiminangos i e5,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2019-01-07,valle,cali (ct),lunes,03:50:00,el gran limonar e17,urbana,"droguerias, farmacias",contundentes,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,08:00:00,el troncal e8,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,12:00:00,alfonso lopez iii e7,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,11:30:00,villa del lago e13,urbana,establecimiento publico,arma de fuego,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,01:00:00,los comuneros i e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,13:00:00,porvenir e4,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,76001000
+2019-01-08,valle,cali (ct),martes,23:30:00,mariano ramos e16,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor motocicleta,76001000
+2019-01-08,valle,cali (ct),martes,11:20:00,flora industrial e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,13:15:00,santander e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-08,valle,cali (ct),martes,20:35:00,ciudad 2000 e16,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2019-01-09,valle,cali (ct),miercoles,10:00:00,san pedro e3,urbana,lugar de trabajo,sin empleo de armas,a pie,a pie,76001000
+2019-01-09,valle,cali (ct),miercoles,11:00:00,siloe e20,urbana,vias publicas,palancas,a pie,a pie,76001000
+2019-01-09,valle,cali (ct),miercoles,11:30:00,el cedro e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-09,valle,cali (ct),miercoles,19:30:00,calima e4,urbana,tienda,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-09,valle,cali (ct),miercoles,19:30:00,prados del limonar e17,urbana,"droguerias, farmacias",arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-09,valle,cali (ct),miercoles,20:20:00,los comuneros ii e13,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,10:00:00,los cambulos e19,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,08:00:00,san antonio e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,03:00:00,cristobal colon e10,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,16:00:00,20 de julio e11,urbana,almacenes,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,13:30:00,caney e17,urbana,"droguerias, farmacias",arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,00:30:00,jose m. marroquin ii e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,23:00:00,bellavista e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,16:45:00,san vicente e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-10,valle,cali (ct),jueves,02:36:00,el gran limonar e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,12:00:00,urb. tequendama e19,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,00:30:00,calimio desepaz e21,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,09:30:00,manzanares e4,urbana,local comercial,contundentes,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,20:15:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,09:40:00,el cedro e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,23:15:00,el calvario e3,urbana,local comercial,palancas,a pie,a pie,76001000
+2019-01-11,valle,cali (ct),viernes,15:38:00,san pedro e3,urbana,vias publicas,arma de fuego,a pie,pasajero motocicleta,76001000
+2019-01-12,valle,cali (ct),sabado,02:00:00,el cortijo e20,urbana,almacenes,contundentes,a pie,a pie,76001000
+2019-01-12,valle,cali (ct),sabado,17:00:00,santa monica residencial e2,urbana,centro comercial,sin empleo de armas,conductor vehiculo,a pie,76001000
+2019-01-12,valle,cali (ct),sabado,12:30:00,parcelaciones pance e22,urbana,bahia,palancas,a pie,a pie,76001000
+2019-01-12,valle,cali (ct),sabado,07:50:00,san fernando nuevo e19,urbana,oficinas,contundentes,a pie,a pie,76001000
+2019-01-12,valle,cali (ct),sabado,07:08:00,el calvario e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-13,valle,cali (ct),domingo,10:00:00,el sena e5,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,02:00:00,san nicolas e3,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,14:00:00,industrial e8,urbana,frente restaurante,palancas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,14:00:00,san fernando nuevo e19,urbana,consultorios medicos,sin empleo de armas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,18:00:00,lili e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,17:30:00,el calvario e3,urbana,vias publicas,palancas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,22:00:00,promociones populares e14,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,00:30:00,el cedro e19,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,15:55:00,unid. bueno madrid e4,urbana,local comercial,contundentes,a pie,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,19:50:00,el dorado e10,urbana,establecimiento de giros,arma de fuego,pasajero vehiculo,a pie,76001000
+2019-01-14,valle,cali (ct),lunes,21:15:00,santa monica residencial e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-15,valle,cali (ct),martes,10:00:00,laureano gomez e15,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2019-01-15,valle,cali (ct),martes,07:00:00,,urbana,establecimiento de comercio,palancas,a pie,a pie,76001000
+2019-01-15,valle,cali (ct),martes,10:30:00,lili e17,urbana,bomba de gasolina,sin empleo de armas,conductor vehiculo,a pie,76001000
+2019-01-15,valle,cali (ct),martes,18:55:00,el cedro e19,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2019-01-15,valle,cali (ct),martes,02:50:00,el piloto e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,00:00:00,san pedro e3,urbana,instalaciones judiciales,sin empleo de armas,a pie,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,13:00:00,san cayetano e3,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,76001000
+2019-01-16,valle,cali (ct),miercoles,19:00:00,santo domingo e10,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,04:00:00,bretana e9,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,14:30:00,alfonso lopez i e7,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,03:30:00,santander e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,19:20:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,12:20:00,las orquideas e14,urbana,tienda,sin empleo de armas,conductor vehiculo,a pie,76001000
+2019-01-16,valle,cali (ct),miercoles,11:17:00,san fernando viejo e19,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-01-17,valle,cali (ct),jueves,03:00:00,las delicias e4,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-17,valle,cali (ct),jueves,17:00:00,chapinero e8,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,76001000
+2019-01-17,valle,cali (ct),jueves,13:00:00,los lagos e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-01-17,valle,cali (ct),jueves,19:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-17,valle,cali (ct),jueves,11:15:00,san vicente e2,urbana,"hoteles, residencias, y similares.",sin empleo de armas,a pie,a pie,76001000
+2019-01-17,valle,cali (ct),jueves,02:15:00,los comuneros ii e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,10:00:00,san fernando viejo e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,12:00:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,12:00:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,06:00:00,fatima e4,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,20:20:00,calima e4,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,10:10:00,los lideres e21,urbana,interior vehiculo particular,sin empleo de armas,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,01:20:00,aguacatal e1,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor motocicleta,76001000
+2019-01-18,valle,cali (ct),viernes,15:05:00,ciudadela confandi e17,urbana,"droguerias, farmacias",arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-18,valle,cali (ct),viernes,02:35:00,,urbana,bomba de gasolina,sin empleo de armas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,16:00:00,los lagos e13,urbana,establecimiento publico,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,15:00:00,republica israel e16,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,13:30:00,ciudad capri e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,06:00:00,primitivo crespo e8,urbana,local comercial,palancas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,20:40:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,17:40:00,prados del norte e2,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor motocicleta,76001000
+2019-01-19,valle,cali (ct),sabado,10:45:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,15:35:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-19,valle,cali (ct),sabado,02:14:00,calima e4,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-01-20,valle,cali (ct),domingo,10:00:00,el poblado i e13,urbana,entidad publica / estatal,sin empleo de armas,a pie,a pie,76001000
+2019-01-20,valle,cali (ct),domingo,08:00:00,chipichape e2,urbana,centro comercial,contundentes,a pie,a pie,76001000
+2019-01-20,valle,cali (ct),domingo,01:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-20,valle,cali (ct),domingo,01:00:00,sucre e9,urbana,establecimiento de comercio,contundentes,a pie,a pie,76001000
+2019-01-20,valle,cali (ct),domingo,17:10:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-20,valle,cali (ct),domingo,22:10:00,unicentro cali e17,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-21,valle,cali (ct),lunes,10:00:00,ciudad cordoba e15,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-01-21,valle,cali (ct),lunes,12:00:00,lili e17,urbana,bus megabus,sin empleo de armas,a pie,a pie,76001000
+2019-01-21,valle,cali (ct),lunes,13:30:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-21,valle,cali (ct),lunes,04:00:00,benjamin herrera e8,urbana,estaciones de servicio,arma de fuego,a pie,a pie,76001000
+2019-01-21,valle,cali (ct),lunes,15:30:00,ciudad campestre e22,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-21,valle,cali (ct),lunes,12:20:00,primavera e11,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor motocicleta,76001000
+2019-01-21,valle,cali (ct),lunes,10:10:00,ciudad 2000 e16,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,08:00:00,ciudad capri e17,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,15:00:00,primero de mayo e17,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,09:30:00,caldas e18,urbana,establecimiento publico,palancas,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,20:40:00,buenos aires e18,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,13:35:00,olimpico e10,urbana,"droguerias, farmacias",arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,00:10:00,granada e2,urbana,parqueadero,sin empleo de armas,a pie,a pie,76001000
+2019-01-22,valle,cali (ct),martes,19:25:00,ciudadela confandi e17,urbana,establecimiento de comercio,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,08:00:00,san nicolas e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,11:00:00,arboledas e2,urbana,bodegas y similares,palancas,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,09:00:00,,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,10:30:00,desepaz invicali e21,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,12:30:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,19:20:00,jose m. marroquin ii e14,urbana,establecimiento de giros,arma de fuego,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,09:50:00,la merced e3,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-23,valle,cali (ct),miercoles,13:37:00,paseo de los almendros e5,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor vehiculo,76001000
+2019-01-24,valle,cali (ct),jueves,08:00:00,santa monica residencial e2,urbana,vias publicas,palancas,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,16:00:00,guayaquil e9,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,11:30:00,san fernando nuevo e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,14:00:00,chapinero e8,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor vehiculo,76001000
+2019-01-24,valle,cali (ct),jueves,15:00:00,cgto la voragine e22,rural,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,17:00:00,jose m. marroquin ii e14,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,10:30:00,san judas tadeo i e10,urbana,talleres,sin empleo de armas,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,00:30:00,ciudad cordoba e15,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,05:00:00,calima e4,urbana,centro comercial,palancas,a pie,conductor vehiculo,76001000
+2019-01-24,valle,cali (ct),jueves,11:40:00,urb. tequendama e19,urbana,parqueadero,sin empleo de armas,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,21:05:00,ricardo balcazar e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,13:45:00,ulpiano lloreda e13,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,03:40:00,salomia e4,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2019-01-24,valle,cali (ct),jueves,09:58:00,mariano ramos e16,urbana,interior vehiculo particular,palancas,a pie,conductor vehiculo,76001000
+2019-01-25,valle,cali (ct),viernes,12:00:00,patio bonito e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-25,valle,cali (ct),viernes,15:00:00,santa isabel e19,urbana,establecimiento de comercio,contundentes,a pie,a pie,76001000
+2019-01-25,valle,cali (ct),viernes,19:30:00,san fernando nuevo e19,urbana,establecimiento publico,sin empleo de armas,a pie,a pie,76001000
+2019-01-25,valle,cali (ct),viernes,15:40:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-25,valle,cali (ct),viernes,00:50:00,villa del lago e13,urbana,vias publicas,contundentes,pasajero motocicleta,conductor vehiculo,76001000
+2019-01-25,valle,cali (ct),viernes,10:20:00,el sena e5,urbana,vias publicas,palancas,a pie,conductor vehiculo,76001000
+2019-01-25,valle,cali (ct),viernes,12:10:00,manzanares e4,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2019-01-25,valle,cali (ct),viernes,00:45:00,guayaquil e9,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,08:00:00,santa rosa e3,urbana,"droguerias, farmacias",sin empleo de armas,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,03:00:00,el lido e19,urbana,establecimiento publico,contundentes,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,14:00:00,antonio narino e16,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,14:00:00,junin e9,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,76001000
+2019-01-26,valle,cali (ct),sabado,15:30:00,primavera e11,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,05:00:00,,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,03:30:00,juanambu e2,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,04:30:00,,urbana,clinicas y similares,contundentes,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,23:30:00,parcelaciones pance e22,urbana,hogares / geriatrico,palancas,a pie,a pie,76001000
+2019-01-26,valle,cali (ct),sabado,11:20:00,lili e17,urbana,vias publicas,palancas,a pie,conductor vehiculo,76001000
+2019-01-26,valle,cali (ct),sabado,13:14:00,mojica e15,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-27,valle,cali (ct),domingo,04:00:00,el guabal e10,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-27,valle,cali (ct),domingo,10:40:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,08:00:00,san vicente e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,11:00:00,nueva tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,16:00:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,17:00:00,la flora e2,urbana,semaforo,arma de fuego,conductor motocicleta,conductor vehiculo,76001000
+2019-01-28,valle,cali (ct),lunes,10:30:00,san nicolas e3,urbana,,sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,17:30:00,el jardin e11,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,04:30:00,el jardin e11,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor motocicleta,76001000
+2019-01-28,valle,cali (ct),lunes,14:40:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,19:22:00,san pedro e3,urbana,local comercial,palancas,a pie,a pie,76001000
+2019-01-28,valle,cali (ct),lunes,10:43:00,san joaquin e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,08:00:00,el calvario e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,08:00:00,santa monica residencial e2,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,03:00:00,santa rosa e3,urbana,licorera/estanco 24 horas,contundentes,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,15:00:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,10:30:00,el penon e3,urbana,"hoteles, residencias, y similares.",sin empleo de armas,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,13:30:00,desepaz invicali e21,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,19:30:00,la cascada e19,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,19:30:00,la flora e2,urbana,vias publicas,sin empleo de armas,conductor vehiculo,conductor vehiculo,76001000
+2019-01-29,valle,cali (ct),martes,19:25:00,urbanizacion la flora e2,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,04:05:00,santa monica residencial e2,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-01-29,valle,cali (ct),martes,09:01:00,villacolombia e8,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,10:00:00,alfonso lopez iii e7,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,03:00:00,san pascual e3,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,16:00:00,siete de agosto e7,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,11:30:00,guayaquil e9,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,11:30:00,lili e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,17:00:00,la alianza e4,urbana,estaciones de servicio,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,22:00:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,14:30:00,ciudad cordoba e15,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,20:35:00,caldas e18,urbana,bomba de gasolina,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,16:37:00,belalcazar e9,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-30,valle,cali (ct),miercoles,12:01:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,conductor vehiculo,76001000
+2019-01-30,valle,cali (ct),miercoles,17:31:00,la alianza e4,urbana,bomba de gasolina,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,10:00:00,san fernando viejo e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,12:00:00,julio rincon e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,09:00:00,el poblado i e13,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,02:00:00,guillermo valencia e4,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,14:00:00,porvenir e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,07:00:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,10:30:00,las orquideas e14,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,09:30:00,el troncal e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,17:15:00,san nicolas e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,14:38:00,lili e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,09:37:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-01-31,valle,cali (ct),jueves,16:02:00,km 18 via al mar e1,rural,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,10:00:00,manuela beltran e14,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,12:00:00,,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,09:00:00,chipichape e2,urbana,alimentador bus m.i.o.,sin empleo de armas,a pie,conductor vehiculo,76001000
+2019-02-01,valle,cali (ct),viernes,17:30:00,urb. rio lili e22,urbana,supermercados,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,07:30:00,union de vivienda popular e16,urbana,casas de habitacion,sin empleo de armas,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,13:50:00,el sena e5,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,18:15:00,los lagos e13,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,17:55:00,santa monica residencial e2,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,13:25:00,las delicias e4,urbana,panaderias,contundentes,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,14:27:00,12 de octubre e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-01,valle,cali (ct),viernes,08:46:00,san nicolas e3,urbana,establecimiento publico,sin empleo de armas,a pie,a pie,76001000
+2019-02-02,valle,cali (ct),sabado,08:00:00,sector melendez e18,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2019-02-02,valle,cali (ct),sabado,11:00:00,lili e17,urbana,vias publicas,palancas,a pie,conductor vehiculo,76001000
+2019-02-02,valle,cali (ct),sabado,11:30:00,republica israel e16,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-02,valle,cali (ct),sabado,19:40:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-02,valle,cali (ct),sabado,20:15:00,ciudad cordoba e15,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2019-02-03,valle,cali (ct),domingo,12:00:00,las americas e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-03,valle,cali (ct),domingo,02:00:00,ciudad capri e17,urbana,establecimiento educativo,sin empleo de armas,a pie,a pie,76001000
+2019-02-03,valle,cali (ct),domingo,16:20:00,julio rincon e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,10:00:00,las americas e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,12:00:00,guayaquil e9,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,15:00:00,municipal e8,urbana,talleres,sin empleo de armas,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,18:30:00,las orquideas e14,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,13:30:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,09:40:00,la independencia e11,urbana,panaderias,sin empleo de armas,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,15:35:00,julio rincon e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-04,valle,cali (ct),lunes,09:45:00,santa anita e17,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2019-02-05,valle,cali (ct),martes,08:00:00,,urbana,,palancas,a pie,a pie,76001000
+2019-02-05,valle,cali (ct),martes,08:00:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-05,valle,cali (ct),martes,11:00:00,municipal e8,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-02-05,valle,cali (ct),martes,15:00:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-05,valle,cali (ct),martes,13:30:00,promociones populares e14,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor motocicleta,76001000
+2019-02-06,valle,cali (ct),miercoles,08:00:00,san vicente e2,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,12:00:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,10:30:00,ciudad cordoba e15,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,08:30:00,caldas e18,urbana,casinos,arma de fuego,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,09:30:00,los guayacanes e5,urbana,establecimiento de comercio,sin empleo de armas,conductor vehiculo,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,13:50:00,obrero e9,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,11:40:00,villacolombia e8,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,16:15:00,el calvario e3,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,01:45:00,santa isabel e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,02:50:00,saavedra galindo e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-06,valle,cali (ct),miercoles,17:51:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-07,valle,cali (ct),jueves,18:30:00,urbanizacion la flora e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-07,valle,cali (ct),jueves,15:30:00,san pedro e3,urbana,iglesia,sin empleo de armas,a pie,a pie,76001000
+2019-02-07,valle,cali (ct),jueves,08:30:00,valle grande e21,urbana,vias publicas,arma blanca / cortopunzante,a pie,conductor motocicleta,76001000
+2019-02-07,valle,cali (ct),jueves,20:05:00,ciudad capri e17,urbana,supermercados,arma de fuego,a pie,a pie,76001000
+2019-02-07,valle,cali (ct),jueves,21:05:00,el pondaje e13,urbana,vias publicas,arma de fuego,a pie,conductor motocicleta,76001000
+2019-02-07,valle,cali (ct),jueves,20:52:00,nueva floresta e12,urbana,almacenes,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-07,valle,cali (ct),jueves,01:28:00,siete de agosto e7,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-07,valle,cali (ct),jueves,21:06:00,,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-02-08,valle,cali (ct),viernes,20:00:00,san pedro e3,urbana,iglesia,sin empleo de armas,a pie,a pie,76001000
+2019-02-08,valle,cali (ct),viernes,15:30:00,promociones populares e14,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-08,valle,cali (ct),viernes,23:00:00,los chorros e18,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-08,valle,cali (ct),viernes,19:15:00,marroquin iii e13,urbana,establecimiento de comercio,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-08,valle,cali (ct),viernes,10:35:00,pampa linda e19,urbana,vias publicas,arma de fuego,pasajero vehiculo,conductor vehiculo,76001000
+2019-02-09,valle,cali (ct),sabado,10:00:00,san vicente e2,urbana,compraventa,sin empleo de armas,a pie,a pie,76001000
+2019-02-09,valle,cali (ct),sabado,12:00:00,la floresta e8,urbana,almacenes,contundentes,a pie,a pie,76001000
+2019-02-09,valle,cali (ct),sabado,12:00:00,san juan bosco e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-09,valle,cali (ct),sabado,13:00:00,ciudadela floralia e6,urbana,vias publicas,arma blanca / cortopunzante,a pie,bicicleta,76001000
+2019-02-09,valle,cali (ct),sabado,13:00:00,paso del comercio e6,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-02-09,valle,cali (ct),sabado,15:30:00,alfonso b. aragon e14,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-09,valle,cali (ct),sabado,16:10:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-09,valle,cali (ct),sabado,15:15:00,el jardin e11,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-02-10,valle,cali (ct),domingo,11:30:00,vipasa e2,urbana,local comercial,palancas,a pie,a pie,76001000
+2019-02-10,valle,cali (ct),domingo,22:10:00,el cedro e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-10,valle,cali (ct),domingo,04:50:00,chapinero e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,10:00:00,urb. ciudad jardin e22,urbana,oficinas,contundentes,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,08:00:00,12 de octubre e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,12:00:00,el lido e19,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,12:00:00,san juan bosco e3,urbana,vias publicas,arma blanca / cortopunzante,a pie,conductor vehiculo,76001000
+2019-02-11,valle,cali (ct),lunes,03:00:00,departamental e10,urbana,local comercial,contundentes,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,20:00:00,el penon e3,urbana,establecimiento publico,llave maestra,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,15:00:00,santa elena e10,urbana,local comercial,palancas,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,19:30:00,belalcazar e9,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,19:30:00,lili e17,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,00:30:00,eduardo santos e12,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor vehiculo,76001000
+2019-02-11,valle,cali (ct),lunes,17:20:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-11,valle,cali (ct),lunes,03:19:00,,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,10:00:00,urb. ciudad jardin e22,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,12:00:00,el pondaje e13,urbana,casas de habitacion,arma de fuego,conductor motocicleta,a pie,76001000
+2019-02-12,valle,cali (ct),martes,12:00:00,san nicolas e3,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,11:00:00,fepicol e7,urbana,vias publicas,sin empleo de armas,a pie,conductor vehiculo,76001000
+2019-02-12,valle,cali (ct),martes,04:30:00,torres de confandi e5,urbana,comedores y/o cocina,palancas,bicicleta,a pie,76001000
+2019-02-12,valle,cali (ct),martes,15:20:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,14:45:00,compartir e21,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,15:10:00,santa elena e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,11:01:00,santander e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-12,valle,cali (ct),martes,14:49:00,cristobal colon e10,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,10:00:00,aguacatal e1,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,10:00:00,alameda e9,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,13:00:00,cgto los andes e19,rural,bosques,sin empleo de armas,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,10:30:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,17:30:00,alfonso lopez i e7,urbana,iglesia,contundentes,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,00:30:00,colseguros andes e10,urbana,vehiculo,palancas,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,12:30:00,el poblado i e13,urbana,vias publicas,arma blanca / cortopunzante,bicicleta,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,20:20:00,los lagos e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,18:10:00,san pedro e3,urbana,establecimiento de comercio,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,19:15:00,prados de oriente e11,urbana,establecimiento de comercio,arma de fuego,a pie,a pie,76001000
+2019-02-13,valle,cali (ct),miercoles,19:51:00,unid. a galindo plaza toros e19,urbana,supermercados,arma de fuego,a pie,a pie,76001000
+2019-02-14,valle,cali (ct),jueves,10:00:00,san fernando viejo e19,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2019-02-14,valle,cali (ct),jueves,02:30:00,urb. tequendama e19,urbana,oficinas,contundentes,a pie,a pie,76001000
+2019-02-14,valle,cali (ct),jueves,10:40:00,granada e2,urbana,"colegios, escuelas",sin empleo de armas,pasajero taxi,a pie,76001000
+2019-02-14,valle,cali (ct),jueves,21:05:00,villa del lago e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2019-02-15,valle,cali (ct),viernes,10:00:00,el sena e5,urbana,interior vehiculo particular,palancas,a pie,conductor vehiculo,76001000
+2019-02-15,valle,cali (ct),viernes,10:00:00,manuel mria b/venturta e9,urbana,interior vehiculo particular,sin empleo de armas,a pie,a pie,76001000
+2019-02-15,valle,cali (ct),viernes,16:00:00,las quintas de don simon e17,urbana,local comercial,arma de fuego,conductor vehiculo,a pie,76001000
+2019-02-15,valle,cali (ct),viernes,02:00:00,belalcazar e9,urbana,estaciones de servicio,arma de fuego,a pie,a pie,76001000
+2019-02-15,valle,cali (ct),viernes,13:00:00,siete de agosto e7,urbana,casas de habitacion,palancas,a pie,a pie,76001000
+2019-02-15,valle,cali (ct),viernes,10:30:00,la fortaleza e11,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor motocicleta,76001000
+2019-02-15,valle,cali (ct),viernes,17:30:00,urbanizacion la flora e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-15,valle,cali (ct),viernes,14:30:00,valle grande e21,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor motocicleta,76001000
+2019-02-15,valle,cali (ct),viernes,03:40:00,san judas tadeo i e10,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,10:00:00,cgto las palmas e1,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,16:00:00,laguna el pondaje e13,urbana,vias publicas,arma de fuego,conductor vehiculo,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,14:00:00,santander e4,urbana,vias publicas,arma blanca / cortopunzante,pasajero motocicleta,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,18:00:00,ciudad capri e17,urbana,supermercados,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,14:30:00,,urbana,,sin empleo de armas,a pie,conductor vehiculo,76001000
+2019-02-16,valle,cali (ct),sabado,12:30:00,diamante e13,urbana,almacenes,arma de fuego,conductor motocicleta,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,16:30:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,18:10:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,00:15:00,lili e17,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-16,valle,cali (ct),sabado,12:48:00,las quintas de don simon e17,urbana,estaciones de servicio,sin empleo de armas,a pie,a pie,76001000
+2019-02-17,valle,cali (ct),domingo,12:00:00,urb. militar e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-17,valle,cali (ct),domingo,17:00:00,,urbana,almacenes,palancas,a pie,a pie,76001000
+2019-02-17,valle,cali (ct),domingo,19:00:00,santa anita e17,urbana,puente peatonal,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-17,valle,cali (ct),domingo,16:30:00,el jardin e11,urbana,vias publicas,arma blanca / cortopunzante,a pie,conductor motocicleta,76001000
+2019-02-17,valle,cali (ct),domingo,16:45:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-17,valle,cali (ct),domingo,11:45:00,san pedro e3,urbana,casinos,sin empleo de armas,a pie,a pie,76001000
+2019-02-17,valle,cali (ct),domingo,22:20:00,desepaz invicali e21,urbana,vias publicas,arma de fuego,pasajero bus,conductor bus,76001000
+2019-02-17,valle,cali (ct),domingo,18:59:00,san joaquin e17,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-02-18,valle,cali (ct),lunes,12:00:00,caney e17,urbana,parqueadero,no reportado,a pie,conductor vehiculo,76001000
+2019-02-18,valle,cali (ct),lunes,14:00:00,ricardo balcazar e13,urbana,vias publicas,arma blanca / cortopunzante,pasajero motocicleta,a pie,76001000
+2019-02-18,valle,cali (ct),lunes,13:00:00,el retiro e15,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-18,valle,cali (ct),lunes,00:30:00,promociones populares e14,urbana,bomba de gasolina,arma de fuego,a pie,a pie,76001000
+2019-02-18,valle,cali (ct),lunes,10:45:00,melendez e18,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-18,valle,cali (ct),lunes,12:11:00,lili e17,urbana,conjunto residencial,arma de fuego,conductor motocicleta,a pie,76001000
+2019-02-19,valle,cali (ct),martes,14:30:00,potrero grande e21,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2019-02-19,valle,cali (ct),martes,12:30:00,alameda e9,urbana,local comercial,arma blanca / cortopunzante,conductor motocicleta,a pie,76001000
+2019-02-19,valle,cali (ct),martes,08:30:00,el gran limonar e17,urbana,bahia,palancas,a pie,a pie,76001000
+2019-02-19,valle,cali (ct),martes,08:30:00,san fernando nuevo e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2019-02-19,valle,cali (ct),martes,18:10:00,julio rincon e12,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-02-19,valle,cali (ct),martes,09:20:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-19,valle,cali (ct),martes,16:03:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-20,valle,cali (ct),miercoles,10:00:00,calypso e13,urbana,vias publicas,arma de fuego,pasajero motocicleta,conductor vehiculo,76001000
+2019-02-20,valle,cali (ct),miercoles,12:00:00,el jordan e18,urbana,"colegios, escuelas",no reportado,a pie,a pie,76001000
+2019-02-20,valle,cali (ct),miercoles,11:30:00,,urbana,bahia,palancas,conductor vehiculo,pasajero vehiculo,76001000
+2019-02-20,valle,cali (ct),miercoles,13:30:00,la hacienda e17,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2019-02-20,valle,cali (ct),miercoles,21:00:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-20,valle,cali (ct),miercoles,18:15:00,san pedro e3,urbana,estacion m.i.o.,sin empleo de armas,pasajero bus,pasajero bus,76001000
+2019-02-20,valle,cali (ct),miercoles,15:35:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-20,valle,cali (ct),miercoles,19:05:00,los lagos e13,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-02-20,valle,cali (ct),miercoles,10:25:00,,urbana,casa en conjunto cerrado,palancas,conductor vehiculo,pasajero vehiculo,76001000
+2019-02-20,valle,cali (ct),miercoles,14:03:00,san fernando viejo e19,urbana,vias publicas,palancas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,00:00:00,departamental e10,urbana,,arma blanca / cortopunzante,conductor motocicleta,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,12:00:00,nueva floresta e12,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,12:00:00,san cristobal e10,urbana,vias publicas,arma blanca / cortopunzante,bicicleta,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,02:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,11:30:00,san nicolas e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,17:00:00,base aerea e7,urbana,semaforo,arma blanca / cortopunzante,pasajero motocicleta,conductor vehiculo,76001000
+2019-02-21,valle,cali (ct),jueves,10:30:00,los chorros e18,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,15:30:00,lili e17,urbana,,sin empleo de armas,a pie,conductor motocicleta,76001000
+2019-02-21,valle,cali (ct),jueves,06:00:00,vipasa e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,13:10:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,18:20:00,el refugio e19,urbana,almacenes,arma de fuego,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,08:20:00,industrial e8,urbana,establecimiento educativo,sin empleo de armas,a pie,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,07:40:00,calima e4,urbana,estacion m.i.o.,sin empleo de armas,bicicleta,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,17:21:00,lili e17,urbana,supermercados,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-21,valle,cali (ct),jueves,10:34:00,ciudadela confandi e17,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,10:00:00,obrero e9,urbana,talleres,sin empleo de armas,bicicleta,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,12:00:00,el vergel e13,urbana,establecimiento de comercio,sin empleo de armas,a pie,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,15:00:00,el cedro e19,urbana,almacenes,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,18:30:00,el refugio e19,urbana,establecimiento de comercio,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,17:30:00,parcelaciones pance e22,urbana,escenarios deportivos,palancas,a pie,conductor vehiculo,76001000
+2019-02-22,valle,cali (ct),viernes,00:30:00,las granjas e10,urbana,almacenes,arma de fuego,a pie,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,14:45:00,colseguros andes e10,urbana,vias publicas,sin empleo de armas,a pie,conductor vehiculo,76001000
+2019-02-22,valle,cali (ct),viernes,17:17:00,san pedro e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2019-02-22,valle,cali (ct),viernes,05:45:00,lili e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-23,valle,cali (ct),sabado,09:00:00,ciudad cordoba e15,urbana,vias publicas,palancas,a pie,conductor vehiculo,76001000
+2019-02-23,valle,cali (ct),sabado,11:30:00,ciudadela floralia e6,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2019-02-23,valle,cali (ct),sabado,00:30:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-23,valle,cali (ct),sabado,06:00:00,san pedro e3,urbana,instalaciones gubernamentales,sin empleo de armas,a pie,a pie,76001000
+2019-02-23,valle,cali (ct),sabado,14:40:00,marroquin i e14,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-23,valle,cali (ct),sabado,12:15:00,ciudadela confandi e17,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-23,valle,cali (ct),sabado,23:50:00,caney e17,urbana,vias publicas,arma blanca / cortopunzante,conductor motocicleta,pasajero vehiculo,76001000
+2019-02-23,valle,cali (ct),sabado,15:22:00,,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-02-24,valle,cali (ct),domingo,15:15:00,melendez e18,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-02-24,valle,cali (ct),domingo,18:45:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,14:00:00,calimio desepaz e21,urbana,vehiculo,palancas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,14:00:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,17:30:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,19:00:00,manuela beltran e14,urbana,casas de habitacion,sin empleo de armas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,14:45:00,la independencia e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,15:05:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-25,valle,cali (ct),lunes,04:44:00,terron colorado e1,urbana,instalaciones de la policia,sin empleo de armas,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,12:00:00,mojica e15,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,14:00:00,morichal de comfandi e15,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,76001000
+2019-02-26,valle,cali (ct),martes,07:00:00,u.r. el coliseo e19,urbana,cultivos,sin empleo de armas,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,13:30:00,vista hermosa e1,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,06:00:00,3 de julio e19,urbana,,contundentes,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,10:45:00,eucaristico e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,11:45:00,los guayacanes e5,urbana,interior vehiculo particular,palancas,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,06:45:00,urbanizacion calimio e6,urbana,oficinas,palancas,a pie,a pie,76001000
+2019-02-26,valle,cali (ct),martes,14:22:00,los conquistadores e11,urbana,vias publicas,contundentes,conductor motocicleta,conductor motocicleta,76001000
+2019-02-27,valle,cali (ct),miercoles,20:00:00,colseguros andes e10,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-27,valle,cali (ct),miercoles,14:00:00,belisario caicedo e20,urbana,zona selvatica,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-27,valle,cali (ct),miercoles,14:30:00,ciudad campestre e22,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2019-02-27,valle,cali (ct),miercoles,13:10:00,san nicolas e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-27,valle,cali (ct),miercoles,16:20:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2019-02-27,valle,cali (ct),miercoles,14:40:00,santa monica residencial e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2019-02-27,valle,cali (ct),miercoles,11:32:00,alto napoles e18,urbana,"colegios, escuelas",sin empleo de armas,pasajero motocicleta,conductor vehiculo,76001000
+2019-02-28,valle,cali (ct),jueves,12:30:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-28,valle,cali (ct),jueves,16:30:00,el vergel e13,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2019-02-28,valle,cali (ct),jueves,15:30:00,el calvario e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2019-02-28,valle,cali (ct),jueves,17:40:00,urbanizacion la flora e2,urbana,local comercial,arma de fuego,pasajero vehiculo,a pie,76001000
+2019-02-28,valle,cali (ct),jueves,21:05:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000

@@ -1,0 +1,1000 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2016-01-02,valle,cali (ct),sabado,08:00:00,,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-01-02,valle,cali (ct),sabado,06:00:00,industrial e8,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-01-02,valle,cali (ct),sabado,20:30:00,lili e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-03,valle,cali (ct),domingo,10:00:00,santa elena e10,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-01-03,valle,cali (ct),domingo,09:00:00,san antonio e3,urbana,restaurantes,llave maestra,a pie,a pie,76001000
+2016-01-03,valle,cali (ct),domingo,14:00:00,valle grande e21,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-01-03,valle,cali (ct),domingo,12:50:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-04,valle,cali (ct),lunes,08:20:00,melendez e18,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-01-05,valle,cali (ct),martes,00:00:00,ciudad cordoba e15,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-01-06,valle,cali (ct),miercoles,21:15:00,ciudad 2000 e16,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-01-06,valle,cali (ct),miercoles,09:10:00,calima e4,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-01-07,valle,cali (ct),jueves,18:00:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-07,valle,cali (ct),jueves,22:05:00,las quintas de don simon e17,urbana,bomba de gasolina,arma de fuego,conductor vehiculo,a pie,76001000
+2016-01-08,valle,cali (ct),viernes,18:40:00,urb. militar e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-09,valle,cali (ct),sabado,13:30:00,la flora e2,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-01-10,valle,cali (ct),domingo,12:20:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-12,valle,cali (ct),martes,15:00:00,el piloto e3,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-01-12,valle,cali (ct),martes,11:45:00,,urbana,peluqueria y similares,arma de fuego,a pie,a pie,76001000
+2016-01-12,valle,cali (ct),martes,21:20:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-13,valle,cali (ct),miercoles,21:05:00,julio rincon e12,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-14,valle,cali (ct),jueves,08:00:00,urbanizacion la flora e2,urbana,oficinas,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-01-14,valle,cali (ct),jueves,13:00:00,flora industrial e4,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-01-14,valle,cali (ct),jueves,15:15:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-16,valle,cali (ct),sabado,11:00:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-16,valle,cali (ct),sabado,11:00:00,villacolombia e8,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-01-16,valle,cali (ct),sabado,19:38:00,brisas de los alamos e2,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-01-19,valle,cali (ct),martes,12:00:00,el sena e5,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-19,valle,cali (ct),martes,09:05:00,urbanizacion calimio e6,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-01-19,valle,cali (ct),martes,16:24:00,san vicente e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-20,valle,cali (ct),miercoles,00:00:00,antonio narino e16,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-01-20,valle,cali (ct),miercoles,18:10:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-20,valle,cali (ct),miercoles,13:07:00,urbanizacion calimio e6,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-01-20,valle,cali (ct),miercoles,21:58:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-22,valle,cali (ct),viernes,23:15:00,,urbana,estaciones de servicio,arma de fuego,conductor vehiculo,a pie,76001000
+2016-01-22,valle,cali (ct),viernes,20:03:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-23,valle,cali (ct),sabado,17:42:00,nueva tequendama e19,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-01-24,valle,cali (ct),domingo,23:00:00,alto jordan e18,urbana,panaderias,contundentes,a pie,a pie,76001000
+2016-01-24,valle,cali (ct),domingo,12:40:00,valle grande e21,urbana,supermercados,arma de fuego,a pie,a pie,76001000
+2016-01-24,valle,cali (ct),domingo,12:15:00,alameda e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-01-24,valle,cali (ct),domingo,13:25:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-25,valle,cali (ct),lunes,22:50:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-26,valle,cali (ct),martes,09:30:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-28,valle,cali (ct),jueves,18:00:00,el troncal e8,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-01-28,valle,cali (ct),jueves,14:30:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-28,valle,cali (ct),jueves,20:10:00,calima e4,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-01-28,valle,cali (ct),jueves,23:50:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-29,valle,cali (ct),viernes,10:00:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-29,valle,cali (ct),viernes,10:00:00,vipasa e2,urbana,"hoteles, residencias, y similares.",sin empleo de armas,a pie,a pie,76001000
+2016-01-30,valle,cali (ct),sabado,10:35:00,san joaquin e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-30,valle,cali (ct),sabado,14:26:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-01-31,valle,cali (ct),domingo,21:05:00,san joaquin e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-01-31,valle,cali (ct),domingo,20:08:00,santa monica residencial e2,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-02-01,valle,cali (ct),lunes,18:00:00,el troncal e8,urbana,empresa,arma de fuego,a pie,a pie,76001000
+2016-02-01,valle,cali (ct),lunes,21:05:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-02,valle,cali (ct),martes,09:00:00,vipasa e2,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2016-02-02,valle,cali (ct),martes,08:45:00,el limonar e17,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-02-02,valle,cali (ct),martes,01:40:00,benjamin herrera e8,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-03,valle,cali (ct),miercoles,00:00:00,los cambulos e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-03,valle,cali (ct),miercoles,20:25:00,belisario caicedo e20,urbana,"droguerias, farmacias",arma de fuego,a pie,a pie,76001000
+2016-02-03,valle,cali (ct),miercoles,16:39:00,,urbana,consultorios  odontologicos,arma de fuego,a pie,a pie,76001000
+2016-02-04,valle,cali (ct),jueves,08:00:00,san pedro e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-02-04,valle,cali (ct),jueves,14:00:00,julio rincon e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-04,valle,cali (ct),jueves,05:30:00,san antonio e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-05,valle,cali (ct),viernes,08:00:00,republica israel e16,urbana,panaderias,sin empleo de armas,a pie,a pie,76001000
+2016-02-05,valle,cali (ct),viernes,10:00:00,colseguros andes e10,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-02-05,valle,cali (ct),viernes,18:30:00,versalles e2,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-02-05,valle,cali (ct),viernes,22:30:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-06,valle,cali (ct),sabado,21:00:00,san nicolas e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-02-06,valle,cali (ct),sabado,13:05:00,santa monica residencial e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-06,valle,cali (ct),sabado,16:32:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-07,valle,cali (ct),domingo,01:00:00,industrial e8,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-02-08,valle,cali (ct),lunes,00:00:00,mojica e15,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-08,valle,cali (ct),lunes,00:00:00,villacolombia e8,urbana,consultorios medicos,contundentes,a pie,a pie,76001000
+2016-02-08,valle,cali (ct),lunes,13:30:00,el poblado ii e13,urbana,instalaciones gubernamentales,arma de fuego,a pie,a pie,76001000
+2016-02-08,valle,cali (ct),lunes,12:55:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-09,valle,cali (ct),martes,19:30:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-09,valle,cali (ct),martes,16:40:00,san pedro e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-12,valle,cali (ct),viernes,11:00:00,bosques del limonar e17,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-02-12,valle,cali (ct),viernes,11:00:00,san vicente e2,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-02-12,valle,cali (ct),viernes,09:20:00,centenario e2,urbana,consultorios  odontologicos,arma de fuego,a pie,a pie,76001000
+2016-02-12,valle,cali (ct),viernes,15:35:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-12,valle,cali (ct),viernes,16:08:00,santa monica residencial e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-13,valle,cali (ct),sabado,05:30:00,santa rosa e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-02-14,valle,cali (ct),domingo,18:00:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-14,valle,cali (ct),domingo,20:30:00,la base e8,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-02-15,valle,cali (ct),lunes,16:35:00,la flora e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-15,valle,cali (ct),lunes,20:38:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-17,valle,cali (ct),miercoles,00:00:00,pampa linda e19,urbana,universidades,sin empleo de armas,a pie,a pie,76001000
+2016-02-17,valle,cali (ct),miercoles,11:00:00,el guabal e10,urbana,local comercial,arma de fuego,bicicleta,a pie,76001000
+2016-02-17,valle,cali (ct),miercoles,21:45:00,lili e17,urbana,centro comercial,contundentes,a pie,a pie,76001000
+2016-02-17,valle,cali (ct),miercoles,21:45:00,,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-19,valle,cali (ct),viernes,04:30:00,el limonar e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-19,valle,cali (ct),viernes,18:35:00,unicentro cali e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-20,valle,cali (ct),sabado,16:30:00,ciudad cordoba e15,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-02-21,valle,cali (ct),domingo,21:00:00,los chorros e18,urbana,supermercados,arma de fuego,a pie,a pie,76001000
+2016-02-21,valle,cali (ct),domingo,18:20:00,julio rincon e12,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-21,valle,cali (ct),domingo,10:20:00,el dorado e10,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-02-22,valle,cali (ct),lunes,00:00:00,chiminangos i e5,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-22,valle,cali (ct),lunes,04:40:00,guayaquil e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-22,valle,cali (ct),lunes,21:25:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-23,valle,cali (ct),martes,00:00:00,san vicente e2,urbana,universidades,contundentes,a pie,a pie,76001000
+2016-02-23,valle,cali (ct),martes,16:00:00,san pedro e3,urbana,empresa,sin empleo de armas,conductor taxi,a pie,76001000
+2016-02-23,valle,cali (ct),martes,08:30:00,patio bonito e1,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-02-24,valle,cali (ct),miercoles,07:30:00,chapinero e8,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-02-24,valle,cali (ct),miercoles,18:50:00,el lido e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-02-25,valle,cali (ct),jueves,14:00:00,centenario e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-26,valle,cali (ct),viernes,00:00:00,eucaristico e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-02-26,valle,cali (ct),viernes,19:00:00,santa monica residencial e2,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-02-26,valle,cali (ct),viernes,17:30:00,municipal e8,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-02-26,valle,cali (ct),viernes,18:45:00,lili e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-26,valle,cali (ct),viernes,21:40:00,ciudad universitaria e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-02-28,valle,cali (ct),domingo,02:00:00,guayaquil e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-02-28,valle,cali (ct),domingo,11:45:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-02-28,valle,cali (ct),domingo,10:45:00,versalles e2,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-02-29,valle,cali (ct),lunes,16:10:00,u.r. santiago de cali e19,urbana,estacion m.i.o.,contundentes,a pie,a pie,76001000
+2016-02-29,valle,cali (ct),lunes,20:50:00,u.r. santiago de cali e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-01,valle,cali (ct),martes,11:00:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-01,valle,cali (ct),martes,15:45:00,menga e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-03-03,valle,cali (ct),jueves,09:00:00,marroquin iii e13,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-03-03,valle,cali (ct),jueves,19:00:00,alfonso b. aragon e14,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-03-03,valle,cali (ct),jueves,15:50:00,el ingenio e17,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-03-04,valle,cali (ct),viernes,13:30:00,pampa linda e19,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-03-04,valle,cali (ct),viernes,15:15:00,departamental e10,urbana,empresa,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-03-05,valle,cali (ct),sabado,10:00:00,san nicolas e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-03-05,valle,cali (ct),sabado,14:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-05,valle,cali (ct),sabado,19:15:00,salomia e4,urbana,"colegios, escuelas",arma de fuego,conductor vehiculo,a pie,76001000
+2016-03-06,valle,cali (ct),domingo,12:00:00,urb. tequendama e19,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-03-06,valle,cali (ct),domingo,00:10:00,vipasa e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-03-07,valle,cali (ct),lunes,10:22:00,cristobal colon e10,urbana,supermercados,arma de fuego,a pie,a pie,76001000
+2016-03-08,valle,cali (ct),martes,16:05:00,prados del norte e2,urbana,local comercial,arma de fuego,conductor vehiculo,a pie,76001000
+2016-03-09,valle,cali (ct),miercoles,08:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-10,valle,cali (ct),jueves,07:00:00,vista hermosa e1,urbana,biblioteca,sin empleo de armas,a pie,a pie,76001000
+2016-03-10,valle,cali (ct),jueves,17:30:00,san pedro claver e11,urbana,biblioteca,sin empleo de armas,a pie,a pie,76001000
+2016-03-11,valle,cali (ct),viernes,14:30:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-12,valle,cali (ct),sabado,00:00:00,calimio desepaz e21,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-03-12,valle,cali (ct),sabado,16:20:00,santa monica popular e8,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-03-12,valle,cali (ct),sabado,17:50:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-12,valle,cali (ct),sabado,09:15:00,versalles e2,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-03-13,valle,cali (ct),domingo,16:35:00,urb. militar e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-14,valle,cali (ct),lunes,02:00:00,primitivo crespo e8,urbana,estacion m.i.o.,contundentes,a pie,a pie,76001000
+2016-03-14,valle,cali (ct),lunes,18:20:00,u.r. santiago de cali e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-15,valle,cali (ct),martes,01:00:00,aguacatal e1,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-15,valle,cali (ct),martes,12:30:00,republica israel e16,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-03-16,valle,cali (ct),miercoles,00:00:00,el pondaje e13,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-03-16,valle,cali (ct),miercoles,07:00:00,versalles e2,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-03-16,valle,cali (ct),miercoles,13:50:00,el cortijo e20,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-03-16,valle,cali (ct),miercoles,18:25:00,urbanizacion la flora e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-16,valle,cali (ct),miercoles,19:35:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-17,valle,cali (ct),jueves,00:00:00,el sena e5,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-03-17,valle,cali (ct),jueves,15:30:00,12 de octubre e12,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-03-17,valle,cali (ct),jueves,15:30:00,benjamin herrera e8,urbana,"ferrereras, marraneras y caballerizas",sin empleo de armas,a pie,a pie,76001000
+2016-03-17,valle,cali (ct),jueves,02:30:00,porvenir e4,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-03-17,valle,cali (ct),jueves,17:10:00,la alborada e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-17,valle,cali (ct),jueves,20:23:00,obrero e9,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-03-18,valle,cali (ct),viernes,00:00:00,versalles e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-18,valle,cali (ct),viernes,20:00:00,los naranjos ii e14,urbana,local comercial,arma de fuego,conductor vehiculo,a pie,76001000
+2016-03-18,valle,cali (ct),viernes,10:47:00,el cedro e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-19,valle,cali (ct),sabado,11:00:00,san joaquin e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-03-19,valle,cali (ct),sabado,11:20:00,cristobal colon e10,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-03-21,valle,cali (ct),lunes,08:35:00,las quintas de don simon e17,urbana,estaciones de servicio,arma de fuego,conductor vehiculo,a pie,76001000
+2016-03-22,valle,cali (ct),martes,07:00:00,normandia e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-03-22,valle,cali (ct),martes,13:00:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-22,valle,cali (ct),martes,13:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-22,valle,cali (ct),martes,10:30:00,bellavista e19,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-03-22,valle,cali (ct),martes,17:30:00,el lido e19,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-03-22,valle,cali (ct),martes,09:30:00,normandia e2,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,00:00:00,el cedro e19,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,09:00:00,ciudadela pasoancho e17,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,11:00:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,17:00:00,lili e17,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,17:30:00,el piloto e3,urbana,talleres,contundentes,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,13:50:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-23,valle,cali (ct),miercoles,13:55:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-24,valle,cali (ct),jueves,00:00:00,urb. santa elena e18,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-03-24,valle,cali (ct),jueves,16:00:00,san pedro e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-03-26,valle,cali (ct),sabado,00:00:00,antonio narino e16,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-03-26,valle,cali (ct),sabado,18:00:00,san luis ii e6,urbana,iglesia,contundentes,a pie,a pie,76001000
+2016-03-26,valle,cali (ct),sabado,14:30:00,villacolombia e8,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-03-26,valle,cali (ct),sabado,08:30:00,san pedro e3,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-03-26,valle,cali (ct),sabado,07:15:00,alfonso lopez i e7,urbana,local comercial,arma blanca / cortopunzante,bicicleta,a pie,76001000
+2016-03-27,valle,cali (ct),domingo,18:00:00,el sena e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-27,valle,cali (ct),domingo,17:55:00,el sena e5,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-29,valle,cali (ct),martes,10:30:00,ciudad cordoba e15,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-03-29,valle,cali (ct),martes,19:30:00,villacolombia e8,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-29,valle,cali (ct),martes,14:05:00,los guayacanes e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-29,valle,cali (ct),martes,09:20:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-03-30,valle,cali (ct),miercoles,00:00:00,versalles e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-03-30,valle,cali (ct),miercoles,11:00:00,el remanso e21,urbana,tienda,arma de fuego,bicicleta,a pie,76001000
+2016-03-30,valle,cali (ct),miercoles,21:40:00,urbanizacion la flora e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-03-31,valle,cali (ct),jueves,13:30:00,el cortijo e20,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-03-31,valle,cali (ct),jueves,21:40:00,urbanizacion la flora e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-01,valle,cali (ct),viernes,21:45:00,lili e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-03,valle,cali (ct),domingo,20:35:00,centenario e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,08:00:00,popular e4,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,08:00:00,sucre e9,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,09:00:00,la merced e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,08:30:00,sultana berlin san francisco e4,urbana,local comercial,cortantes,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,16:15:00,san nicolas e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,20:35:00,julio rincon e12,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-04,valle,cali (ct),lunes,05:10:00,san juan bosco e3,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2016-04-05,valle,cali (ct),martes,12:10:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-06,valle,cali (ct),miercoles,14:00:00,san carlos e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-07,valle,cali (ct),jueves,13:00:00,centenario e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-07,valle,cali (ct),jueves,20:00:00,centenario e2,urbana,vias publicas,llave maestra,a pie,a pie,76001000
+2016-04-07,valle,cali (ct),jueves,10:20:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-07,valle,cali (ct),jueves,22:50:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-08,valle,cali (ct),viernes,11:00:00,ciudad 2000 e16,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-04-08,valle,cali (ct),viernes,21:30:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-08,valle,cali (ct),viernes,17:45:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-08,valle,cali (ct),viernes,20:45:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-09,valle,cali (ct),sabado,09:00:00,juanambu e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-09,valle,cali (ct),sabado,18:20:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-10,valle,cali (ct),domingo,15:45:00,los cambulos e19,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-04-10,valle,cali (ct),domingo,20:45:00,san vicente e2,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-04-11,valle,cali (ct),lunes,07:00:00,calypso e13,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-04-11,valle,cali (ct),lunes,13:00:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-11,valle,cali (ct),lunes,12:45:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-13,valle,cali (ct),miercoles,14:00:00,urbanizacion la flora e2,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-04-13,valle,cali (ct),miercoles,11:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,conductor vehiculo,76001000
+2016-04-13,valle,cali (ct),miercoles,06:30:00,san antonio e3,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2016-04-14,valle,cali (ct),jueves,10:00:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-14,valle,cali (ct),jueves,18:00:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-14,valle,cali (ct),jueves,19:00:00,centenario e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-15,valle,cali (ct),viernes,17:00:00,compartir e21,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-04-15,valle,cali (ct),viernes,18:30:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-15,valle,cali (ct),viernes,21:30:00,urbanizacion la flora e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-16,valle,cali (ct),sabado,00:00:00,san luis e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-16,valle,cali (ct),sabado,14:00:00,santa monica residencial e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-04-16,valle,cali (ct),sabado,19:00:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-16,valle,cali (ct),sabado,04:00:00,guayaquil e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-04-18,valle,cali (ct),lunes,07:00:00,urb. tequendama e19,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-04-18,valle,cali (ct),lunes,00:30:00,la floresta e8,urbana,panaderias,contundentes,a pie,a pie,76001000
+2016-04-19,valle,cali (ct),martes,18:40:00,urbanizacion la flora e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-20,valle,cali (ct),miercoles,11:00:00,granada e2,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-04-20,valle,cali (ct),miercoles,07:00:00,cgto golondrinas e1,rural,lote baldio,sin empleo de armas,a pie,a pie,76001000
+2016-04-20,valle,cali (ct),miercoles,20:40:00,el sena e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-21,valle,cali (ct),jueves,00:00:00,granada e2,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-04-21,valle,cali (ct),jueves,18:30:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-21,valle,cali (ct),jueves,15:35:00,champagnat e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-21,valle,cali (ct),jueves,18:36:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-22,valle,cali (ct),viernes,03:00:00,benjamin herrera e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-22,valle,cali (ct),viernes,16:30:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-24,valle,cali (ct),domingo,20:30:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-25,valle,cali (ct),lunes,00:00:00,urb. militar e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-25,valle,cali (ct),lunes,09:00:00,melendez e18,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-04-25,valle,cali (ct),lunes,14:00:00,san fernando viejo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-25,valle,cali (ct),lunes,16:00:00,salomia e4,urbana,empresa,sin empleo de armas,conductor vehiculo,a pie,76001000
+2016-04-25,valle,cali (ct),lunes,10:10:00,san nicolas e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-25,valle,cali (ct),lunes,17:55:00,san marino e7,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-04-26,valle,cali (ct),martes,14:00:00,unicentro cali e17,urbana,joyerias,contundentes,a pie,a pie,76001000
+2016-04-26,valle,cali (ct),martes,16:30:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-26,valle,cali (ct),martes,06:30:00,san antonio e3,urbana,local comercial,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-04-26,valle,cali (ct),martes,05:45:00,,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-04-26,valle,cali (ct),martes,04:27:00,guayaquil e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-04-27,valle,cali (ct),miercoles,18:00:00,urb. ciudad jardin e22,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-04-27,valle,cali (ct),miercoles,16:45:00,santo domingo e10,urbana,"droguerias, farmacias",arma de fuego,a pie,a pie,76001000
+2016-04-27,valle,cali (ct),miercoles,04:30:00,benjamin herrera e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-28,valle,cali (ct),jueves,16:00:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-04-28,valle,cali (ct),jueves,14:30:00,el calvario e3,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-04-28,valle,cali (ct),jueves,18:55:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-29,valle,cali (ct),viernes,12:30:00,la flora e2,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2016-04-29,valle,cali (ct),viernes,13:30:00,santa elena e10,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-29,valle,cali (ct),viernes,13:20:00,versalles e2,urbana,consultorios medicos,contundentes,a pie,a pie,76001000
+2016-04-30,valle,cali (ct),sabado,18:00:00,san pedro e3,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-30,valle,cali (ct),sabado,19:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-04-30,valle,cali (ct),sabado,09:30:00,morichal de comfandi e15,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-04-30,valle,cali (ct),sabado,17:45:00,sucre e9,urbana,estaciones de servicio,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-04-30,valle,cali (ct),sabado,16:20:00,urb. tequendama e19,urbana,,contundentes,a pie,a pie,76001000
+2016-04-30,valle,cali (ct),sabado,18:15:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-01,valle,cali (ct),domingo,22:00:00,chiminangos ii e5,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-05-01,valle,cali (ct),domingo,20:15:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-01,valle,cali (ct),domingo,20:15:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-01,valle,cali (ct),domingo,07:45:00,el ingenio e17,urbana,panaderias,llave maestra,a pie,a pie,76001000
+2016-05-01,valle,cali (ct),domingo,04:20:00,,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-05-01,valle,cali (ct),domingo,04:20:00,el gran limonar e17,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-05-02,valle,cali (ct),lunes,21:00:00,san joaquin e17,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2016-05-03,valle,cali (ct),martes,19:00:00,la merced e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-05-03,valle,cali (ct),martes,19:45:00,metropolitano del norte e5,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-05-03,valle,cali (ct),martes,20:45:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-03,valle,cali (ct),martes,13:02:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-04,valle,cali (ct),miercoles,09:00:00,urb. ciudad jardin e22,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-05-04,valle,cali (ct),miercoles,20:45:00,ciudad capri e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-04,valle,cali (ct),miercoles,20:45:00,,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-06,valle,cali (ct),viernes,22:00:00,centenario e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-06,valle,cali (ct),viernes,15:20:00,el poblado i e13,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-06,valle,cali (ct),viernes,10:20:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-07,valle,cali (ct),sabado,15:00:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-07,valle,cali (ct),sabado,13:00:00,los alcazares e6,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-08,valle,cali (ct),domingo,19:50:00,chipichape e2,urbana,centro comercial,cortantes,a pie,a pie,76001000
+2016-05-10,valle,cali (ct),martes,18:30:00,manzanares e4,urbana,local comercial,arma de fuego,conductor vehiculo,a pie,76001000
+2016-05-10,valle,cali (ct),martes,04:00:00,alfonso lopez i e7,urbana,hogar de paso,sin empleo de armas,a pie,a pie,76001000
+2016-05-11,valle,cali (ct),miercoles,10:00:00,urb. tequendama e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-05-11,valle,cali (ct),miercoles,10:25:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-13,valle,cali (ct),viernes,19:08:00,u.r. santiago de cali e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-14,valle,cali (ct),sabado,20:00:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-14,valle,cali (ct),sabado,18:30:00,sucre e9,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2016-05-14,valle,cali (ct),sabado,16:20:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-14,valle,cali (ct),sabado,11:45:00,,urbana,consultorios  odontologicos,sin empleo de armas,a pie,a pie,76001000
+2016-05-14,valle,cali (ct),sabado,19:08:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-14,valle,cali (ct),sabado,14:52:00,el troncal e8,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-05-15,valle,cali (ct),domingo,00:00:00,los cambulos e19,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-05-15,valle,cali (ct),domingo,03:45:00,granada e2,urbana,restaurantes,llave maestra,a pie,a pie,76001000
+2016-05-15,valle,cali (ct),domingo,21:08:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-16,valle,cali (ct),lunes,08:00:00,alameda e9,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-05-16,valle,cali (ct),lunes,03:00:00,eucaristico e19,urbana,peluqueria y similares,contundentes,a pie,a pie,76001000
+2016-05-16,valle,cali (ct),lunes,14:45:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-16,valle,cali (ct),lunes,09:45:00,urbanizacion la flora e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-16,valle,cali (ct),lunes,11:15:00,santa monica residencial e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-17,valle,cali (ct),martes,16:30:00,el poblado ii e13,urbana,hospitales,sin empleo de armas,a pie,a pie,76001000
+2016-05-17,valle,cali (ct),martes,21:15:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-17,valle,cali (ct),martes,17:15:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-17,valle,cali (ct),martes,01:17:00,guayaquil e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-05-18,valle,cali (ct),miercoles,18:00:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-18,valle,cali (ct),miercoles,13:20:00,ciudad cordoba e15,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-05-18,valle,cali (ct),miercoles,14:20:00,vipasa e2,urbana,local comercial,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-05-19,valle,cali (ct),jueves,03:15:00,industrial e8,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-05-20,valle,cali (ct),viernes,16:54:00,los libertadores e3,urbana,almacenes,sin empleo de armas,pasajero motocicleta,a pie,76001000
+2016-05-21,valle,cali (ct),sabado,03:00:00,san cristobal e10,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-05-21,valle,cali (ct),sabado,16:30:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-21,valle,cali (ct),sabado,16:30:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-21,valle,cali (ct),sabado,12:40:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-21,valle,cali (ct),sabado,16:19:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-22,valle,cali (ct),domingo,00:00:00,san cristobal e10,urbana,supermercados,contundentes,a pie,a pie,76001000
+2016-05-22,valle,cali (ct),domingo,21:45:00,el sena e5,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-05-22,valle,cali (ct),domingo,16:19:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-23,valle,cali (ct),lunes,19:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-23,valle,cali (ct),lunes,19:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-23,valle,cali (ct),lunes,20:30:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-23,valle,cali (ct),lunes,17:20:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-24,valle,cali (ct),martes,15:30:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-24,valle,cali (ct),martes,14:15:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-25,valle,cali (ct),miercoles,15:30:00,san joaquin e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-25,valle,cali (ct),miercoles,20:30:00,siloe e20,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-25,valle,cali (ct),miercoles,14:02:00,buenos aires e18,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-26,valle,cali (ct),jueves,16:10:00,la playa e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-26,valle,cali (ct),jueves,20:03:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-26,valle,cali (ct),jueves,23:03:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-27,valle,cali (ct),viernes,14:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-05-27,valle,cali (ct),viernes,19:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-27,valle,cali (ct),viernes,22:00:00,belisario caicedo e20,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-05-27,valle,cali (ct),viernes,13:15:00,san joaquin e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-28,valle,cali (ct),sabado,08:00:00,san juan bosco e3,urbana,almacenes,llave maestra,a pie,a pie,76001000
+2016-05-28,valle,cali (ct),sabado,10:30:00,san joaquin e17,urbana,local comercial,llave maestra,a pie,a pie,76001000
+2016-05-28,valle,cali (ct),sabado,18:40:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-28,valle,cali (ct),sabado,11:27:00,san vicente e2,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2016-05-30,valle,cali (ct),lunes,20:00:00,san antonio e3,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2016-05-31,valle,cali (ct),martes,14:00:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-31,valle,cali (ct),martes,17:00:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-31,valle,cali (ct),martes,11:30:00,villacolombia e8,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-05-31,valle,cali (ct),martes,13:50:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-05-31,valle,cali (ct),martes,13:10:00,el sena e5,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-06-01,valle,cali (ct),miercoles,15:00:00,versalles e2,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-01,valle,cali (ct),miercoles,03:30:00,versalles e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-01,valle,cali (ct),miercoles,14:59:00,angel del hogar e7,urbana,instalaciones gubernamentales,sin empleo de armas,a pie,a pie,76001000
+2016-06-03,valle,cali (ct),viernes,10:40:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-03,valle,cali (ct),viernes,20:45:00,la rivera i e6,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-06-04,valle,cali (ct),sabado,11:00:00,el ingenio e17,urbana,instalaciones gubernamentales,contundentes,a pie,a pie,76001000
+2016-06-04,valle,cali (ct),sabado,11:00:00,la hacienda e17,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2016-06-04,valle,cali (ct),sabado,02:00:00,sucre e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-04,valle,cali (ct),sabado,20:30:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-04,valle,cali (ct),sabado,13:50:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-06-04,valle,cali (ct),sabado,14:10:00,el cedro e19,urbana,vias publicas,sin empleo de armas,,a pie,76001000
+2016-06-05,valle,cali (ct),domingo,05:17:00,san nicolas e3,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-06-06,valle,cali (ct),lunes,14:00:00,san luis e6,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-06-06,valle,cali (ct),lunes,11:00:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-06-07,valle,cali (ct),martes,10:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-07,valle,cali (ct),martes,02:00:00,ciudad capri e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-07,valle,cali (ct),martes,07:30:00,obrero e9,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-07,valle,cali (ct),martes,08:35:00,laureano gomez e15,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-06-07,valle,cali (ct),martes,13:08:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-07,valle,cali (ct),martes,21:26:00,el limonar e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-08,valle,cali (ct),miercoles,21:45:00,,urbana,peluqueria y similares,arma de fuego,conductor motocicleta,a pie,76001000
+2016-06-08,valle,cali (ct),miercoles,04:51:00,bretana e9,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-06-09,valle,cali (ct),jueves,02:00:00,el guabal e10,urbana,tienda,contundentes,a pie,a pie,76001000
+2016-06-09,valle,cali (ct),jueves,16:10:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-09,valle,cali (ct),jueves,13:45:00,el jardin e11,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-10,valle,cali (ct),viernes,19:45:00,u.r. santiago de cali e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-10,valle,cali (ct),viernes,22:15:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-10,valle,cali (ct),viernes,18:32:00,saavedra galindo e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-11,valle,cali (ct),sabado,21:00:00,el sena e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-11,valle,cali (ct),sabado,21:30:00,calima e4,urbana,centro comercial,arma de fuego,a pie,a pie,76001000
+2016-06-11,valle,cali (ct),sabado,20:40:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-11,valle,cali (ct),sabado,20:35:00,u.r. santiago de cali e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-11,valle,cali (ct),sabado,06:40:00,los libertadores e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-12,valle,cali (ct),domingo,17:30:00,unicentro cali e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-12,valle,cali (ct),domingo,18:10:00,,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-06-13,valle,cali (ct),lunes,22:00:00,san pedro e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-14,valle,cali (ct),martes,09:00:00,el penon e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-15,valle,cali (ct),miercoles,03:30:00,alameda e9,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-06-16,valle,cali (ct),jueves,00:00:00,san nicolas e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-06-16,valle,cali (ct),jueves,18:16:00,colseguros andes e10,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-06-17,valle,cali (ct),viernes,00:00:00,centenario e2,urbana,universidades,sin empleo de armas,a pie,a pie,76001000
+2016-06-17,valle,cali (ct),viernes,14:30:00,nueva floresta e12,urbana,tienda,arma blanca / cortopunzante,pasajero motocicleta,a pie,76001000
+2016-06-17,valle,cali (ct),viernes,19:45:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-17,valle,cali (ct),viernes,19:45:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,,76001000
+2016-06-17,valle,cali (ct),viernes,12:55:00,ciudad capri e17,urbana,bodegas y similares,arma de fuego,conductor vehiculo,a pie,76001000
+2016-06-17,valle,cali (ct),viernes,21:55:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-18,valle,cali (ct),sabado,09:00:00,primitivo crespo e8,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-06-18,valle,cali (ct),sabado,18:00:00,vipasa e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-18,valle,cali (ct),sabado,18:30:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-18,valle,cali (ct),sabado,16:30:00,3 de julio e19,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-18,valle,cali (ct),sabado,16:51:00,el ingenio e17,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-19,valle,cali (ct),domingo,23:35:00,torres de confandi e5,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2016-06-20,valle,cali (ct),lunes,12:40:00,laureano gomez e15,urbana,supermercados,arma de fuego,a pie,a pie,76001000
+2016-06-20,valle,cali (ct),lunes,12:45:00,los comuneros i e15,urbana,tienda,arma de fuego,a pie,a pie,76001000
+2016-06-20,valle,cali (ct),lunes,22:40:00,san pascual e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-21,valle,cali (ct),martes,10:15:00,morichal de comfandi e15,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-06-22,valle,cali (ct),miercoles,14:20:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-06-22,valle,cali (ct),miercoles,09:08:00,san antonio e3,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-06-23,valle,cali (ct),jueves,13:30:00,nueva tequendama e19,urbana,consultorios medicos,sin empleo de armas,a pie,a pie,76001000
+2016-06-23,valle,cali (ct),jueves,14:10:00,vipasa e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-23,valle,cali (ct),jueves,19:10:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,,76001000
+2016-06-24,valle,cali (ct),viernes,14:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-24,valle,cali (ct),viernes,20:00:00,villacolombia e8,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-24,valle,cali (ct),viernes,12:30:00,mariano ramos e16,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-06-24,valle,cali (ct),viernes,08:30:00,parcelaciones pance e22,urbana,vias publicas,sin empleo de armas,a pie,,76001000
+2016-06-24,valle,cali (ct),viernes,16:55:00,guayaquil e9,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-06-24,valle,cali (ct),viernes,13:24:00,la nueva base e8,urbana,bomba de gasolina,arma de fuego,conductor motocicleta,a pie,76001000
+2016-06-24,valle,cali (ct),viernes,05:07:00,san juan bosco e3,urbana,talleres mecanica,contundentes,a pie,a pie,76001000
+2016-06-25,valle,cali (ct),sabado,00:00:00,parcelaciones pance e22,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-06-25,valle,cali (ct),sabado,20:30:00,la flora e2,urbana,vias publicas,sin empleo de armas,a pie,,76001000
+2016-06-25,valle,cali (ct),sabado,16:45:00,san pedro e3,rural,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-25,valle,cali (ct),sabado,16:45:00,u.r. santiago de cali e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-25,valle,cali (ct),sabado,14:10:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-26,valle,cali (ct),domingo,08:00:00,la alianza e4,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-27,valle,cali (ct),lunes,18:40:00,el cedro e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-06-28,valle,cali (ct),martes,08:00:00,urb. tequendama e19,urbana,local comercial,sin empleo de armas,,,76001000
+2016-06-28,valle,cali (ct),martes,19:20:00,unicentro cali e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-06-28,valle,cali (ct),martes,14:20:00,alfonso lopez ii e7,urbana,restaurantes,arma de fuego,conductor motocicleta,a pie,76001000
+2016-06-29,valle,cali (ct),miercoles,00:00:00,san pedro e3,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-06-30,valle,cali (ct),jueves,03:00:00,via la buitrera e18,rural,empresa,contundentes,conductor vehiculo,a pie,76001000
+2016-06-30,valle,cali (ct),jueves,12:00:00,guayaquil e9,urbana,empresa,sin empleo de armas,conductor vehiculo,conductor vehiculo,76001000
+2016-06-30,valle,cali (ct),jueves,01:00:00,san pedro e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-06-30,valle,cali (ct),jueves,01:00:00,san pedro e3,urbana,parqueadero,contundentes,a pie,a pie,76001000
+2016-06-30,valle,cali (ct),jueves,19:30:00,el sena e5,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-07-01,valle,cali (ct),viernes,10:00:00,manuel mria b/venturta e9,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-07-01,valle,cali (ct),viernes,20:50:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,,76001000
+2016-07-01,valle,cali (ct),viernes,08:40:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-07-01,valle,cali (ct),viernes,09:10:00,san fernando viejo e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-01,valle,cali (ct),viernes,03:45:00,bretana e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-03,valle,cali (ct),domingo,10:30:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-07-04,valle,cali (ct),lunes,22:00:00,obrero e9,urbana,bomba de gasolina,arma de fuego,conductor motocicleta,a pie,76001000
+2016-07-05,valle,cali (ct),martes,10:00:00,san pedro e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-07-05,valle,cali (ct),martes,12:25:00,el sena e5,urbana,iglesia,arma de fuego,a pie,a pie,76001000
+2016-07-05,valle,cali (ct),martes,08:23:00,urb. rio lili e22,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-07-06,valle,cali (ct),miercoles,21:30:00,la independencia e11,urbana,casinos,arma de fuego,a pie,a pie,76001000
+2016-07-06,valle,cali (ct),miercoles,11:20:00,valle grande e21,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-07-06,valle,cali (ct),miercoles,22:16:00,san fernando nuevo e19,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-07-07,valle,cali (ct),jueves,21:15:00,julio rincon e12,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-08,valle,cali (ct),viernes,16:00:00,sucre e9,urbana,joyerias,sin empleo de armas,a pie,a pie,76001000
+2016-07-08,valle,cali (ct),viernes,18:05:00,san pedro e3,urbana,supermercados,sin empleo de armas,,,76001000
+2016-07-08,valle,cali (ct),viernes,09:20:00,ciudad 2000 e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-08,valle,cali (ct),viernes,20:35:00,la flora e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-09,valle,cali (ct),sabado,00:00:00,las quintas de don simon e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-10,valle,cali (ct),domingo,06:20:00,urb. tequendama e19,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-10,valle,cali (ct),domingo,19:47:00,buenos aires e18,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-07-11,valle,cali (ct),lunes,10:00:00,vallado e15,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-07-11,valle,cali (ct),lunes,15:00:00,san joaquin e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-11,valle,cali (ct),lunes,19:00:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-07-11,valle,cali (ct),lunes,04:00:00,sucre e9,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-07-12,valle,cali (ct),martes,00:00:00,calima e4,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-07-12,valle,cali (ct),martes,00:00:00,san nicolas e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-07-12,valle,cali (ct),martes,16:00:00,san fernando viejo e19,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-07-12,valle,cali (ct),martes,20:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-07-12,valle,cali (ct),martes,09:15:00,las delicias e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-13,valle,cali (ct),miercoles,20:00:00,vipasa e2,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-07-13,valle,cali (ct),miercoles,15:30:00,,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-07-13,valle,cali (ct),miercoles,18:45:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-07-13,valle,cali (ct),miercoles,13:35:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-07-13,valle,cali (ct),miercoles,03:20:00,vipasa e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-15,valle,cali (ct),viernes,16:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-15,valle,cali (ct),viernes,18:20:00,santander e4,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-07-15,valle,cali (ct),viernes,15:50:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-07-16,valle,cali (ct),sabado,12:00:00,el troncal e8,urbana,empresa,arma de fuego,a pie,a pie,76001000
+2016-07-17,valle,cali (ct),domingo,20:00:00,cgto navarro e21,rural,construccion,arma de fuego,a pie,a pie,76001000
+2016-07-17,valle,cali (ct),domingo,21:00:00,belalcazar e9,urbana,bomba de gasolina,arma de fuego,conductor vehiculo,a pie,76001000
+2016-07-17,valle,cali (ct),domingo,14:40:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-07-17,valle,cali (ct),domingo,20:25:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-07-18,valle,cali (ct),lunes,20:00:00,los lagos e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-07-18,valle,cali (ct),lunes,02:55:00,,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2016-07-19,valle,cali (ct),martes,10:00:00,la merced e3,urbana,consultorios medicos,sin empleo de armas,a pie,a pie,76001000
+2016-07-19,valle,cali (ct),martes,02:00:00,alameda e9,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-07-22,valle,cali (ct),viernes,14:00:00,el sena e5,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-07-22,valle,cali (ct),viernes,16:10:00,ciudad 2000 e16,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,20:00:00,industrial e8,urbana,bomba de gasolina,arma de fuego,conductor motocicleta,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,18:30:00,mariano ramos e16,urbana,"droguerias, farmacias",arma de fuego,a pie,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,23:30:00,el calvario e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,23:30:00,el calvario e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,20:25:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,10:43:00,san pedro e3,urbana,almacenes,contundentes,conductor motocicleta,a pie,76001000
+2016-07-23,valle,cali (ct),sabado,18:03:00,u.r. santiago de cali e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-07-24,valle,cali (ct),domingo,00:00:00,san fernando nuevo e19,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-07-24,valle,cali (ct),domingo,00:00:00,san joaquin e17,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-07-25,valle,cali (ct),lunes,18:55:00,primavera e11,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-07-27,valle,cali (ct),miercoles,10:00:00,brisas de los alamos e2,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-07-27,valle,cali (ct),miercoles,14:00:00,bellavista e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-07-27,valle,cali (ct),miercoles,10:05:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-07-28,valle,cali (ct),jueves,13:15:00,diamante e13,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-29,valle,cali (ct),viernes,04:00:00,prados del sur e18,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-07-30,valle,cali (ct),sabado,13:00:00,obrero e9,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2016-07-30,valle,cali (ct),sabado,21:40:00,san joaquin e17,urbana,tienda,sin empleo de armas,,,76001000
+2016-07-30,valle,cali (ct),sabado,21:20:00,calima e4,urbana,supermercados,sin empleo de armas,,,76001000
+2016-07-31,valle,cali (ct),domingo,08:30:00,alfonso lopez i e7,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-01,valle,cali (ct),lunes,00:00:00,manuel mria b/venturta e9,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-08-01,valle,cali (ct),lunes,08:00:00,el limonar e17,urbana,empresa,sin empleo de armas,,,76001000
+2016-08-01,valle,cali (ct),lunes,19:30:00,lili e17,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-08-01,valle,cali (ct),lunes,18:25:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-01,valle,cali (ct),lunes,22:36:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-02,valle,cali (ct),martes,12:20:00,,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-02,valle,cali (ct),martes,15:15:00,san judas tadeo i e10,urbana,estaciones de servicio,arma blanca / cortopunzante,conductor motocicleta,a pie,76001000
+2016-08-02,valle,cali (ct),martes,14:15:00,colseguros andes e10,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-02,valle,cali (ct),martes,15:35:00,el limonar e17,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-08-03,valle,cali (ct),miercoles,18:00:00,el sena e5,urbana,local comercial,llave maestra,a pie,a pie,76001000
+2016-08-03,valle,cali (ct),miercoles,12:10:00,el sena e5,urbana,auditorios,sin empleo de armas,a pie,a pie,76001000
+2016-08-04,valle,cali (ct),jueves,00:00:00,el refugio e19,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-04,valle,cali (ct),jueves,12:55:00,santa monica residencial e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-05,valle,cali (ct),viernes,13:00:00,san vicente e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-05,valle,cali (ct),viernes,17:00:00,san vicente e2,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-08-05,valle,cali (ct),viernes,21:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-05,valle,cali (ct),viernes,21:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-08-05,valle,cali (ct),viernes,12:36:00,nueva tequendama e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-06,valle,cali (ct),sabado,15:30:00,el sena e5,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-07,valle,cali (ct),domingo,09:00:00,prados del limonar e17,urbana,local comercial,llave maestra,a pie,a pie,76001000
+2016-08-07,valle,cali (ct),domingo,12:00:00,granada e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-07,valle,cali (ct),domingo,12:30:00,julio rincon e12,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-08-08,valle,cali (ct),lunes,00:00:00,santa elena e10,urbana,licorera/estanco 24 horas,contundentes,a pie,a pie,76001000
+2016-08-08,valle,cali (ct),lunes,08:50:00,prados del limonar e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-08,valle,cali (ct),lunes,01:50:00,el calvario e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-08,valle,cali (ct),lunes,11:11:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-09,valle,cali (ct),martes,09:00:00,las delicias e4,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-08-09,valle,cali (ct),martes,21:15:00,el sena e5,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-10,valle,cali (ct),miercoles,08:00:00,el sena e5,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-08-10,valle,cali (ct),miercoles,10:00:00,san pedro e3,urbana,instalaciones gubernamentales,sin empleo de armas,a pie,a pie,76001000
+2016-08-10,valle,cali (ct),miercoles,21:00:00,urb. tequendama e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-10,valle,cali (ct),miercoles,14:20:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,10:00:00,chipichape e2,urbana,empresa,arma de fuego,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,10:00:00,san vicente e2,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,10:00:00,san vicente e2,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,11:30:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,19:20:00,el sena e5,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,18:05:00,san vicente e2,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-08-11,valle,cali (ct),jueves,18:36:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-12,valle,cali (ct),viernes,14:30:00,la merced e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-08-12,valle,cali (ct),viernes,18:40:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-08-13,valle,cali (ct),sabado,00:00:00,santa monica residencial e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-08-13,valle,cali (ct),sabado,12:30:00,urb. militar e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-13,valle,cali (ct),sabado,12:20:00,el sena e5,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-14,valle,cali (ct),domingo,13:00:00,morichal de comfandi e15,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-08-15,valle,cali (ct),lunes,12:00:00,lili e17,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2016-08-15,valle,cali (ct),lunes,20:30:00,jorge eliecer gaitan e6,urbana,local comercial,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-08-16,valle,cali (ct),martes,08:00:00,los cambulos e19,urbana,,sin empleo de armas,,,76001000
+2016-08-16,valle,cali (ct),martes,20:40:00,santa monica residencial e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-16,valle,cali (ct),martes,19:15:00,municipal e8,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-08-16,valle,cali (ct),martes,18:13:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-17,valle,cali (ct),miercoles,13:00:00,ciudad universitaria e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-17,valle,cali (ct),miercoles,18:45:00,eucaristico e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-18,valle,cali (ct),jueves,02:00:00,manuela beltran e14,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-18,valle,cali (ct),jueves,13:50:00,lili e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-19,valle,cali (ct),viernes,15:00:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-19,valle,cali (ct),viernes,11:40:00,san vicente e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-21,valle,cali (ct),domingo,11:00:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,,76001000
+2016-08-21,valle,cali (ct),domingo,07:00:00,san vicente e2,urbana,oficinas,llave maestra,a pie,a pie,76001000
+2016-08-21,valle,cali (ct),domingo,20:30:00,la selva e10,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor motocicleta,76001000
+2016-08-21,valle,cali (ct),domingo,18:40:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-21,valle,cali (ct),domingo,07:50:00,la base e8,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-21,valle,cali (ct),domingo,13:57:00,san pedro e3,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-22,valle,cali (ct),lunes,20:00:00,santander e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-08-22,valle,cali (ct),lunes,20:00:00,santander e4,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-08-22,valle,cali (ct),lunes,13:30:00,el gran limonar e17,urbana,oficinas,llave maestra,a pie,a pie,76001000
+2016-08-22,valle,cali (ct),lunes,16:50:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-08-23,valle,cali (ct),martes,14:00:00,nueva tequendama e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-23,valle,cali (ct),martes,15:30:00,san vicente e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-23,valle,cali (ct),martes,11:20:00,el cedro e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-08-23,valle,cali (ct),martes,17:50:00,brisas de los alamos e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-24,valle,cali (ct),miercoles,23:30:00,sucre e9,urbana,talleres mecanica,contundentes,a pie,a pie,76001000
+2016-08-24,valle,cali (ct),miercoles,14:18:00,la fortaleza e11,urbana,vias publicas,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-08-25,valle,cali (ct),jueves,00:00:00,prados del norte e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-08-25,valle,cali (ct),jueves,15:00:00,jose m. marroquin ii e14,urbana,instalaciones de la policia,sin empleo de armas,a pie,a pie,76001000
+2016-08-25,valle,cali (ct),jueves,15:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-08-25,valle,cali (ct),jueves,02:30:00,cgto hormiguero e22,rural,local comercial,arma de fuego,a pie,a pie,76001000
+2016-08-25,valle,cali (ct),jueves,17:35:00,u.r. santiago de cali e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-08-26,valle,cali (ct),viernes,18:30:00,chapinero e8,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-08-26,valle,cali (ct),viernes,16:30:00,la independencia e11,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-08-26,valle,cali (ct),viernes,16:20:00,eduardo santos e12,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-08-26,valle,cali (ct),viernes,23:59:00,parcelaciones pance e22,urbana,oficinas,sin empleo de armas,,,76001000
+2016-08-26,valle,cali (ct),viernes,01:46:00,san vicente e2,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-08-26,valle,cali (ct),viernes,02:53:00,san pascual e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-08-27,valle,cali (ct),sabado,00:00:00,san fernando nuevo e19,urbana,local comercial,llave maestra,,,76001000
+2016-08-27,valle,cali (ct),sabado,00:00:00,versalles e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-27,valle,cali (ct),sabado,03:20:00,alameda e9,urbana,panaderias,contundentes,a pie,a pie,76001000
+2016-08-29,valle,cali (ct),lunes,12:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-08-29,valle,cali (ct),lunes,07:10:00,ciudadela confandi e17,urbana,"droguerias, farmacias",arma de fuego,conductor motocicleta,a pie,76001000
+2016-08-31,valle,cali (ct),miercoles,21:30:00,el limonar e17,rural,vias publicas,contundentes,conductor motocicleta,conductor motocicleta,76001000
+2016-08-31,valle,cali (ct),miercoles,06:20:00,santa monica residencial e2,urbana,local comercial,arma de fuego,conductor vehiculo,a pie,76001000
+2016-08-31,valle,cali (ct),miercoles,00:59:00,municipal e8,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-09-01,valle,cali (ct),jueves,00:00:00,los naranjos ii e14,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-09-01,valle,cali (ct),jueves,17:30:00,alfonso b. aragon e14,urbana,"droguerias, farmacias",arma de fuego,a pie,a pie,76001000
+2016-09-01,valle,cali (ct),jueves,14:05:00,santander e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-02,valle,cali (ct),viernes,12:30:00,santander e4,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-02,valle,cali (ct),viernes,23:59:00,centenario e2,urbana,parqueadero,sin empleo de armas,a pie,a pie,76001000
+2016-09-03,valle,cali (ct),sabado,00:00:00,nueva tequendama e19,urbana,clinicas y similares,contundentes,a pie,a pie,76001000
+2016-09-03,valle,cali (ct),sabado,14:55:00,parcelaciones pance e22,urbana,universidades,sin empleo de armas,a pie,a pie,76001000
+2016-09-03,valle,cali (ct),sabado,11:57:00,sucre e9,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-09-04,valle,cali (ct),domingo,00:00:00,san nicolas e3,urbana,hospitales,contundentes,a pie,a pie,76001000
+2016-09-04,valle,cali (ct),domingo,11:00:00,el bosque e2,urbana,clinicas y similares,contundentes,a pie,a pie,76001000
+2016-09-04,valle,cali (ct),domingo,15:00:00,ignacio rengifo e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-04,valle,cali (ct),domingo,05:00:00,santa monica residencial e2,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2016-09-04,valle,cali (ct),domingo,03:30:00,alameda e9,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-09-04,valle,cali (ct),domingo,01:15:00,san vicente e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-09-05,valle,cali (ct),lunes,09:00:00,santa rosa e3,urbana,gobernacion,sin empleo de armas,a pie,a pie,76001000
+2016-09-05,valle,cali (ct),lunes,10:30:00,santa rosa e3,urbana,instalaciones gubernamentales,contundentes,a pie,a pie,76001000
+2016-09-05,valle,cali (ct),lunes,21:15:00,santander e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-05,valle,cali (ct),lunes,07:40:00,jorge eliecer gaitan e6,urbana,casas de apuestas,contundentes,a pie,a pie,76001000
+2016-09-05,valle,cali (ct),lunes,23:20:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-06,valle,cali (ct),martes,20:00:00,los naranjos i e14,urbana,heladeria,contundentes,a pie,a pie,76001000
+2016-09-06,valle,cali (ct),martes,08:30:00,la merced e3,urbana,"droguerias, farmacias",arma de fuego,a pie,a pie,76001000
+2016-09-07,valle,cali (ct),miercoles,15:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-07,valle,cali (ct),miercoles,03:00:00,san juan bosco e3,urbana,panaderias,contundentes,a pie,a pie,76001000
+2016-09-07,valle,cali (ct),miercoles,06:00:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-07,valle,cali (ct),miercoles,04:30:00,urb. ciudad jardin e22,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-09-08,valle,cali (ct),jueves,16:00:00,las delicias e4,urbana,oficinas,arma de fuego,pasajero taxi,a pie,76001000
+2016-09-08,valle,cali (ct),jueves,06:30:00,san fernando nuevo e19,urbana,iglesia,contundentes,a pie,a pie,76001000
+2016-09-08,valle,cali (ct),jueves,06:30:00,san vicente e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-09-08,valle,cali (ct),jueves,11:50:00,san fernando nuevo e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-08,valle,cali (ct),jueves,16:25:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-08,valle,cali (ct),jueves,08:55:00,san joaquin e17,urbana,centro comercial,contundentes,a pie,a pie,76001000
+2016-09-09,valle,cali (ct),viernes,07:00:00,vallado e15,urbana,talleres,contundentes,a pie,a pie,76001000
+2016-09-09,valle,cali (ct),viernes,19:00:00,santa anita e17,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-09-09,valle,cali (ct),viernes,16:50:00,,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-09-09,valle,cali (ct),viernes,21:45:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-10,valle,cali (ct),sabado,00:00:00,santa monica residencial e2,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-09-10,valle,cali (ct),sabado,17:30:00,prados de oriente e11,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-09-10,valle,cali (ct),sabado,16:15:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-10,valle,cali (ct),sabado,19:15:00,ciudad de los alamos e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-10,valle,cali (ct),sabado,19:15:00,la flora e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-10,valle,cali (ct),sabado,12:27:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-11,valle,cali (ct),domingo,03:40:00,san juan bosco e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-09-11,valle,cali (ct),domingo,16:39:00,la merced e3,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-09-12,valle,cali (ct),lunes,12:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-12,valle,cali (ct),lunes,09:30:00,santander e4,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-09-12,valle,cali (ct),lunes,12:40:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,14:00:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,16:00:00,u.r. santiago de cali e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,12:30:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,14:20:00,san vicente e2,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,19:50:00,3 de julio e19,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,19:50:00,el cedro e19,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-09-14,valle,cali (ct),miercoles,13:55:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-15,valle,cali (ct),jueves,15:30:00,centenario e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-15,valle,cali (ct),jueves,10:30:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-15,valle,cali (ct),jueves,04:20:00,san pascual e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-09-16,valle,cali (ct),viernes,16:30:00,santa monica residencial e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-16,valle,cali (ct),viernes,14:40:00,porvenir e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-17,valle,cali (ct),sabado,15:30:00,,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-09-17,valle,cali (ct),sabado,20:30:00,,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-17,valle,cali (ct),sabado,18:50:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-18,valle,cali (ct),domingo,14:30:00,san vicente e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-18,valle,cali (ct),domingo,15:20:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-18,valle,cali (ct),domingo,15:22:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-19,valle,cali (ct),lunes,12:30:00,el ingenio e17,rural,oficinas,contundentes,a pie,a pie,76001000
+2016-09-19,valle,cali (ct),lunes,12:40:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-19,valle,cali (ct),lunes,14:25:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-19,valle,cali (ct),lunes,14:35:00,san pedro e3,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-09-20,valle,cali (ct),martes,18:00:00,omar torrijos e13,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-09-20,valle,cali (ct),martes,10:30:00,san nicolas e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-21,valle,cali (ct),miercoles,00:00:00,centenario e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-21,valle,cali (ct),miercoles,00:00:00,vipasa e2,urbana,instalaciones gubernamentales,contundentes,a pie,a pie,76001000
+2016-09-21,valle,cali (ct),miercoles,14:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-21,valle,cali (ct),miercoles,20:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-21,valle,cali (ct),miercoles,09:58:00,jose m. marroquin ii e14,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-09-22,valle,cali (ct),jueves,00:00:00,belen e20,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-09-22,valle,cali (ct),jueves,00:00:00,centenario e2,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2016-09-22,valle,cali (ct),jueves,07:30:00,aranjuez e9,urbana,tienda,arma de fuego,conductor motocicleta,a pie,76001000
+2016-09-22,valle,cali (ct),jueves,14:10:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-23,valle,cali (ct),viernes,07:00:00,el lido e19,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-09-23,valle,cali (ct),viernes,18:00:00,versalles e2,urbana,consultorios medicos,contundentes,a pie,a pie,76001000
+2016-09-23,valle,cali (ct),viernes,18:40:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-23,valle,cali (ct),viernes,03:30:00,,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-09-23,valle,cali (ct),viernes,13:50:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-23,valle,cali (ct),viernes,20:45:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-24,valle,cali (ct),sabado,00:00:00,laguna el pondaje e13,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-24,valle,cali (ct),sabado,15:00:00,u.r. santiago de cali e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-24,valle,cali (ct),sabado,15:40:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-09-24,valle,cali (ct),sabado,18:10:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-24,valle,cali (ct),sabado,20:05:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-24,valle,cali (ct),sabado,15:25:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-24,valle,cali (ct),sabado,19:19:00,ulpiano lloreda e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-09-25,valle,cali (ct),domingo,11:30:00,unicentro cali e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-25,valle,cali (ct),domingo,20:45:00,calima e4,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-09-25,valle,cali (ct),domingo,20:45:00,calima e4,urbana,supermercados,sin empleo de armas,,,76001000
+2016-09-26,valle,cali (ct),lunes,11:00:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-26,valle,cali (ct),lunes,20:15:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-26,valle,cali (ct),lunes,20:20:00,unicentro cali e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-26,valle,cali (ct),lunes,21:15:00,cristobal colon e10,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-09-26,valle,cali (ct),lunes,16:05:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-27,valle,cali (ct),martes,10:00:00,urb. ciudad jardin e22,urbana,local comercial,sin empleo de armas,pasajero vehiculo,a pie,76001000
+2016-09-27,valle,cali (ct),martes,10:00:00,versalles e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-09-27,valle,cali (ct),martes,17:30:00,republica israel e16,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-09-27,valle,cali (ct),martes,18:05:00,el lido e19,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-09-28,valle,cali (ct),miercoles,02:00:00,,urbana,gimnasio,contundentes,a pie,a pie,76001000
+2016-09-28,valle,cali (ct),miercoles,20:45:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-28,valle,cali (ct),miercoles,18:55:00,el sena e5,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-30,valle,cali (ct),viernes,00:00:00,saavedra galindo e8,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-09-30,valle,cali (ct),viernes,17:10:00,la playa e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-09-30,valle,cali (ct),viernes,21:40:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-09-30,valle,cali (ct),viernes,17:08:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-01,valle,cali (ct),sabado,00:00:00,el troncal e8,urbana,empresa,arma de fuego,a pie,a pie,76001000
+2016-10-01,valle,cali (ct),sabado,23:30:00,el jordan e18,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-10-01,valle,cali (ct),sabado,15:31:00,san pedro e3,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-10-02,valle,cali (ct),domingo,00:00:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-02,valle,cali (ct),domingo,03:00:00,siete de agosto e7,urbana,,contundentes,a pie,a pie,76001000
+2016-10-02,valle,cali (ct),domingo,12:00:00,el cortijo e20,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-02,valle,cali (ct),domingo,18:50:00,santa monica residencial e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-03,valle,cali (ct),lunes,00:00:00,nueva floresta e12,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-10-03,valle,cali (ct),lunes,13:15:00,el ingenio e17,urbana,tienda,sin empleo de armas,a pie,a pie,76001000
+2016-10-04,valle,cali (ct),martes,16:00:00,centenario e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-04,valle,cali (ct),martes,15:31:00,san pedro e3,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-10-05,valle,cali (ct),miercoles,00:00:00,el poblado i e13,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2016-10-05,valle,cali (ct),miercoles,08:00:00,san pedro e3,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-10-05,valle,cali (ct),miercoles,23:23:00,las ceibas e7,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-06,valle,cali (ct),jueves,18:00:00,san fernando viejo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-07,valle,cali (ct),viernes,08:00:00,urb. ciudad jardin e22,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-07,valle,cali (ct),viernes,10:00:00,ciudad universitaria e17,urbana,universidades,contundentes,a pie,a pie,76001000
+2016-10-07,valle,cali (ct),viernes,11:00:00,prados del norte e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-07,valle,cali (ct),viernes,03:00:00,desepaz invicali e21,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-07,valle,cali (ct),viernes,10:30:00,los guaduales e6,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-10-07,valle,cali (ct),viernes,19:10:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-08,valle,cali (ct),sabado,00:00:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-08,valle,cali (ct),sabado,17:00:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-08,valle,cali (ct),sabado,19:00:00,la flora e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-09,valle,cali (ct),domingo,20:00:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-09,valle,cali (ct),domingo,20:45:00,siloe e20,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-09,valle,cali (ct),domingo,06:45:00,manuel mria b/venturta e9,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-10,valle,cali (ct),lunes,00:00:00,parcelaciones pance e22,urbana,universidades,sin empleo de armas,a pie,a pie,76001000
+2016-10-11,valle,cali (ct),martes,16:30:00,unicentro cali e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-11,valle,cali (ct),martes,18:45:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-11,valle,cali (ct),martes,09:45:00,los comuneros i e15,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-12,valle,cali (ct),miercoles,00:00:00,guayaquil e9,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-10-12,valle,cali (ct),miercoles,21:00:00,terron colorado e1,urbana,local comercial,palancas,a pie,a pie,76001000
+2016-10-12,valle,cali (ct),miercoles,20:10:00,unicentro cali e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-13,valle,cali (ct),jueves,15:40:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-13,valle,cali (ct),jueves,14:40:00,calima e4,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-13,valle,cali (ct),jueves,14:06:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-14,valle,cali (ct),viernes,18:00:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-14,valle,cali (ct),viernes,09:30:00,parcelaciones pance e22,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-14,valle,cali (ct),viernes,21:30:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-14,valle,cali (ct),viernes,17:15:00,la campina e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-15,valle,cali (ct),sabado,12:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-15,valle,cali (ct),sabado,18:00:00,san pedro e3,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-10-15,valle,cali (ct),sabado,20:00:00,san nicolas e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-10-15,valle,cali (ct),sabado,19:30:00,san nicolas e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-10-15,valle,cali (ct),sabado,04:00:00,la merced e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-16,valle,cali (ct),domingo,07:30:00,san vicente e2,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-10-16,valle,cali (ct),domingo,19:38:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-17,valle,cali (ct),lunes,08:00:00,san vicente e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-17,valle,cali (ct),lunes,09:30:00,flora industrial e4,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-10-18,valle,cali (ct),martes,00:00:00,caney e17,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-10-18,valle,cali (ct),martes,03:30:00,sucre e9,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-10-18,valle,cali (ct),martes,10:40:00,prados del norte e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-18,valle,cali (ct),martes,10:40:00,prados del norte e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-10-18,valle,cali (ct),martes,11:47:00,antonio narino e16,urbana,almacenes,arma de fuego,conductor motocicleta,a pie,76001000
+2016-10-19,valle,cali (ct),miercoles,16:50:00,urb. militar e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-19,valle,cali (ct),miercoles,21:42:00,sultana berlin san francisco e4,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-10-20,valle,cali (ct),jueves,18:00:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-20,valle,cali (ct),jueves,18:30:00,san pedro e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-20,valle,cali (ct),jueves,13:40:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-20,valle,cali (ct),jueves,14:50:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-21,valle,cali (ct),viernes,16:10:00,unicentro cali e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-21,valle,cali (ct),viernes,14:50:00,urb. ciudad jardin e22,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-10-22,valle,cali (ct),sabado,23:58:00,san fernando nuevo e19,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-10-23,valle,cali (ct),domingo,00:00:00,san cayetano e3,urbana,vias publicas,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-10-23,valle,cali (ct),domingo,21:00:00,granada e2,urbana,restaurantes,arma de fuego,a pie,a pie,76001000
+2016-10-23,valle,cali (ct),domingo,13:13:00,san joaquin e17,urbana,,sin empleo de armas,a pie,a pie,76001000
+2016-10-24,valle,cali (ct),lunes,00:00:00,torres de confandi e5,urbana,peluqueria y similares,contundentes,a pie,a pie,76001000
+2016-10-24,valle,cali (ct),lunes,21:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-24,valle,cali (ct),lunes,20:15:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-25,valle,cali (ct),martes,10:30:00,san pedro e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-26,valle,cali (ct),miercoles,17:30:00,el lido e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-26,valle,cali (ct),miercoles,17:30:00,julio rincon e12,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-10-26,valle,cali (ct),miercoles,17:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-10-27,valle,cali (ct),jueves,15:30:00,san pedro e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-27,valle,cali (ct),jueves,06:00:00,patio bonito e1,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-27,valle,cali (ct),jueves,03:12:00,la floresta e8,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-10-28,valle,cali (ct),viernes,11:40:00,urbanizacion la flora e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-10-28,valle,cali (ct),viernes,13:55:00,san joaquin e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-10-28,valle,cali (ct),viernes,13:55:00,san joaquin e17,urbana,centro comercial,contundentes,a pie,a pie,76001000
+2016-10-29,valle,cali (ct),sabado,21:00:00,alirio mora beltran e14,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-10-29,valle,cali (ct),sabado,15:44:00,,urbana,restaurantes,arma de fuego,pasajero vehiculo,a pie,76001000
+2016-10-29,valle,cali (ct),sabado,20:52:00,alameda e9,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-10-30,valle,cali (ct),domingo,19:35:00,lili e17,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-10-31,valle,cali (ct),lunes,08:00:00,la merced e3,urbana,instalaciones gubernamentales,sin empleo de armas,a pie,a pie,76001000
+2016-10-31,valle,cali (ct),lunes,10:00:00,santa rosa e3,urbana,vias publicas,arma de fuego,pasajero vehiculo,a pie,76001000
+2016-10-31,valle,cali (ct),lunes,16:00:00,belisario caicedo e20,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-10-31,valle,cali (ct),lunes,12:50:00,cgto las palmas e1,urbana,empresa,arma de fuego,a pie,a pie,76001000
+2016-11-01,valle,cali (ct),martes,00:00:00,vipasa e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-11-01,valle,cali (ct),martes,03:00:00,san juan bosco e3,urbana,restaurantes,arma blanca / cortopunzante,bicicleta,a pie,76001000
+2016-11-01,valle,cali (ct),martes,18:30:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-02,valle,cali (ct),miercoles,16:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-02,valle,cali (ct),miercoles,16:45:00,jorge eliecer gaitan e6,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-11-02,valle,cali (ct),miercoles,14:10:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-02,valle,cali (ct),miercoles,10:50:00,el poblado ii e13,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-11-02,valle,cali (ct),miercoles,01:20:00,alfonso lopez iii e7,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-03,valle,cali (ct),jueves,08:00:00,eucaristico e19,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-11-03,valle,cali (ct),jueves,19:45:00,jorge eliecer gaitan e6,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-11-03,valle,cali (ct),jueves,18:25:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-03,valle,cali (ct),jueves,19:46:00,centenario e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-04,valle,cali (ct),viernes,14:00:00,,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2016-11-05,valle,cali (ct),sabado,14:00:00,,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-05,valle,cali (ct),sabado,14:30:00,siloe e20,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-11-05,valle,cali (ct),sabado,17:15:00,el gran limonar e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-11-06,valle,cali (ct),domingo,19:00:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-06,valle,cali (ct),domingo,13:30:00,alfonso lopez iii e7,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-11-06,valle,cali (ct),domingo,19:45:00,aguacatal e1,urbana,"colegios, escuelas",contundentes,a pie,a pie,76001000
+2016-11-06,valle,cali (ct),domingo,16:25:00,san joaquin e17,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-11-07,valle,cali (ct),lunes,14:48:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,00:00:00,el limonar e17,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,14:00:00,alfonso lopez iii e7,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,17:00:00,pampa linda e19,urbana,universidades,sin empleo de armas,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,19:30:00,los naranjos i e14,urbana,peluqueria y similares,contundentes,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,16:30:00,los alcazares e6,urbana,bomba de gasolina,arma de fuego,conductor motocicleta,a pie,76001000
+2016-11-08,valle,cali (ct),martes,16:40:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,10:50:00,villacolombia e8,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,16:05:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,18:28:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-08,valle,cali (ct),martes,14:48:00,san joaquin e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-09,valle,cali (ct),miercoles,00:00:00,san juan bosco e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-11-09,valle,cali (ct),miercoles,21:15:00,primavera e11,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-09,valle,cali (ct),miercoles,14:18:00,lili e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-10,valle,cali (ct),jueves,00:00:00,santa rosa e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-11-10,valle,cali (ct),jueves,08:00:00,el poblado ii e13,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-11-10,valle,cali (ct),jueves,14:40:00,jose m. marroquin ii e14,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-11-10,valle,cali (ct),jueves,09:45:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,09:00:00,villa blanca e13,urbana,universidades,contundentes,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,15:40:00,u.r. santiago de cali e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,14:10:00,sucre e9,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,20:50:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,20:50:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,04:20:00,saavedra galindo e8,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-11-11,valle,cali (ct),viernes,11:32:00,melendez e18,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-11-12,valle,cali (ct),sabado,00:00:00,san nicolas e3,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-11-12,valle,cali (ct),sabado,10:00:00,obrero e9,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-11-12,valle,cali (ct),sabado,21:00:00,u.r. santiago de cali e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-12,valle,cali (ct),sabado,05:15:00,ciudad 2000 e16,urbana,,sin empleo de armas,a pie,a pie,76001000
+2016-11-13,valle,cali (ct),domingo,18:00:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-13,valle,cali (ct),domingo,10:30:00,los farallones e18,urbana,licorera/estanco 24 horas,arma de fuego,a pie,a pie,76001000
+2016-11-13,valle,cali (ct),domingo,04:30:00,san pedro e3,urbana,restaurantes,palancas,a pie,a pie,76001000
+2016-11-14,valle,cali (ct),lunes,06:00:00,belalcazar e9,urbana,oficinas,contundentes,a pie,a pie,76001000
+2016-11-14,valle,cali (ct),lunes,22:30:00,los naranjos i e14,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-11-15,valle,cali (ct),martes,10:00:00,centenario e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-11-15,valle,cali (ct),martes,07:00:00,el poblado ii e13,urbana,hospitales,sin empleo de armas,a pie,a pie,76001000
+2016-11-15,valle,cali (ct),martes,12:40:00,eucaristico e19,urbana,"droguerias, farmacias",sin empleo de armas,a pie,a pie,76001000
+2016-11-15,valle,cali (ct),martes,21:50:00,chipichape e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-15,valle,cali (ct),martes,01:20:00,santa elena e10,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2016-11-16,valle,cali (ct),miercoles,00:00:00,parcelaciones pance e22,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-11-16,valle,cali (ct),miercoles,04:00:00,versalles e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-16,valle,cali (ct),miercoles,06:30:00,el poblado ii e13,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-11-16,valle,cali (ct),miercoles,20:40:00,el guabal e10,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-11-16,valle,cali (ct),miercoles,16:15:00,el limonar e17,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-17,valle,cali (ct),jueves,00:00:00,porvenir e4,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-11-17,valle,cali (ct),jueves,10:00:00,brisas de los alamos e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-17,valle,cali (ct),jueves,10:00:00,parcelaciones pance e22,urbana,restaurantes,sin empleo de armas,a pie,a pie,76001000
+2016-11-17,valle,cali (ct),jueves,10:52:00,3 de julio e19,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-11-18,valle,cali (ct),viernes,00:00:00,santa rosa e3,urbana,"colegios, escuelas",sin empleo de armas,a pie,a pie,76001000
+2016-11-18,valle,cali (ct),viernes,13:00:00,unicentro cali e17,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-11-18,valle,cali (ct),viernes,20:00:00,el trebol e8,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-11-18,valle,cali (ct),viernes,14:40:00,el lido e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-19,valle,cali (ct),sabado,16:00:00,san antonio e3,urbana,panaderias,arma blanca / cortopunzante,a pie,a pie,76001000
+2016-11-19,valle,cali (ct),sabado,12:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-19,valle,cali (ct),sabado,10:50:00,alameda e9,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2016-11-19,valle,cali (ct),sabado,13:10:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-23,valle,cali (ct),miercoles,00:00:00,petecuy iii e6,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-11-23,valle,cali (ct),miercoles,13:50:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-24,valle,cali (ct),jueves,00:00:00,el gran limonar e17,urbana,"droguerias, farmacias",sin empleo de armas,a pie,a pie,76001000
+2016-11-24,valle,cali (ct),jueves,13:00:00,nueva tequendama e19,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-11-24,valle,cali (ct),jueves,19:20:00,calima e4,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-11-24,valle,cali (ct),jueves,18:45:00,bretana e9,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-11-24,valle,cali (ct),jueves,20:45:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-11-24,valle,cali (ct),jueves,08:57:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-25,valle,cali (ct),viernes,19:00:00,urb. ciudad jardin e22,urbana,almacenes,sin empleo de armas,,,76001000
+2016-11-27,valle,cali (ct),domingo,08:00:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-11-29,valle,cali (ct),martes,18:20:00,obrero e9,urbana,sede politica,contundentes,a pie,a pie,76001000
+2016-11-29,valle,cali (ct),martes,15:45:00,chipichape e2,urbana,centro comercial,contundentes,a pie,a pie,76001000
+2016-11-29,valle,cali (ct),martes,19:40:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-11-30,valle,cali (ct),miercoles,00:00:00,nueva floresta e12,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-11-30,valle,cali (ct),miercoles,14:30:00,ciudadela floralia e6,urbana,local comercial,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-01,valle,cali (ct),jueves,12:40:00,el pondaje e13,urbana,panaderias,arma de fuego,a pie,a pie,76001000
+2016-12-01,valle,cali (ct),jueves,01:15:00,eucaristico e19,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-01,valle,cali (ct),jueves,23:20:00,san nicolas e3,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-02,valle,cali (ct),viernes,21:00:00,san vicente e2,urbana,peluqueria y similares,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-02,valle,cali (ct),viernes,16:40:00,chipichape e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-02,valle,cali (ct),viernes,14:45:00,el sena e5,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-02,valle,cali (ct),viernes,05:30:00,benjamin herrera e8,urbana,talleres mecanica,contundentes,a pie,a pie,76001000
+2016-12-02,valle,cali (ct),viernes,02:32:00,el gran limonar e17,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-03,valle,cali (ct),sabado,18:00:00,chipichape e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-03,valle,cali (ct),sabado,16:40:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-12-03,valle,cali (ct),sabado,20:45:00,santa monica residencial e2,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-05,valle,cali (ct),lunes,13:00:00,urb. tequendama e19,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-05,valle,cali (ct),lunes,21:30:00,vallado e15,urbana,vias publicas,sin empleo de armas,conductor vehiculo,a pie,76001000
+2016-12-06,valle,cali (ct),martes,20:00:00,la playa e17,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-06,valle,cali (ct),martes,22:00:00,union de vivienda popular e16,urbana,construccion,sin empleo de armas,a pie,a pie,76001000
+2016-12-06,valle,cali (ct),martes,13:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-06,valle,cali (ct),martes,14:35:00,el sena e5,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-06,valle,cali (ct),martes,22:10:00,el limonar e17,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-06,valle,cali (ct),martes,10:57:00,mariano ramos e16,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-12-07,valle,cali (ct),miercoles,08:00:00,parcelaciones pance e22,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-12-07,valle,cali (ct),miercoles,09:00:00,manuel mria b/venturta e9,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-12-07,valle,cali (ct),miercoles,01:00:00,,urbana,empresa,contundentes,a pie,a pie,76001000
+2016-12-07,valle,cali (ct),miercoles,08:50:00,marroquin iii e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-12-08,valle,cali (ct),jueves,17:00:00,benjamin herrera e8,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-12-08,valle,cali (ct),jueves,18:10:00,unicentro cali e17,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-09,valle,cali (ct),viernes,10:00:00,vallado e15,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-12-09,valle,cali (ct),viernes,11:00:00,ciudadela del rio e21,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-12-09,valle,cali (ct),viernes,12:30:00,ciudad cordoba e15,urbana,empresa,contundentes,pasajero vehiculo,a pie,76001000
+2016-12-09,valle,cali (ct),viernes,05:00:00,alfonso lopez iii e7,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-10,valle,cali (ct),sabado,12:15:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-10,valle,cali (ct),sabado,06:10:00,belalcazar e9,urbana,bodegas y similares,contundentes,a pie,a pie,76001000
+2016-12-11,valle,cali (ct),domingo,19:20:00,el limonar e17,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-11,valle,cali (ct),domingo,18:55:00,el gran limonar e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-12,valle,cali (ct),lunes,00:00:00,urb. tequendama e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-12-12,valle,cali (ct),lunes,10:00:00,chipichape e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-12,valle,cali (ct),lunes,09:00:00,santa monica residencial e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-12,valle,cali (ct),lunes,20:00:00,vista hermosa e1,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-12,valle,cali (ct),lunes,06:40:00,el lido e19,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-12-13,valle,cali (ct),martes,14:00:00,san fernando nuevo e19,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-12-13,valle,cali (ct),martes,13:00:00,guayaquil e9,urbana,local comercial,contundentes,conductor vehiculo,a pie,76001000
+2016-12-13,valle,cali (ct),martes,15:50:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-13,valle,cali (ct),martes,18:05:00,san joaquin e17,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-13,valle,cali (ct),martes,14:35:00,puertas del sol e14,urbana,vias publicas,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-13,valle,cali (ct),martes,23:40:00,parcelaciones pance e22,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-12-13,valle,cali (ct),martes,17:08:00,versalles e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-14,valle,cali (ct),miercoles,10:00:00,junin e9,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-14,valle,cali (ct),miercoles,13:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-14,valle,cali (ct),miercoles,23:40:00,parcelaciones pance e22,urbana,oficinas,arma de fuego,a pie,a pie,76001000
+2016-12-15,valle,cali (ct),jueves,00:00:00,unicentro cali e17,urbana,local comercial,llave maestra,a pie,a pie,76001000
+2016-12-15,valle,cali (ct),jueves,12:00:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-15,valle,cali (ct),jueves,15:30:00,alfonso lopez i e7,urbana,vias publicas,arma blanca / cortopunzante,a pie,conductor vehiculo,76001000
+2016-12-15,valle,cali (ct),jueves,18:25:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-16,valle,cali (ct),viernes,00:00:00,san vicente e2,urbana,oficinas,sin empleo de armas,a pie,a pie,76001000
+2016-12-16,valle,cali (ct),viernes,11:00:00,la flora e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-12-16,valle,cali (ct),viernes,04:00:00,industrial e8,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-12-16,valle,cali (ct),viernes,15:50:00,san pedro e3,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-12-17,valle,cali (ct),sabado,00:00:00,san vicente e2,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-17,valle,cali (ct),sabado,22:00:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-17,valle,cali (ct),sabado,18:50:00,san fernando nuevo e19,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-17,valle,cali (ct),sabado,22:30:00,calima e4,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-17,valle,cali (ct),sabado,22:10:00,calima e4,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-18,valle,cali (ct),domingo,01:00:00,las granjas e10,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-18,valle,cali (ct),domingo,16:30:00,el sena e5,urbana,supermercados,sin empleo de armas,a pie,a pie,76001000
+2016-12-18,valle,cali (ct),domingo,19:45:00,santa monica residencial e2,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-18,valle,cali (ct),domingo,13:35:00,san pedro e3,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-19,valle,cali (ct),lunes,23:59:00,san nicolas e3,urbana,local comercial,contundentes,a pie,a pie,76001000
+2016-12-19,valle,cali (ct),lunes,13:01:00,cristobal colon e10,urbana,supermercados,arma de fuego,pasajero motocicleta,a pie,76001000
+2016-12-20,valle,cali (ct),martes,19:45:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-20,valle,cali (ct),martes,13:50:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-12-20,valle,cali (ct),martes,11:25:00,urb. rio lili e22,urbana,universidades,contundentes,a pie,a pie,76001000
+2016-12-20,valle,cali (ct),martes,08:55:00,prados del norte e2,urbana,almacenes,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,11:00:00,santa anita e17,urbana,bodegas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,16:00:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,01:00:00,cristo rey e19,rural,local comercial,contundentes,a pie,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,20:00:00,el gran limonar e17,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,19:45:00,chipichape e2,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,00:40:00,sucre e9,urbana,almacenes,contundentes,a pie,a pie,76001000
+2016-12-21,valle,cali (ct),miercoles,17:14:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-22,valle,cali (ct),jueves,00:00:00,el sena e5,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-22,valle,cali (ct),jueves,15:00:00,san pedro e3,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-12-22,valle,cali (ct),jueves,19:20:00,san pedro e3,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-22,valle,cali (ct),jueves,14:10:00,san joaquin e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-22,valle,cali (ct),jueves,18:47:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-23,valle,cali (ct),viernes,09:00:00,calima e4,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-12-23,valle,cali (ct),viernes,20:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-23,valle,cali (ct),viernes,20:10:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-23,valle,cali (ct),viernes,21:50:00,la alianza e4,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-23,valle,cali (ct),viernes,12:57:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-24,valle,cali (ct),sabado,11:00:00,santa monica residencial e2,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-12-24,valle,cali (ct),sabado,15:30:00,san pedro e3,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-24,valle,cali (ct),sabado,13:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-24,valle,cali (ct),sabado,08:30:00,san benito e11,urbana,vias publicas,arma de fuego,a pie,a pie,76001000
+2016-12-24,valle,cali (ct),sabado,04:30:00,la alborada e16,urbana,heladeria,contundentes,a pie,a pie,76001000
+2016-12-25,valle,cali (ct),domingo,00:00:00,vipasa e2,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-12-26,valle,cali (ct),lunes,21:30:00,calima e4,urbana,vias publicas,sin empleo de armas,a pie,a pie,76001000
+2016-12-26,valle,cali (ct),lunes,11:40:00,centenario e2,urbana,universidades,sin empleo de armas,a pie,a pie,76001000
+2016-12-27,valle,cali (ct),martes,14:00:00,primero de mayo e17,urbana,vias publicas,contundentes,a pie,a pie,76001000
+2016-12-27,valle,cali (ct),martes,18:30:00,san pedro e3,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-27,valle,cali (ct),martes,18:30:00,san pedro e3,urbana,vias publicas,sin empleo de armas,,,76001000
+2016-12-27,valle,cali (ct),martes,16:45:00,san pedro e3,urbana,local comercial,sin empleo de armas,a pie,a pie,76001000
+2016-12-28,valle,cali (ct),miercoles,00:00:00,san vicente e2,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-12-28,valle,cali (ct),miercoles,10:00:00,nueva floresta e12,urbana,restaurantes,contundentes,a pie,a pie,76001000
+2016-12-28,valle,cali (ct),miercoles,21:10:00,santa monica residencial e2,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-28,valle,cali (ct),miercoles,22:10:00,calima e4,rural,supermercados,sin empleo de armas,,,76001000
+2016-12-28,valle,cali (ct),miercoles,17:37:00,san pedro e3,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-12-29,valle,cali (ct),jueves,00:00:00,urb. ciudad jardin e22,urbana,clinicas y similares,sin empleo de armas,a pie,a pie,76001000
+2016-12-30,valle,cali (ct),viernes,10:00:00,canaveralejo guadalupe e19,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-12-30,valle,cali (ct),viernes,14:00:00,san pedro e3,urbana,supermercados,sin empleo de armas,,,76001000
+2016-12-30,valle,cali (ct),viernes,11:00:00,el sena e5,urbana,centro comercial,contundentes,a pie,a pie,76001000
+2016-12-30,valle,cali (ct),viernes,10:30:00,calima e4,urbana,almacenes,sin empleo de armas,a pie,a pie,76001000
+2016-12-30,valle,cali (ct),viernes,21:00:00,el piloto e3,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
+2016-12-30,valle,cali (ct),viernes,02:30:00,julio rincon e12,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,a pie,76001000
+2016-12-30,valle,cali (ct),viernes,13:40:00,omar torrijos e13,urbana,local comercial,arma de fuego,a pie,a pie,76001000
+2016-12-31,valle,cali (ct),sabado,00:00:00,manzanares e4,urbana,empresa,sin empleo de armas,a pie,a pie,76001000
