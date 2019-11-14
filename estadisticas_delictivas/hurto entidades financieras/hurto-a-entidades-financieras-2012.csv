@@ -1,0 +1,7 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2012-01-30,valle,cali (ct),lunes,09:55:00,sucre e9,urbana,bancos,arma de fuego,conductor taxi,a pie,76001000
+2012-01-31,valle,cali (ct),martes,10:20:00,nueva tequendama e19,urbana,bancos,arma de fuego,conductor motocicleta,a pie,76001000
+2012-02-01,valle,cali (ct),miercoles,10:05:00,panamericano e10,urbana,bancos,arma de fuego,conductor vehiculo,a pie,76001000
+2012-06-12,valle,cali (ct),martes,09:33:00,el troncal e8,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2012-11-09,valle,cali (ct),viernes,15:30:00,santa elena e10,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2012-11-23,valle,cali (ct),viernes,10:30:00,santa elena e10,urbana,bancos,arma de fuego,conductor motocicleta,a pie,76001000

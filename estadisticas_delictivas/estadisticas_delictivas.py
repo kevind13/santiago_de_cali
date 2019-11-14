@@ -3,11 +3,15 @@ import os
 import glob
 import numpy as np
 
-crime_type='hurto automotores'
-source='/Users/finke/Workspaces/colombia/Estadística delictiva Colombia/'+crime_type+'/'
+# data source: https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva
+
+crime_type = 'lesiones personales'
+
+source='/Users/finke/Workspaces/colombia/Estadística delictiva Colombia/' + crime_type + '/'
+
 target='./'+crime_type+'/'
 
-for file in glob.glob(source + '*.xls'):
+for file in glob.glob(source + '*.xlsx'):
     # import file
     df = pd.read_excel(file)
     df.dropna(axis=1, how='all', inplace=True) # drop columns where all elements are NaN
@@ -20,7 +24,7 @@ for file in glob.glob(source + '*.xls'):
     columns=df.iloc[ix].str.strip().str.lower().str.replace(' ','_').str.replace('(','').str.replace(')','').rename(index='')
     df.columns=columns.str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8').str.lower()
     df = df.iloc[ix+1:].reset_index(drop=True)
-    ix = df.loc[df.iloc[:,-1]>50].index[0]
+    ix = df.loc[df.iloc[:,-1]>10].index[0]
     df = df.iloc[:ix,:-1]
 
     # place NaN where no data available
@@ -35,7 +39,13 @@ for file in glob.glob(source + '*.xls'):
     # select crimes by city
     df=df[df['municipio']=='cali (ct)']
     # export database to csv
-    df.to_csv(target+file.split('/')[-1][:-5]+'.csv', encoding='utf-8', index=False)
+    if file.split('.')[-1]=='xlsx':
+        df.to_csv(target+file.split('/')[-1][:-5]+'.csv', encoding='utf-8', index=False)
+    if file.split('.')[-1]=='xls':
+        df.to_csv(target+file.split('/')[-1][:-4]+'.csv', encoding='utf-8', index=False)
+
     # os.remove(file)
 
-file==
+# df1 = pd.read_csv('./hurto personas/hurto-personas-2018_parte_1.csv')
+# df2 = pd.read_csv('./hurto personas/hurto-personas-2018_parte_2.csv')
+# df1.append(df2).reset_index(drop=True).to_csv('./hurto personas/hurto-personas-2018.csv')

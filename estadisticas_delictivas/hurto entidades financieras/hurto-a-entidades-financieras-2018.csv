@@ -1,0 +1,8 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2018-02-09,valle,cali (ct),viernes,23:25:00,colseguros andes e10,urbana,cajero automatico,palancas,a pie,a pie,76001000
+2018-03-16,valle,cali (ct),viernes,17:00:00,unicentro cali e17,urbana,centro comercial,sin empleo de armas,a pie,a pie,76001000
+2018-03-21,valle,cali (ct),miercoles,15:57:00,popular e4,urbana,bancos,arma de fuego,pasajero vehiculo,a pie,76001000
+2018-04-25,valle,cali (ct),miercoles,10:00:00,urb. ciudad jardin e22,urbana,bancos,arma blanca / cortopunzante,a pie,a pie,76001000
+2018-05-31,valle,cali (ct),jueves,15:20:00,san pedro e3,urbana,bancos,sin empleo de armas,a pie,a pie,76001000
+2018-06-15,valle,cali (ct),viernes,12:00:00,bretana e9,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2018-12-07,valle,cali (ct),viernes,00:50:00,urb. tequendama e19,urbana,local comercial,arma de fuego,pasajero motocicleta,a pie,76001000

@@ -1,0 +1,4 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2014-05-23,valle,cali (ct),viernes,00:00:00,jorge isaacs e4,urbana,vias publicas,contundentes,a pie,a pie,,,,,,,,76001000
+2014-08-30,valle,cali (ct),sabado,16:30:00,jorge isaacs e4,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2014-10-21,valle,cali (ct),martes,06:20:00,cgto saladito e1,rural,carretera,arma de fuego,pasajero motocicleta,conductor vehiculo,,,,,,,,76001000

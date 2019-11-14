@@ -1,0 +1,5 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2017-02-08,valle,cali (ct),miercoles,05:10:00,parcelaciones pance e22,urbana,carretera,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2017-03-24,valle,cali (ct),viernes,00:00:00,cgto saladito e1,rural,carretera,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2017-07-21,valle,cali (ct),viernes,19:00:00,la flora e2,urbana,vias publicas,arma de fuego,pasajero vehiculo,conductor vehiculo,,,,,,,,76001000
+2017-07-25,valle,cali (ct),martes,06:40:00,santa elena e10,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000

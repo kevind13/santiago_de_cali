@@ -1,0 +1,12 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2015-01-28,valle,cali (ct),miercoles,14:40:00,,urbana,centro comercial,arma de fuego,a pie,a pie,76001000
+2015-03-25,valle,cali (ct),miercoles,15:12:00,panamericano e10,urbana,bancos,arma de fuego,pasajero motocicleta,a pie,76001000
+2015-03-26,valle,cali (ct),jueves,09:30:00,bretana e9,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2015-04-06,valle,cali (ct),lunes,09:26:00,granada e2,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2015-04-06,valle,cali (ct),lunes,09:43:00,el cedro e19,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2015-05-07,valle,cali (ct),jueves,10:25:00,popular e4,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2015-05-19,valle,cali (ct),martes,10:24:00,versalles e2,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2015-07-22,valle,cali (ct),miercoles,16:01:00,la independencia e11,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2015-09-01,valle,cali (ct),martes,09:35:00,bretana e9,urbana,bancos,arma de fuego,pasajero motocicleta,a pie,76001000
+2015-09-30,valle,cali (ct),miercoles,10:34:00,santa elena e10,urbana,bancos,arma de fuego,pasajero motocicleta,a pie,76001000
+2015-11-04,valle,cali (ct),miercoles,16:50:00,urbanizacion la flora e2,urbana,bancos,arma de fuego,a pie,a pie,76001000

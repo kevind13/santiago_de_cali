@@ -1,0 +1,10 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2012-03-01,valle,cali (ct),jueves,20:00:00,san luis e6,urbana,semaforo,arma de fuego,conductor taxi,conductor vehiculo,,,,,,,,76001000
+2012-03-08,valle,cali (ct),jueves,19:20:00,sindical e12,urbana,semaforo,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2012-03-30,valle,cali (ct),viernes,12:30:00,,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2012-04-30,valle,cali (ct),lunes,05:20:00,jorge eliecer gaitan e6,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2012-05-05,valle,cali (ct),sabado,06:15:00,km 18 via al mar e1,rural,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2012-05-23,valle,cali (ct),miercoles,03:15:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2012-09-15,valle,cali (ct),sabado,08:40:00,los pinos e7,rural,semaforo,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2012-10-02,valle,cali (ct),martes,06:45:00,brisas de los alamos e2,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2012-10-17,valle,cali (ct),miercoles,11:45:00,jorge isaacs e4,urbana,empresa,arma de fuego,a pie,a pie,,,,,,,,76001000

@@ -1,0 +1,4 @@
+fecha,departamento,municipio,delito,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2011-01-28,valle,cali (ct),articulo 343. terrorismo,viernes,18:30:00,cgto montebello e1,rural,carretera,artefacto explosivo/carga dinamita,a pie,conductor motocicleta,76001000
+2011-07-02,valle,cali (ct),articulo 343. terrorismo,sabado,17:12:00,san nicolas e3,urbana,centro comercial,granada de mano,a pie,a pie,76001000
+2011-08-17,valle,cali (ct),articulo 343. terrorismo,miercoles,02:45:00,jorge eliecer gaitan e6,urbana,almacenes,artefacto explosivo/carga dinamita,a pie,a pie,76001000

@@ -1,0 +1,5 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2014-01-15,valle,cali (ct),miercoles,15:40:00,saavedra galindo e8,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2014-02-04,valle,cali (ct),martes,08:52:00,puerto mallarino e7,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2014-05-09,valle,cali (ct),viernes,16:30:00,la flora e2,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2014-07-17,valle,cali (ct),jueves,10:35:00,san fernando nuevo e19,urbana,bancos,arma de fuego,pasajero motocicleta,a pie,76001000

@@ -1,0 +1,4 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2016-03-15,valle,cali (ct),martes,09:30:00,santa elena e10,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,54,masculino,union libre,colombia,empleado particular,,secundaria,76001000
+2016-08-03,valle,cali (ct),miercoles,03:00:00,santa elena e10,urbana,semaforo,arma de fuego,pasajero motocicleta,conductor vehiculo,26,masculino,union libre,colombia,empleado particular,,primaria,76001000
+2016-12-14,valle,cali (ct),miercoles,05:40:00,ciudad capri e17,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,39,masculino,soltero,colombia,empleado particular,,primaria,76001000

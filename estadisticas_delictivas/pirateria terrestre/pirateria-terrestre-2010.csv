@@ -1,0 +1,36 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2010-01-08,valle,cali (ct),viernes,06:10:00,san pascual e3,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-01-22,valle,cali (ct),viernes,20:15:00,la esmeralda e4,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-01-23,valle,cali (ct),sabado,04:30:00,terron colorado e1,urbana,vias publicas,arma de fuego,a pie,a pie,,,,,,,,76001000
+2010-01-28,valle,cali (ct),jueves,06:30:00,porvenir e4,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2010-02-08,valle,cali (ct),lunes,06:40:00,santa isabel e19,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2010-02-17,valle,cali (ct),miercoles,05:30:00,calima e4,urbana,,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-02-24,valle,cali (ct),miercoles,07:00:00,municipal e8,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2010-03-10,valle,cali (ct),miercoles,06:30:00,san fernando nuevo e19,urbana,,arma de fuego,conductor taxi,conductor vehiculo,,,,,,,,76001000
+2010-03-17,valle,cali (ct),miercoles,18:00:00,nueva floresta e12,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-03-26,valle,cali (ct),viernes,18:00:00,san marino e7,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-03-31,valle,cali (ct),miercoles,06:20:00,diamante e13,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-03-31,valle,cali (ct),miercoles,17:50:00,la flora e2,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2010-04-30,valle,cali (ct),viernes,06:30:00,santa anita e17,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2010-05-08,valle,cali (ct),sabado,16:45:00,villacolombia e8,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2010-05-14,valle,cali (ct),viernes,08:00:00,ciudadela floralia e6,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-05-14,valle,cali (ct),viernes,17:30:00,ciudad capri e17,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-06-10,valle,cali (ct),jueves,08:30:00,villa del lago e13,urbana,estaciones de servicio,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2010-06-15,valle,cali (ct),martes,10:00:00,calima e4,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-06-22,valle,cali (ct),martes,20:00:00,diamante e13,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2010-06-29,valle,cali (ct),martes,08:00:00,union de vivienda popular e16,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2010-07-06,valle,cali (ct),martes,16:00:00,santander e4,urbana,vias publicas,cortantes,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2010-07-08,valle,cali (ct),jueves,18:30:00,metropolitano del norte e5,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-07-09,valle,cali (ct),viernes,19:30:00,alfonso lopez i e7,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-07-30,valle,cali (ct),viernes,20:00:00,antonio narino e16,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-08-20,valle,cali (ct),viernes,18:00:00,san nicolas e3,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-09-03,valle,cali (ct),viernes,13:30:00,siloe e20,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-09-19,valle,cali (ct),domingo,07:00:00,ulpiano lloreda e13,urbana,vias publicas,contundentes,a pie,a pie,,,,,,,,76001000
+2010-10-05,valle,cali (ct),martes,20:00:00,mariano ramos e16,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-10-19,valle,cali (ct),martes,19:00:00,siete de agosto e7,urbana,vias publicas,arma de fuego,conductor taxi,conductor vehiculo,,,,,,,,76001000
+2010-10-22,valle,cali (ct),viernes,18:40:00,marroquin iii e13,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-10-24,valle,cali (ct),domingo,23:06:00,,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-11-23,valle,cali (ct),martes,20:00:00,alfonso lopez i e7,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-11-25,valle,cali (ct),jueves,06:20:00,alfonso lopez ii e7,urbana,,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2010-11-30,valle,cali (ct),martes,16:30:00,nueva floresta e12,urbana,vias publicas,arma de fuego,conductor taxi,conductor vehiculo,,,,,,,,76001000
+2010-12-10,valle,cali (ct),viernes,07:00:00,antonio narino e16,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000

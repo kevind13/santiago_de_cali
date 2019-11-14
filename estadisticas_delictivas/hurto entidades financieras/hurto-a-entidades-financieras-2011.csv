@@ -1,0 +1,10 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2011-01-20,valle,cali (ct),jueves,15:45:00,,urbana,bancos,arma de fuego,conductor motocicleta,a pie,76001000
+2011-01-31,valle,cali (ct),lunes,10:40:00,bolivariano e4,urbana,bancos,arma de fuego,conductor motocicleta,a pie,76001000
+2011-02-16,valle,cali (ct),miercoles,14:50:00,santa monica residencial e2,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2011-03-08,valle,cali (ct),martes,10:30:00,el troncal e8,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2011-05-11,valle,cali (ct),miercoles,18:55:00,santa monica residencial e2,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2011-05-19,valle,cali (ct),jueves,16:03:00,,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2011-07-22,valle,cali (ct),viernes,09:06:00,bretana e9,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2011-09-13,valle,cali (ct),martes,10:30:00,el troncal e8,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2011-10-11,valle,cali (ct),martes,15:33:00,el limonar e17,urbana,bancos,arma de fuego,a pie,a pie,76001000

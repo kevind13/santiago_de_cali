@@ -1,0 +1,5 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2010-06-10,valle,cali (ct),jueves,16:00:00,alameda e9,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2010-06-11,valle,cali (ct),viernes,10:41:00,popular e4,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2010-06-15,valle,cali (ct),martes,16:00:00,guayaquil e9,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2010-11-12,valle,cali (ct),viernes,11:00:00,guayaquil e9,urbana,bancos,arma de fuego,a pie,a pie,76001000

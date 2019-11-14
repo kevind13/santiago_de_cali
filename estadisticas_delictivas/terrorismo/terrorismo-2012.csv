@@ -1,0 +1,6 @@
+fecha,departamento,municipio,delito,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2012-01-31,valle,cali (ct),articulo 343. terrorismo,martes,13:40:00,san pedro e3,urbana,vias publicas,granada de mano,conductor taxi,a pie,76001000
+2012-05-24,valle,cali (ct),articulo 343. terrorismo,jueves,13:30:00,el cedro e19,urbana,vias publicas,granada de mano,a pie,a pie,76001000
+2012-07-28,valle,cali (ct),articulo 343. terrorismo,sabado,18:10:00,los cambulos e19,urbana,vias publicas,granada de mano,conductor motocicleta,a pie,76001000
+2012-08-31,valle,cali (ct),articulo 343. terrorismo,viernes,10:02:00,el refugio e19,urbana,vias publicas,artefacto explosivo/carga dinamita,a pie,a pie,76001000
+2012-11-03,valle,cali (ct),articulo 343. terrorismo,sabado,22:10:00,urb. ciudad jardin e22,urbana,instalaciones de la policia,artefacto explosivo/carga dinamita,a pie,a pie,76001000

@@ -1,0 +1,8 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,codigo_dane
+2017-01-18,valle,cali (ct),miercoles,16:11:00,ciudad capri e17,urbana,bancos,arma de fuego,pasajero motocicleta,a pie,76001000
+2017-02-14,valle,cali (ct),martes,15:00:00,versalles e2,urbana,bancos,sin empleo de armas,a pie,a pie,76001000
+2017-04-04,valle,cali (ct),martes,16:30:00,el cedro e19,urbana,bancos,arma de fuego,conductor motocicleta,a pie,76001000
+2017-04-28,valle,cali (ct),viernes,15:30:00,san fernando nuevo e19,urbana,bancos,arma de fuego,a pie,a pie,76001000
+2017-09-01,valle,cali (ct),viernes,15:45:00,brisas de los alamos e2,urbana,bancos,contundentes,a pie,a pie,76001000
+2017-10-27,valle,cali (ct),viernes,00:00:00,calima e4,urbana,bancos,sin empleo de armas,a pie,a pie,76001000
+2017-12-26,valle,cali (ct),martes,12:46:00,vipasa e2,urbana,bancos,arma de fuego,a pie,a pie,76001000

@@ -1,0 +1,7 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2013-03-07,valle,cali (ct),jueves,00:00:00,nueva floresta e12,urbana,vias publicas,arma de fuego,conductor motocicleta,conductor vehiculo,,,,,,,,76001000
+2013-03-27,valle,cali (ct),miercoles,03:40:00,terron colorado e1,urbana,vias publicas,arma de fuego,conductor taxi,conductor vehiculo,,,,,,,,76001000
+2013-08-16,valle,cali (ct),viernes,04:30:00,ciudad de los alamos e2,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2013-09-23,valle,cali (ct),lunes,06:00:00,,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2013-10-13,valle,cali (ct),domingo,14:00:00,colseguros andes e10,urbana,vias publicas,arma de fuego,conductor vehiculo,a pie,,,,,,,,76001000
+2013-10-26,valle,cali (ct),sabado,05:20:00,san pedro claver e11,urbana,semaforo,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000

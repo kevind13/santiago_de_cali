@@ -1,0 +1,9 @@
+fecha,departamento,municipio,dia,hora,barrio,zona,clase_de_sitio,arma_empleada,movil_agresor,movil_victima,edad,sexo,estado_civil,pais_de_nacimiento,clase_de_empleado,profesion,escolaridad,codigo_dane
+2011-01-18,valle,cali (ct),martes,04:00:00,,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2011-01-25,valle,cali (ct),martes,19:30:00,jose holguin garces e11,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2011-02-24,valle,cali (ct),jueves,09:00:00,nueva floresta e12,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2011-04-26,valle,cali (ct),martes,19:20:00,ciudad de los alamos e2,urbana,vias publicas,arma de fuego,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
+2011-05-30,valle,cali (ct),lunes,15:15:00,jose holguin garces e11,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2011-09-22,valle,cali (ct),jueves,14:00:00,,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,,,,,,,,76001000
+2011-11-11,valle,cali (ct),viernes,19:00:00,brisas de los alamos e2,urbana,vias publicas,arma de fuego,a pie,conductor vehiculo,40,masculino,union libre,colombia,empleado particular,,primaria,76001000
+2011-11-11,valle,cali (ct),viernes,13:15:00,el jardin e11,urbana,vias publicas,contundentes,conductor vehiculo,conductor vehiculo,,,,,,,,76001000
