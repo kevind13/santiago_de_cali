@@ -3,7 +3,7 @@ import os
 import glob
 import numpy as np
 
-# data source: https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva
+# data: https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva
 
 crime_type = 'lesiones personales'
 
